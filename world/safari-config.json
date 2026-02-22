@@ -1,0 +1,33 @@
+{
+  "sessionTimeMinutes": 30,
+  "initialSafariBalls": 25,
+  "carryOverSafariBalls": false,
+  "entrancePrice": 2500,
+  "pack16BallsPrice": 400,
+  "pack32BallsPrice": 750,
+  "pack64BallsPrice": 1400,
+  "maxBallsPurchasable": 20,
+  "timePurchaseMinutes": 30,
+  "timePurchasePrice": 1000,
+  "commonCatchRate": 0.45,
+  "uncommonCatchRate": 0.18,
+  "rareCatchRate": 0.1,
+  "ultraRareCatchRate": 0.05,
+  "dimensionSize": 2000,
+  "forceCustomSpawn": false,
+  "customSpawnX": 0.5,
+  "customSpawnY": 160.0,
+  "customSpawnZ": 0.5,
+  "safariSpawnY": 160,
+  "safariSpawnOffsetY": 3,
+  "allowedBiomes": [
+    "safari:safari_biome"
+  ],
+  "safariMinLevel": 5,
+  "safariMaxLevel": 30,
+  "entryTitle": "Safari Warning",
+  "entrySubtitle": "Leaving ends your session and remaining time",
+  "entryTitleFadeInTicks": 10,
+  "entryTitleStayTicks": 60,
+  "entryTitleFadeOutTicks": 10
+}

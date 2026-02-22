@@ -1,0 +1,11 @@
+{
+  "title":"",
+  "fillerMaterial": "cobblemon:capture_sherd",
+  "reloadMessage": "§aReloaded Configs",
+  "captureHuntBroadcast": "§l{player} completed the hunt for §l§e{pokemon}§l§f",
+  "payMessage": "",
+  "endedHuntMessage": "§5The hunt for {pokemon} has ended",
+  "newHuntMessage": "§5The hunt for {pokemon} has begun",
+  "reward": "§6Coins awarded if caught: §6",
+  "timeRemaining": "§8Time remaining: §3"
+}

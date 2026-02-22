@@ -1,0 +1,884 @@
+{
+  "startingBalance": 1000,
+  "startingPco": 0,
+  "battleVictoryReward": 100,
+  "captureReward": 100,
+  "newDiscoveryReward": 100,
+  "battleVictoryPcoReward": 10,
+  "shinyMultiplier": 5,
+  "legendaryMultiplier": 10,
+  "paradoxMultiplier": 3,
+  "shops": {
+
+    "karine": {
+      "title": "Karine",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:poke_ball",
+          "name": "Poké Ball",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:great_ball",
+          "name": "Super Ball",
+          "price": 600
+        },
+        {
+          "id": "cobblemon:ultra_ball",
+          "name": "Hyper Ball",
+          "price": 1200
+        },
+        {
+          "id": "cobblemon:potion",
+          "name": "Potion",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:super_potion",
+          "name": "Super Potion",
+          "price": 700
+        },
+        {
+          "id": "cobblemon:hyper_potion",
+          "name": "Hyper Potion",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:max_potion",
+          "name": "Max Potion",
+          "price": 2500
+        },
+        {
+          "id": "cobblemon:full_restore",
+          "name": "Full Restore",
+          "price": 3000
+        },
+        {
+          "id": "cobblemon:revive",
+          "name": "Revive",
+          "price": 2000
+        },
+        {
+          "id": "cobblemon:max_revive",
+          "name": "Max Revive",
+          "price": 4000
+        }
+      ]
+    },
+    "yoann": {
+      "title": "Yoann",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:medium_poke_bag",
+          "name": "Sac Moyen",
+          "price": 3000
+        },
+        {
+          "id": "cobblemon:large_poke_bag",
+          "name": "Sac Large",
+          "price": 5000
+        },
+        {
+          "id": "cobblemon:huge_poke_bag",
+          "name": "Sac Énorme",
+          "price": 8000
+        }
+      ]
+    },
+    "adeline": {
+      "title": "Adeline Do Rio Gomez",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "academy:ha_fossil",
+          "name": "Fossile HA",
+          "price": 4500
+        },
+        {
+          "id": "academy:shiny_fossil",
+          "name": "Fossile Chromatique",
+          "price": 9000
+        },
+        {
+          "id": "academy:radiant_fossil",
+          "name": "Fossile Radiant",
+          "price": 12000
+        },
+        {
+          "id": "academy:booster_pack",
+          "name": "Booster Pack",
+          "price": 6000
+        },
+        {
+          "id": "waystones:waystone",
+          "name": "Waystone",
+          "price": 5000
+        },
+        {
+          "id": "simpletms:tr_blank",
+          "name": "DT Vierge",
+          "price": 3000
+        },
+        {
+          "id": "simpletms:tm_blank",
+          "name": "CT Vierge",
+          "price": 9000
+        },
+        {
+          "id": "cobblemon:pokedex_red",
+          "name": "Pokédex",
+          "price": 1000
+        },
+        {
+          "id": "cobblenav:pokenav_item_base",
+          "name": "PokéNav",
+          "price": 6000
+        },
+        {
+          "id": "cobblenav:pokefinder_item_red",
+          "name": "PokéFinder",
+          "price": 6000
+        },
+        {
+          "id": "cobblenav:fishingnav_item",
+          "name": "PêcheNav",
+          "price": 6000
+        },
+        {
+          "id": "academy:card_album",
+          "name": "Album",
+          "price": 1000
+        },
+        {
+          "id": "naturescompass:naturescompass",
+          "name": "Boussole de Biomes",
+          "price": 6000
+        },
+        {
+          "id": "cobblemon:mega_bracelet",
+          "name": "Bracelet Mega",
+          "price": 8000
+        },
+        {
+          "id": "cobblemon:ability_capsule",
+          "name": "Pilule Talent",
+          "price": 12000
+        },
+        {
+          "id": "cobblemon:ability_patch",
+          "name": "Patch Talent",
+          "price": 25000
+        }
+      ]
+    },
+    "Quentin": {
+      "title": "Quentin",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "minecraft:oak_boat",
+          "name": "Bateau",
+          "price": 100
+        },
+        {
+          "id": "cobblemon:hearty_grains",
+          "name": "Riz Zélé",
+          "price": 2000
+        },
+        {
+          "id": "academy:slingshot",
+          "name": "Lance-Pierre (OS pokémon)",
+          "price": 100
+        },
+        {
+          "id": "fireworkcapsules:ball_capsule",
+          "name": "Capsule Ball",
+          "price": 1000
+        },
+        {
+          "id": "fireworkcapsules:bug_sticker",
+          "name": "Sticker : Insecte",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:dark_sticker",
+          "name": "Sticker : Ténèbres",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:dragon_sticker",
+          "name": "Sticker : Dragon",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:electric_sticker",
+          "name": "Sticker : Électrique",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:fighting_sticker",
+          "name": "Sticker : Combat",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:fire_sticker",
+          "name": "Sticker : Feu",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:flying_sticker",
+          "name": "Sticker : Vol",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:ghost_sticker",
+          "name": "Sticker : Spectre",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:grass_sticker",
+          "name": "Sticker : Plante",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:ground_sticker",
+          "name": "Sticker : Sol",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:ice_sticker",
+          "name": "Sticker : Glace",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:normal_sticker",
+          "name": "Sticker : Normal",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:poison_sticker",
+          "name": "Sticker : Poison",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:psychic_sticker",
+          "name": "Sticker : Psy",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:rock_sticker",
+          "name": "Sticker : Roche",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:steel_sticker",
+          "name": "Sticker : Acier",
+          "price": 400
+        },
+        {
+          "id": "fireworkcapsules:water_sticker",
+          "name": "Sticker : Eau",
+          "price": 400
+        }
+      ]
+    },
+
+
+
+
+    "ball_emporium": {
+      "title": "BALL EMPORIUM",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:poke_ball",
+          "name": "Poké Ball",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:great_ball",
+          "name": "Great Ball",
+          "price": 600
+        },
+        {
+          "id": "cobblemon:ultra_ball",
+          "name": "Ultra Ball",
+          "price": 1200
+        }
+      ]
+    },
+    "jeweler_buy": {
+      "title": "JEWELER - BUY",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "linkedShop": "jeweler",
+      "items": [
+        {
+          "id": "cobblemon:fire_stone",
+          "name": "Fire Stone",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:water_stone",
+          "name": "Water Stone",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:thunder_stone",
+          "name": "Thunder Stone",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:leaf_stone",
+          "name": "Leaf Stone",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:moon_stone",
+          "name": "Moon Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:sun_stone",
+          "name": "Sun Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:shiny_stone",
+          "name": "Shiny Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:dusk_stone",
+          "name": "Dusk Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:dawn_stone",
+          "name": "Dawn Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:ice_stone",
+          "name": "Ice Stone",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:oval_stone",
+          "name": "Oval Stone",
+          "price": 600
+        },
+        {
+          "id": "cobblemon:everstone",
+          "name": "Everstone",
+          "price": 400
+        }
+      ]
+    },
+    "apothecary": {
+      "title": "APOTHECARY",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "linkedShop": "apothecary_sell",
+      "linkedShopIcon": "cobblemon:potion",
+      "items": [
+        {
+          "id": "cobblemon:potion",
+          "name": "Potion",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:super_potion",
+          "name": "Super Potion",
+          "price": 700
+        },
+        {
+          "id": "cobblemon:hyper_potion",
+          "name": "Hyper Potion",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:max_potion",
+          "name": "Max Potion",
+          "price": 2500
+        },
+        {
+          "id": "cobblemon:full_restore",
+          "name": "Full Restore",
+          "price": 3000
+        },
+        {
+          "id": "cobblemon:revive",
+          "name": "Revive",
+          "price": 2000
+        },
+        {
+          "id": "cobblemon:max_revive",
+          "name": "Max Revive",
+          "price": 4000
+        },
+        {
+          "id": "cobblemon:antidote",
+          "name": "Antidote",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:paralyze_heal",
+          "name": "Parlyz Heal",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:awakening",
+          "name": "Awakening",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:burn_heal",
+          "name": "Burn Heal",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:ice_heal",
+          "name": "Ice Heal",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:full_heal",
+          "name": "Full Heal",
+          "price": 400
+        },
+        {
+          "id": "cobblemon:escape_rope",
+          "name": "Escape Rope",
+          "price": 300
+        }
+      ]
+    },
+    "jeweler": {
+      "title": "JEWELER",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": true,
+      "linkedShop": "jeweler_buy",
+      "items": [
+        {
+          "id": "minecraft:coal",
+          "name": "Coal",
+          "price": 2
+        },
+        {
+          "id": "minecraft:iron_ingot",
+          "name": "Iron Ingot",
+          "price": 10
+        },
+        {
+          "id": "minecraft:copper_ingot",
+          "name": "Copper Ingot",
+          "price": 5
+        },
+        {
+          "id": "minecraft:gold_ingot",
+          "name": "Gold Ingot",
+          "price": 25
+        },
+        {
+          "id": "minecraft:lapis_lazuli",
+          "name": "Lapis Lazuli",
+          "price": 15
+        },
+        {
+          "id": "minecraft:redstone",
+          "name": "Redstone",
+          "price": 5
+        },
+        {
+          "id": "minecraft:diamond",
+          "name": "Diamond",
+          "price": 150
+        },
+        {
+          "id": "minecraft:emerald",
+          "name": "Emerald",
+          "price": 100
+        },
+        {
+          "id": "minecraft:amethyst_shard",
+          "name": "Amethyst Shard",
+          "price": 20
+        },
+        {
+          "id": "minecraft:netherite_scrap",
+          "name": "Netherite Scrap",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:fire_stone",
+          "name": "Fire Stone",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:water_stone",
+          "name": "Water Stone",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:thunder_stone",
+          "name": "Thunder Stone",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:leaf_stone",
+          "name": "Leaf Stone",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:moon_stone",
+          "name": "Moon Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:sun_stone",
+          "name": "Sun Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:shiny_stone",
+          "name": "Shiny Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:dusk_stone",
+          "name": "Dusk Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:dawn_stone",
+          "name": "Dawn Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:ice_stone",
+          "name": "Ice Stone",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:oval_stone",
+          "name": "Oval Stone",
+          "price": 300
+        },
+        {
+          "id": "cobblemon:everstone",
+          "name": "Everstone",
+          "price": 200
+        }
+      ]
+    },
+    "default_poke": {
+      "title": "GENERAL SHOP",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:poke_ball",
+          "name": "Poké Ball",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:great_ball",
+          "name": "Great Ball",
+          "price": 600
+        },
+        {
+          "id": "cobblemon:ultra_ball",
+          "name": "Ultra Ball",
+          "price": 1200
+        },
+        {
+          "id": "cobblemon:potion",
+          "name": "Potion",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:super_potion",
+          "name": "Super Potion",
+          "price": 700
+        },
+        {
+          "id": "cobblemon:revive",
+          "name": "Revive",
+          "price": 2000
+        }
+      ]
+    },
+    "apothecary_sell": {
+      "title": "APOTHECARY - SELL",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": true,
+      "linkedShop": "apothecary",
+      "linkedShopIcon": "cobblemon:super_potion",
+      "items": [
+        {
+          "id": "cobblemon:potion",
+          "name": "Potion",
+          "price": 100
+        },
+        {
+          "id": "cobblemon:super_potion",
+          "name": "Super Potion",
+          "price": 350
+        },
+        {
+          "id": "cobblemon:hyper_potion",
+          "name": "Hyper Potion",
+          "price": 750
+        },
+        {
+          "id": "cobblemon:max_potion",
+          "name": "Max Potion",
+          "price": 1250
+        },
+        {
+          "id": "cobblemon:full_restore",
+          "name": "Full Restore",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:revive",
+          "name": "Revive",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:max_revive",
+          "name": "Max Revive",
+          "price": 2000
+        }
+      ]
+    },
+    "berry_gardener": {
+      "title": "BERRY GARDENER",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:oran_berry",
+          "name": "Oran Berry",
+          "price": 50
+        },
+        {
+          "id": "cobblemon:sitrus_berry",
+          "name": "Sitrus Berry",
+          "price": 150
+        },
+        {
+          "id": "cobblemon:lum_berry",
+          "name": "Lum Berry",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:leppa_berry",
+          "name": "Leppa Berry",
+          "price": 300
+        },
+        {
+          "id": "cobblemon:cheri_berry",
+          "name": "Cheri Berry",
+          "price": 100
+        },
+        {
+          "id": "cobblemon:pecha_berry",
+          "name": "Pecha Berry",
+          "price": 100
+        },
+        {
+          "id": "cobblemon:rawst_berry",
+          "name": "Rawst Berry",
+          "price": 100
+        }
+      ]
+    },
+    "surprise_shop": {
+      "title": "SURPRISE SHOP",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "minecraft:*",
+          "name": "Random Minecraft Item",
+          "price": 500
+        },
+        {
+          "id": "minecraft:*",
+          "name": "Random Minecraft Item",
+          "price": 500
+        },
+        {
+          "id": "cobblemon:*",
+          "name": "Random Cobblemon Item",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:*",
+          "name": "Random Cobblemon Item",
+          "price": 1000
+        }
+      ]
+    },
+    "black_market": {
+      "title": "BLACK MARKET",
+      "currency": "PCO",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "minecraft:black_shulker_box",
+          "name": "Suspicious Crate",
+          "price": 100,
+          "dropTable": [
+            "cobblemon:master_ball",
+            "cobblemon:rare_candy",
+            "cobblemon:ability_patch",
+            "minecraft:netherite_ingot",
+            "minecraft:diamond_block"
+          ],
+          "buyLimit": 3,
+          "buyCooldownMinutes": 1200
+        }
+      ]
+    },
+    "battle_rewards": {
+      "title": "BATTLE REWARDS",
+      "currency": "PCO",
+      "skin": "shopkeeper",
+      "isSellShop": false,
+      "items": [
+        {
+          "id": "cobblemon:rare_candy",
+          "name": "Rare Candy",
+          "price": 50,
+          "buyLimit": 3,
+          "buyCooldownMinutes": 1200
+        },
+        {
+          "id": "cobblemon:master_ball",
+          "name": "Master Ball",
+          "price": 500,
+          "buyLimit": 1,
+          "buyCooldownMinutes": 1440
+        },
+        {
+          "id": "cobblemon:choice_band",
+          "name": "Choice Band",
+          "price": 150
+        },
+        {
+          "id": "cobblemon:choice_specs",
+          "name": "Choice Specs",
+          "price": 150
+        },
+        {
+          "id": "cobblemon:choice_scarf",
+          "name": "Choice Scarf",
+          "price": 150
+        },
+        {
+          "id": "cobblemon:life_orb",
+          "name": "Life Orb",
+          "price": 200
+        },
+        {
+          "id": "cobblemon:assault_vest",
+          "name": "Assault Vest",
+          "price": 150
+        },
+        {
+          "id": "cobblemon:focus_sash",
+          "name": "Focus Sash",
+          "price": 100
+        },
+        {
+          "id": "academy:booster_pack",
+          "name": "Oui",
+          "price": 200,
+          "components": {
+            "academy:booster_pack": "\"base\""
+          }
+        },
+        {
+          "id": "cobblemon:ability_capsule",
+          "name": "Ability Capsule",
+          "price": 250
+        },
+        {
+          "id": "cobblemon:ability_patch",
+          "name": "Ability Patch",
+          "price": 1000,
+          "buyLimit": 1,
+          "buyCooldownMinutes": 720
+        }
+      ]
+    },
+    "vendeur": {
+      "title": "SEXY BOY",
+      "currency": "POKE",
+      "skin": "shopkeeper",
+      "isSellShop": true,
+      "linkedShop": "apothecary",
+      "linkedShopIcon": "cobblemon:super_potion",
+      "items": [
+        {
+          "id": "",
+          "name": "Bedrock",
+          "price": 8000
+        },
+        {
+          "id": "",
+          "name": "Super Potion",
+          "price": 4500
+        },
+        {
+          "id": "",
+          "name": "Hyper Potion",
+          "price": 100
+        },
+        {
+          "id": "cobblemon:max_potion",
+          "name": "Max Potion",
+          "price": 1250
+        },
+        {
+          "id": "cobblemon:full_restore",
+          "name": "Full Restore",
+          "price": 1500
+        },
+        {
+          "id": "cobblemon:revive",
+          "name": "Revive",
+          "price": 1000
+        },
+        {
+          "id": "cobblemon:max_revive",
+          "name": "Max Revive",
+          "price": 2000
+        }
+      ]
+    }
+  }
+}

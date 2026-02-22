@@ -1,0 +1,58 @@
+{
+  "version": "1.1.0",
+  "individualHunts": false,
+  "sendHuntEndMessage": false,
+  "sendHuntBeginMessage": false,
+  "timerCooldowns": true,
+  "bufferDuration": 5,
+  "huntDuration": 120,
+  "huntAmount": 14,
+  "rarity": {
+    "commonPokemonRarity": 7.0,
+    "uncommonPokemonRarity": 2.5,
+    "rarePokemonRarity": 0.3
+  },
+  "rewards": {
+    "common": {
+      "price": 300.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 3"
+      ]
+    },
+    "uncommon": {
+      "price": 500.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 5"
+      ]
+    },
+    "rare": {
+      "price": 1000.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 10"
+      ]
+    },
+    "ultraRare": {
+      "price": 3000.0,
+      "commands": [
+        "give {player} numismatic-overhaul:silver_coin 30"
+      ]
+    }
+  },
+  "matchProperties": {
+    "ability": false,
+    "gender": false,
+    "nature": false,
+    "shiny": false
+  },
+  "customPrices": [
+    {
+      "species": "ditto",
+      "form": "",
+      "price": 10000.0,
+      "commands": [
+        "give {player} numismatic-overhaul:gold_coin 1"
+      ]
+    }
+  ],
+  "blacklist": []
+}
