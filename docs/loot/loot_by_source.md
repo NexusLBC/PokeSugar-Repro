@@ -1,0 +1,1367 @@
+# Loot par type de source
+
+## chests (157)
+- `ati_structures:chests/aqua` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/aqua.json`
+- `ati_structures:chests/archer_chest` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/archer_chest.json`
+- `ati_structures:chests/archer_chest2` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/archer_chest2.json`
+- `ati_structures:chests/armory` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/armory.json`
+- `ati_structures:chests/coal_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/coal_storage.json`
+- `ati_structures:chests/construction` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/construction.json`
+- `ati_structures:chests/copper_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/copper_storage.json`
+- `ati_structures:chests/crafting` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/crafting.json`
+- `ati_structures:chests/food_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/food_storage.json`
+- `ati_structures:chests/gold_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/gold_storage.json`
+- `ati_structures:chests/ingredients` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/ingredients.json`
+- `ati_structures:chests/iron_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/iron_storage.json`
+- `ati_structures:chests/library` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/library.json`
+- `ati_structures:chests/mechanism_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/mechanism_storage.json`
+- `ati_structures:chests/minerals` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/minerals.json`
+- `ati_structures:chests/potion_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/potion_storage.json`
+- `ati_structures:chests/resources` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/resources.json`
+- `ati_structures:chests/slime` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/slime.json`
+- `ati_structures:chests/stone_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/stone_storage.json`
+- `ati_structures:chests/vegetation` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/vegetation.json`
+- `ati_structures:chests/wood_storage` (coffres de structures) — `datapacks/Academy/data/ati_structures/loot_table/chests/wood_storage.json`
+- `farmersdelight:chests/fd_abandoned_mineshaft` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_abandoned_mineshaft.json`
+- `farmersdelight:chests/fd_bastion_hoglin_stable` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_bastion_hoglin_stable.json`
+- `farmersdelight:chests/fd_bastion_treasure` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_bastion_treasure.json`
+- `farmersdelight:chests/fd_end_city_treasure` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_end_city_treasure.json`
+- `farmersdelight:chests/fd_pillager_outpost` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_pillager_outpost.json`
+- `farmersdelight:chests/fd_ruined_portal` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_ruined_portal.json`
+- `farmersdelight:chests/fd_shipwreck_supply` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_shipwreck_supply.json`
+- `farmersdelight:chests/fd_simple_dungeon` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_simple_dungeon.json`
+- `farmersdelight:chests/fd_village_butcher` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_butcher.json`
+- `farmersdelight:chests/fd_village_desert_house` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_desert_house.json`
+- `farmersdelight:chests/fd_village_plains_house` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_plains_house.json`
+- `farmersdelight:chests/fd_village_savanna_house` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_savanna_house.json`
+- `farmersdelight:chests/fd_village_snowy_house` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_snowy_house.json`
+- `farmersdelight:chests/fd_village_taiga_house` (coffres de structures) — `datapacks/Academy/data/farmersdelight/loot_table/chests/fd_village_taiga_house.json`
+- `hopo:chests/copper` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/copper.json`
+- `hopo:chests/coral` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/coral.json`
+- `hopo:chests/food` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/food.json`
+- `hopo:chests/materials` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/materials.json`
+- `hopo:chests/prismarine` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/prismarine.json`
+- `hopo:chests/small_ruin_cold` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/small_ruin_cold.json`
+- `hopo:chests/small_ruin_warm` (coffres de structures) — `datapacks/Academy/data/hopo/loot_table/chests/small_ruin_warm.json`
+- `minecraft:chests/abandoned_mineshaft` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/abandoned_mineshaft.json`
+- `minecraft:chests/ancient_city` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/ancient_city.json`
+- `minecraft:chests/ancient_city_ice_box` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/ancient_city_ice_box.json`
+- `minecraft:chests/bastion_bridge` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/bastion_bridge.json`
+- `minecraft:chests/bastion_hoglin_stable` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/bastion_hoglin_stable.json`
+- `minecraft:chests/bastion_other` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/bastion_other.json`
+- `minecraft:chests/bastion_treasure` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/bastion_treasure.json`
+- `minecraft:chests/buried_treasure` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/buried_treasure.json`
+- `minecraft:chests/desert_pyramid` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/desert_pyramid.json`
+- `minecraft:chests/end_city_treasure` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/end_city_treasure.json`
+- `minecraft:chests/end_city_treasure` (coffres de structures) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/chests/end_city_treasure.json`
+- `minecraft:chests/end_city_treasure` (coffres de structures) — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/chests/end_city_treasure.json`
+- `minecraft:chests/igloo_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/igloo_chest.json`
+- `minecraft:chests/illager_mansion/ancient_city_raid_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/ancient_city_raid_chest.json`
+- `minecraft:chests/illager_mansion/evoker_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/evoker_chest.json`
+- `minecraft:chests/illager_mansion/generic` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/generic.json`
+- `minecraft:chests/illager_mansion/kitchen` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/kitchen.json`
+- `minecraft:chests/illager_mansion/library_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/library_chest.json`
+- `minecraft:chests/illager_mansion/map_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/map_chest.json`
+- `minecraft:chests/illager_mansion/pillager_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/pillager_chest.json`
+- `minecraft:chests/illager_mansion/ravager_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/ravager_chest.json`
+- `minecraft:chests/illager_mansion/secret_room` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/secret_room.json`
+- `minecraft:chests/illager_mansion/smithing_room` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/smithing_room.json`
+- `minecraft:chests/illager_mansion/vindicator_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/vindicator_chest.json`
+- `minecraft:chests/illager_mansion/witch_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/witch_chest.json`
+- `minecraft:chests/illager_mansion/wool` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/illager_mansion/wool.json`
+- `minecraft:chests/jungle_temple` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/jungle_temple.json`
+- `minecraft:chests/jungle_temple_dispenser` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/jungle_temple_dispenser.json`
+- `minecraft:chests/mansion_books` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/mansion_books.json`
+- `minecraft:chests/mansion_junk` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/mansion_junk.json`
+- `minecraft:chests/nether_bridge` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/nether_bridge.json`
+- `minecraft:chests/pillager_outpost` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/pillager_outpost.json`
+- `minecraft:chests/ruined_portal` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/ruined_portal.json`
+- `minecraft:chests/shipwreck_map` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/shipwreck_map.json`
+- `minecraft:chests/shipwreck_supply` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/shipwreck_supply.json`
+- `minecraft:chests/shipwreck_treasure` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/shipwreck_treasure.json`
+- `minecraft:chests/simple_dungeon` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/simple_dungeon.json`
+- `minecraft:chests/spawn_bonus_chest` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/spawn_bonus_chest.json`
+- `minecraft:chests/stronghold_corridor` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/stronghold_corridor.json`
+- `minecraft:chests/stronghold_crossing` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/stronghold_crossing.json`
+- `minecraft:chests/stronghold_library` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/stronghold_library.json`
+- `minecraft:chests/trial_chambers/corridor` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/corridor.json`
+- `minecraft:chests/trial_chambers/entrance` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/entrance.json`
+- `minecraft:chests/trial_chambers/intersection` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/intersection.json`
+- `minecraft:chests/trial_chambers/intersection_barrel` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json`
+- `minecraft:chests/trial_chambers/reward` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward.json`
+- `minecraft:chests/trial_chambers/reward_common` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_common.json`
+- `minecraft:chests/trial_chambers/reward_ominous` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_ominous.json`
+- `minecraft:chests/trial_chambers/reward_ominous_common` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_common.json`
+- `minecraft:chests/trial_chambers/reward_ominous_rare` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json`
+- `minecraft:chests/trial_chambers/reward_ominous_unique` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_unique.json`
+- `minecraft:chests/trial_chambers/reward_rare` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json`
+- `minecraft:chests/trial_chambers/reward_unique` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/reward_unique.json`
+- `minecraft:chests/trial_chambers/supply` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/trial_chambers/supply.json`
+- `minecraft:chests/underwater_ruin_big` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/underwater_ruin_big.json`
+- `minecraft:chests/underwater_ruin_small` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/underwater_ruin_small.json`
+- `minecraft:chests/village/village_armorer` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_armorer.json`
+- `minecraft:chests/village/village_butcher` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_butcher.json`
+- `minecraft:chests/village/village_cartographer` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_cartographer.json`
+- `minecraft:chests/village/village_desert_house` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_desert_house.json`
+- `minecraft:chests/village/village_fisher` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_fisher.json`
+- `minecraft:chests/village/village_fletcher` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_fletcher.json`
+- `minecraft:chests/village/village_mason` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_mason.json`
+- `minecraft:chests/village/village_plains_house` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_plains_house.json`
+- `minecraft:chests/village/village_savanna_house` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_savanna_house.json`
+- `minecraft:chests/village/village_shepherd` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_shepherd.json`
+- `minecraft:chests/village/village_snowy_house` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_snowy_house.json`
+- `minecraft:chests/village/village_taiga_house` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_taiga_house.json`
+- `minecraft:chests/village/village_tannery` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_tannery.json`
+- `minecraft:chests/village/village_temple` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_temple.json`
+- `minecraft:chests/village/village_toolsmith` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_toolsmith.json`
+- `minecraft:chests/village/village_weaponsmith` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/village/village_weaponsmith.json`
+- `minecraft:chests/woodland_mansion` (coffres de structures) — `datapacks/Academy/data/minecraft/loot_table/chests/woodland_mansion.json`
+- `mns:chests/houses` (coffres de structures) — `datapacks/Academy/data/mns/loot_table/chests/houses.json`
+- `mns:chests/treasure` (coffres de structures) — `datapacks/Academy/data/mns/loot_table/chests/treasure.json`
+- `mns:chests/uncommon` (coffres de structures) — `datapacks/Academy/data/mns/loot_table/chests/uncommon.json`
+- `nova_structures:chests/badland_miner_outpost` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/badland_miner_outpost.json`
+- `nova_structures:chests/badland_miner_outpost_forge` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/badland_miner_outpost_forge.json`
+- `nova_structures:chests/badland_miner_outpost_towers` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/badland_miner_outpost_towers.json`
+- `nova_structures:chests/desert_ruins/desert_ruin_grave` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_grave.json`
+- `nova_structures:chests/desert_ruins/desert_ruin_house` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_house.json`
+- `nova_structures:chests/desert_ruins/desert_ruin_lesser_treasure` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_lesser_treasure.json`
+- `nova_structures:chests/desert_ruins/desert_ruin_main_temple` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_main_temple.json`
+- `nova_structures:chests/dungeon_1` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_1.json`
+- `nova_structures:chests/dungeon_2` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_2.json`
+- `nova_structures:chests/dungeon_3` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_3.json`
+- `nova_structures:chests/dungeon_4` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_4.json`
+- `nova_structures:chests/dungeon_5` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_5.json`
+- `nova_structures:chests/dungeon_6` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_6.json`
+- `nova_structures:chests/dungeon_7` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/dungeon_7.json`
+- `nova_structures:chests/food_supply` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/food_supply.json`
+- `nova_structures:chests/illager_camp` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_camp.json`
+- `nova_structures:chests/illager_hideout_brewing` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_brewing.json`
+- `nova_structures:chests/illager_hideout_fishing` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_fishing.json`
+- `nova_structures:chests/illager_hideout_heart_loot` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_heart_loot.json`
+- `nova_structures:chests/illager_hideout_lesser_tresure` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_lesser_tresure.json`
+- `nova_structures:chests/illager_hideout_library` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_library.json`
+- `nova_structures:chests/illager_hideout_meat` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_meat.json`
+- `nova_structures:chests/illager_hideout_random` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_random.json`
+- `nova_structures:chests/illager_hideout_raw_ores` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_raw_ores.json`
+- `nova_structures:chests/illager_hideout_trash` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_trash.json`
+- `nova_structures:chests/illager_hideout_tresure` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_tresure.json`
+- `nova_structures:chests/illager_hideout_utility` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_utility.json`
+- `nova_structures:chests/illager_hideout_vegitarian` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_vegitarian.json`
+- `nova_structures:chests/illager_hideout_weaponry` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/illager_hideout_weaponry.json`
+- `nova_structures:chests/jungle_ruins/jungle_ruins_house` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/jungle_ruins/jungle_ruins_house.json`
+- `nova_structures:chests/jungle_ruins/jungle_ruins_main_temple` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/jungle_ruins/jungle_ruins_main_temple.json`
+- `nova_structures:chests/jungle_ruins/jungle_ruins_main_temple_wild` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/jungle_ruins/jungle_ruins_main_temple_wild.json`
+- `nova_structures:chests/mangrove_witchhud` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/mangrove_witchhud.json`
+- `nova_structures:chests/mining_supply` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/mining_supply.json`
+- `nova_structures:chests/pillager_outpost_kitchen` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/pillager_outpost_kitchen.json`
+- `nova_structures:chests/pillager_outpost_treasure` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/pillager_outpost_treasure.json`
+- `nova_structures:chests/ruin_loot_master` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/ruin_loot_master.json`
+- `nova_structures:chests/undead_crypts_grave` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/undead_crypts_grave.json`
+- `nova_structures:chests/water_supply` (coffres de structures) — `datapacks/Academy/data/nova_structures/loot_table/chests/water_supply.json`
+
+## blocks (4)
+- `minecraft:blocks/chorus_flower` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/blocks/chorus_flower.json`
+- `minecraft:blocks/chorus_flower` — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/blocks/chorus_flower.json`
+- `minecraft:blocks/chorus_plant` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/blocks/chorus_plant.json`
+- `minecraft:blocks/chorus_plant` — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/blocks/chorus_plant.json`
+
+## entities (6)
+- `minecraft:entities/enderman` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/entities/enderman.json`
+- `minecraft:entities/enderman` — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/entities/enderman.json`
+- `minecraft:entities/phantom` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/entities/phantom.json`
+- `minecraft:entities/phantom` — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/entities/phantom.json`
+- `minecraft:entities/shulker` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/minecraft/loot_table/entities/shulker.json`
+- `minecraft:entities/shulker` — `datapacks/stellarity_lite_3.0.5.6/data/minecraft/loot_table/entities/shulker.json`
+
+## gameplay (21)
+- `minecraft:gameplay/cat_morning_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/cat_morning_gift.json`
+- `minecraft:gameplay/fishing` — `datapacks/Academy/data/minecraft/loot_table/gameplay/fishing.json`
+- `minecraft:gameplay/fishing/fish` — `datapacks/Academy/data/minecraft/loot_table/gameplay/fishing/fish.json`
+- `minecraft:gameplay/fishing/junk` — `datapacks/Academy/data/minecraft/loot_table/gameplay/fishing/junk.json`
+- `minecraft:gameplay/fishing/treasure` — `datapacks/Academy/data/minecraft/loot_table/gameplay/fishing/treasure.json`
+- `minecraft:gameplay/hero_of_the_village/armorer_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/armorer_gift.json`
+- `minecraft:gameplay/hero_of_the_village/butcher_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/butcher_gift.json`
+- `minecraft:gameplay/hero_of_the_village/cartographer_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/cartographer_gift.json`
+- `minecraft:gameplay/hero_of_the_village/cleric_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/cleric_gift.json`
+- `minecraft:gameplay/hero_of_the_village/farmer_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/farmer_gift.json`
+- `minecraft:gameplay/hero_of_the_village/fisherman_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/fisherman_gift.json`
+- `minecraft:gameplay/hero_of_the_village/fletcher_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/fletcher_gift.json`
+- `minecraft:gameplay/hero_of_the_village/leatherworker_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/leatherworker_gift.json`
+- `minecraft:gameplay/hero_of_the_village/librarian_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/librarian_gift.json`
+- `minecraft:gameplay/hero_of_the_village/mason_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/mason_gift.json`
+- `minecraft:gameplay/hero_of_the_village/shepherd_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/shepherd_gift.json`
+- `minecraft:gameplay/hero_of_the_village/toolsmith_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/toolsmith_gift.json`
+- `minecraft:gameplay/hero_of_the_village/weaponsmith_gift` — `datapacks/Academy/data/minecraft/loot_table/gameplay/hero_of_the_village/weaponsmith_gift.json`
+- `minecraft:gameplay/panda_sneeze` — `datapacks/Academy/data/minecraft/loot_table/gameplay/panda_sneeze.json`
+- `minecraft:gameplay/piglin_bartering` — `datapacks/Academy/data/minecraft/loot_table/gameplay/piglin_bartering.json`
+- `minecraft:gameplay/sniffer_digging` — `datapacks/Academy/data/minecraft/loot_table/gameplay/sniffer_digging.json`
+
+## archaeology (2)
+- `hopo:archaeology/small_ruins` — `datapacks/Academy/data/hopo/loot_table/archaeology/small_ruins.json`
+- `hopo:archaeology/warm_small_ruins` — `datapacks/Academy/data/hopo/loot_table/archaeology/warm_small_ruins.json`
+
+## pots (3)
+- `hopo:pots/underwater_ruins/small_ruins` — `datapacks/Academy/data/hopo/loot_table/pots/underwater_ruins/small_ruins.json`
+- `minecraft:pots/trial_chambers/corridor` — `datapacks/Academy/data/minecraft/loot_table/pots/trial_chambers/corridor.json`
+- `nova_structures:pots/pot_jungle_ruin` — `datapacks/Academy/data/nova_structures/loot_table/pots/pot_jungle_ruin.json`
+
+## dispensers (3)
+- `minecraft:dispensers/trial_chambers/chamber` — `datapacks/Academy/data/minecraft/loot_table/dispensers/trial_chambers/chamber.json`
+- `minecraft:dispensers/trial_chambers/corridor` — `datapacks/Academy/data/minecraft/loot_table/dispensers/trial_chambers/corridor.json`
+- `minecraft:dispensers/trial_chambers/water` — `datapacks/Academy/data/minecraft/loot_table/dispensers/trial_chambers/water.json`
+
+## equipment (3)
+- `minecraft:equipment/trial_chamber` — `datapacks/Academy/data/minecraft/loot_table/equipment/trial_chamber.json`
+- `minecraft:equipment/trial_chamber_melee` — `datapacks/Academy/data/minecraft/loot_table/equipment/trial_chamber_melee.json`
+- `minecraft:equipment/trial_chamber_ranged` — `datapacks/Academy/data/minecraft/loot_table/equipment/trial_chamber_ranged.json`
+
+## villager (28)
+- `stellarity:villager/cleric/3/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/cleric/3/1.json`
+- `stellarity:villager/cleric/3/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/cleric/3/1.json`
+- `stellarity:villager/cleric/4/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/cleric/4/2.json`
+- `stellarity:villager/cleric/4/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/cleric/4/2.json`
+- `stellarity:villager/cleric/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/cleric/5/1.json`
+- `stellarity:villager/cleric/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/cleric/5/1.json`
+- `stellarity:villager/fisherman/2/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/fisherman/2/1.json`
+- `stellarity:villager/fisherman/2/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/fisherman/2/1.json`
+- `stellarity:villager/fisherman/3/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/fisherman/3/2.json`
+- `stellarity:villager/fisherman/3/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/fisherman/3/2.json`
+- `stellarity:villager/leatherworker/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/leatherworker/5/1.json`
+- `stellarity:villager/leatherworker/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/leatherworker/5/1.json`
+- `stellarity:villager/librarian/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/librarian/5/1.json`
+- `stellarity:villager/librarian/5/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/librarian/5/1.json`
+- `stellarity:villager/mason/4/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/mason/4/1.json`
+- `stellarity:villager/mason/4/1` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/mason/4/1.json`
+- `stellarity:villager/mason/4/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/mason/4/2.json`
+- `stellarity:villager/mason/4/2` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/mason/4/2.json`
+- `stellarity:villager/shepherd/banner` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/shepherd/banner.json`
+- `stellarity:villager/shepherd/banner` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/shepherd/banner.json`
+- `stellarity:villager/shepherd/bed` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/shepherd/bed.json`
+- `stellarity:villager/shepherd/bed` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/shepherd/bed.json`
+- `stellarity:villager/shepherd/carpet` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/shepherd/carpet.json`
+- `stellarity:villager/shepherd/carpet` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/shepherd/carpet.json`
+- `stellarity:villager/shepherd/dye` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/shepherd/dye.json`
+- `stellarity:villager/shepherd/dye` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/shepherd/dye.json`
+- `stellarity:villager/shepherd/wool` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/villager/shepherd/wool.json`
+- `stellarity:villager/shepherd/wool` (tables liées aux métiers/échanges) — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/villager/shepherd/wool.json`
+
+## injection (17)
+- `cobblemon:injection/chests/abandoned_mineshaft` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/abandoned_mineshaft.json`
+- `cobblemon:injection/chests/ancient_city` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/ancient_city.json`
+- `cobblemon:injection/chests/bastion_bridge` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/bastion_bridge.json`
+- `cobblemon:injection/chests/bastion_hoglin_stable` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/bastion_hoglin_stable.json`
+- `cobblemon:injection/chests/bastion_other` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/bastion_other.json`
+- `cobblemon:injection/chests/bastion_treasure` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/bastion_treasure.json`
+- `cobblemon:injection/chests/end_city_treasure` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/end_city_treasure.json`
+- `cobblemon:injection/chests/igloo_chest` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/igloo_chest.json`
+- `cobblemon:injection/chests/jungle_temple` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/jungle_temple.json`
+- `cobblemon:injection/chests/nether_bridge` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/nether_bridge.json`
+- `cobblemon:injection/chests/pillager_outpost` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/pillager_outpost.json`
+- `cobblemon:injection/chests/shipwreck_supply` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/shipwreck_supply.json`
+- `cobblemon:injection/chests/simple_dungeon` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/simple_dungeon.json`
+- `cobblemon:injection/chests/spawn_bonus_chest` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/spawn_bonus_chest.json`
+- `cobblemon:injection/chests/stronghold_corridor` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/stronghold_corridor.json`
+- `cobblemon:injection/chests/village_house` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/village_house.json`
+- `cobblemon:injection/chests/woodland_mansion` — `datapacks/Academy/data/cobblemon/loot_table/injection/chests/woodland_mansion.json`
+
+## Catégories custom (924)
+### `custom/abandoned` (3)
+- `mes:abandoned` — `datapacks/Academy/data/mes/loot_table/abandoned.json`
+- `mss:abandoned` — `datapacks/Academy/data/mss/loot_table/abandoned.json`
+- `mvs:abandoned` — `datapacks/Academy/data/mvs/loot_table/abandoned.json`
+
+### `custom/academy` (5)
+- `academy:academy/booster_pack` — `datapacks/Academy/data/academy/loot_table/academy/booster_pack.json`
+- `academy:academy/roasted_berries` — `datapacks/Academy/data/academy/loot_table/academy/roasted_berries.json`
+- `academy:academy/roasted_berries_greater` — `datapacks/Academy/data/academy/loot_table/academy/roasted_berries_greater.json`
+- `academy:academy/safari_ticket` — `datapacks/Academy/data/academy/loot_table/academy/safari_ticket.json`
+- `academy:academy/smoked_apricorn` — `datapacks/Academy/data/academy/loot_table/academy/smoked_apricorn.json`
+
+### `custom/advancements` (10)
+- `academy:advancements/booster_pack` — `datapacks/Academy/data/academy/loot_table/advancements/booster_pack.json`
+- `academy:advancements/enter_gym_potions` — `datapacks/Academy/data/academy/loot_table/advancements/enter_gym_potions.json`
+- `academy:advancements/root` — `datapacks/Academy/data/academy/loot_table/advancements/root.json`
+- `academy:advancements/root_black` — `datapacks/Academy/data/academy/loot_table/advancements/root_black.json`
+- `academy:advancements/root_blue` — `datapacks/Academy/data/academy/loot_table/advancements/root_blue.json`
+- `academy:advancements/root_green` — `datapacks/Academy/data/academy/loot_table/advancements/root_green.json`
+- `academy:advancements/root_pink` — `datapacks/Academy/data/academy/loot_table/advancements/root_pink.json`
+- `academy:advancements/root_red` — `datapacks/Academy/data/academy/loot_table/advancements/root_red.json`
+- `academy:advancements/root_white` — `datapacks/Academy/data/academy/loot_table/advancements/root_white.json`
+- `academy:advancements/root_yellow` — `datapacks/Academy/data/academy/loot_table/advancements/root_yellow.json`
+
+### `custom/arena` (1)
+- `mss:arena` — `datapacks/Academy/data/mss/loot_table/arena.json`
+
+### `custom/basic` (10)
+- `academy:basic/t0` — `datapacks/Academy/data/academy/loot_table/basic/t0.json`
+- `academy:basic/t1` — `datapacks/Academy/data/academy/loot_table/basic/t1.json`
+- `academy:basic/t2` — `datapacks/Academy/data/academy/loot_table/basic/t2.json`
+- `academy:basic/t3` — `datapacks/Academy/data/academy/loot_table/basic/t3.json`
+- `academy:basic/t4` — `datapacks/Academy/data/academy/loot_table/basic/t4.json`
+- `academy:basic/t5` — `datapacks/Academy/data/academy/loot_table/basic/t5.json`
+- `academy:basic/t6` — `datapacks/Academy/data/academy/loot_table/basic/t6.json`
+- `academy:basic/t7` — `datapacks/Academy/data/academy/loot_table/basic/t7.json`
+- `academy:basic/t8` — `datapacks/Academy/data/academy/loot_table/basic/t8.json`
+- `academy:basic/t9` — `datapacks/Academy/data/academy/loot_table/basic/t9.json`
+
+### `custom/basic_gym` (11)
+- `academy:basic_gym/t0` — `datapacks/Academy/data/academy/loot_table/basic_gym/t0.json`
+- `academy:basic_gym/t1` — `datapacks/Academy/data/academy/loot_table/basic_gym/t1.json`
+- `academy:basic_gym/t10` — `datapacks/Academy/data/academy/loot_table/basic_gym/t10.json`
+- `academy:basic_gym/t2` — `datapacks/Academy/data/academy/loot_table/basic_gym/t2.json`
+- `academy:basic_gym/t3` — `datapacks/Academy/data/academy/loot_table/basic_gym/t3.json`
+- `academy:basic_gym/t4` — `datapacks/Academy/data/academy/loot_table/basic_gym/t4.json`
+- `academy:basic_gym/t5` — `datapacks/Academy/data/academy/loot_table/basic_gym/t5.json`
+- `academy:basic_gym/t6` — `datapacks/Academy/data/academy/loot_table/basic_gym/t6.json`
+- `academy:basic_gym/t7` — `datapacks/Academy/data/academy/loot_table/basic_gym/t7.json`
+- `academy:basic_gym/t8` — `datapacks/Academy/data/academy/loot_table/basic_gym/t8.json`
+- `academy:basic_gym/t9` — `datapacks/Academy/data/academy/loot_table/basic_gym/t9.json`
+
+### `custom/basic_trials` (6)
+- `academy:basic_trials/common_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/common_t1.json`
+- `academy:basic_trials/ominous_common_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/ominous_common_t1.json`
+- `academy:basic_trials/ominous_rare_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/ominous_rare_t1.json`
+- `academy:basic_trials/ominous_unique_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/ominous_unique_t1.json`
+- `academy:basic_trials/rare_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/rare_t1.json`
+- `academy:basic_trials/unique_t1` — `datapacks/Academy/data/academy/loot_table/basic_trials/unique_t1.json`
+
+### `custom/basic_underground` (10)
+- `academy:basic_underground/t0` — `datapacks/Academy/data/academy/loot_table/basic_underground/t0.json`
+- `academy:basic_underground/t1` — `datapacks/Academy/data/academy/loot_table/basic_underground/t1.json`
+- `academy:basic_underground/t2` — `datapacks/Academy/data/academy/loot_table/basic_underground/t2.json`
+- `academy:basic_underground/t3` — `datapacks/Academy/data/academy/loot_table/basic_underground/t3.json`
+- `academy:basic_underground/t4` — `datapacks/Academy/data/academy/loot_table/basic_underground/t4.json`
+- `academy:basic_underground/t5` — `datapacks/Academy/data/academy/loot_table/basic_underground/t5.json`
+- `academy:basic_underground/t6` — `datapacks/Academy/data/academy/loot_table/basic_underground/t6.json`
+- `academy:basic_underground/t7` — `datapacks/Academy/data/academy/loot_table/basic_underground/t7.json`
+- `academy:basic_underground/t8` — `datapacks/Academy/data/academy/loot_table/basic_underground/t8.json`
+- `academy:basic_underground/t9` — `datapacks/Academy/data/academy/loot_table/basic_underground/t9.json`
+
+### `custom/campsite` (8)
+- `stellarity:campsite/food` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/campsite/food.json`
+- `stellarity:campsite/food` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/campsite/food.json`
+- `stellarity:campsite/tent` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/campsite/tent.json`
+- `stellarity:campsite/tent` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/campsite/tent.json`
+- `stellarity:campsite/tent_2` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/campsite/tent_2.json`
+- `stellarity:campsite/tent_2` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/campsite/tent_2.json`
+- `stellarity:campsite/trash` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/campsite/trash.json`
+- `stellarity:campsite/trash` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/campsite/trash.json`
+
+### `custom/cart` (3)
+- `mes:cart` — `datapacks/Academy/data/mes/loot_table/cart.json`
+- `mss:cart` — `datapacks/Academy/data/mss/loot_table/cart.json`
+- `mvs:cart` — `datapacks/Academy/data/mvs/loot_table/cart.json`
+
+### `custom/cartographer_tower` (3)
+- `mes:cartographer_tower` — `datapacks/Academy/data/mes/loot_table/cartographer_tower.json`
+- `mss:cartographer_tower` — `datapacks/Academy/data/mss/loot_table/cartographer_tower.json`
+- `mvs:cartographer_tower` — `datapacks/Academy/data/mvs/loot_table/cartographer_tower.json`
+
+### `custom/cathedral_base` (3)
+- `mes:cathedral_base` — `datapacks/Academy/data/mes/loot_table/cathedral_base.json`
+- `mss:cathedral_base` — `datapacks/Academy/data/mss/loot_table/cathedral_base.json`
+- `mvs:cathedral_base` — `datapacks/Academy/data/mvs/loot_table/cathedral_base.json`
+
+### `custom/cathedral_common` (3)
+- `mes:cathedral_common` — `datapacks/Academy/data/mes/loot_table/cathedral_common.json`
+- `mss:cathedral_common` — `datapacks/Academy/data/mss/loot_table/cathedral_common.json`
+- `mvs:cathedral_common` — `datapacks/Academy/data/mvs/loot_table/cathedral_common.json`
+
+### `custom/cathedral_rare` (3)
+- `mes:cathedral_rare` — `datapacks/Academy/data/mes/loot_table/cathedral_rare.json`
+- `mss:cathedral_rare` — `datapacks/Academy/data/mss/loot_table/cathedral_rare.json`
+- `mvs:cathedral_rare` — `datapacks/Academy/data/mvs/loot_table/cathedral_rare.json`
+
+### `custom/chapel` (6)
+- `stellarity:chapel/equipment` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/chapel/equipment.json`
+- `stellarity:chapel/equipment` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/chapel/equipment.json`
+- `stellarity:chapel/garden` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/chapel/garden.json`
+- `stellarity:chapel/garden` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/chapel/garden.json`
+- `stellarity:chapel/pot` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/chapel/pot.json`
+- `stellarity:chapel/pot` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/chapel/pot.json`
+
+### `custom/cobblemon` (36)
+- `academy:cobblemon/apricorns` — `datapacks/Academy/data/academy/loot_table/cobblemon/apricorns.json`
+- `academy:cobblemon/apricornseeds` — `datapacks/Academy/data/academy/loot_table/cobblemon/apricornseeds.json`
+- `academy:cobblemon/aprijuice` — `datapacks/Academy/data/academy/loot_table/cobblemon/aprijuice.json`
+- `academy:cobblemon/berries` — `datapacks/Academy/data/academy/loot_table/cobblemon/berries.json`
+- `academy:cobblemon/candy_t0` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t0.json`
+- `academy:cobblemon/candy_t1` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t1.json`
+- `academy:cobblemon/candy_t2` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t2.json`
+- `academy:cobblemon/candy_t3` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t3.json`
+- `academy:cobblemon/candy_t4` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t4.json`
+- `academy:cobblemon/candy_t5` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t5.json`
+- `academy:cobblemon/candy_t6` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t6.json`
+- `academy:cobblemon/candy_t7` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t7.json`
+- `academy:cobblemon/candy_t8` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t8.json`
+- `academy:cobblemon/candy_t9` — `datapacks/Academy/data/academy/loot_table/cobblemon/candy_t9.json`
+- `academy:cobblemon/evfeathers` — `datapacks/Academy/data/academy/loot_table/cobblemon/evfeathers.json`
+- `academy:cobblemon/evfeathers_greater` — `datapacks/Academy/data/academy/loot_table/cobblemon/evfeathers_greater.json`
+- `academy:cobblemon/evoitems` — `datapacks/Academy/data/academy/loot_table/cobblemon/evoitems.json`
+- `academy:cobblemon/evostones` — `datapacks/Academy/data/academy/loot_table/cobblemon/evostones.json`
+- `academy:cobblemon/evosweets` — `datapacks/Academy/data/academy/loot_table/cobblemon/evosweets.json`
+- `academy:cobblemon/fossils` — `datapacks/Academy/data/academy/loot_table/cobblemon/fossils.json`
+- `academy:cobblemon/gems` — `datapacks/Academy/data/academy/loot_table/cobblemon/gems.json`
+- `academy:cobblemon/helditems` — `datapacks/Academy/data/academy/loot_table/cobblemon/helditems.json`
+- `academy:cobblemon/ivcandy` — `datapacks/Academy/data/academy/loot_table/cobblemon/ivcandy.json`
+- `academy:cobblemon/medicine` — `datapacks/Academy/data/academy/loot_table/cobblemon/medicine.json`
+- `academy:cobblemon/mints` — `datapacks/Academy/data/academy/loot_table/cobblemon/mints.json`
+- `academy:cobblemon/mochi` — `datapacks/Academy/data/academy/loot_table/cobblemon/mochi.json`
+- `academy:cobblemon/mulch` — `datapacks/Academy/data/academy/loot_table/cobblemon/mulch.json`
+- `academy:cobblemon/pokeballmaterials_t1` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballmaterials_t1.json`
+- `academy:cobblemon/pokeballmaterials_t2` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballmaterials_t2.json`
+- `academy:cobblemon/pokeballmaterials_t3` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballmaterials_t3.json`
+- `academy:cobblemon/pokeballmaterials_t4` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballmaterials_t4.json`
+- `academy:cobblemon/pokeballs_t1` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballs_t1.json`
+- `academy:cobblemon/pokeballsancient_t1` — `datapacks/Academy/data/academy/loot_table/cobblemon/pokeballsancient_t1.json`
+- `academy:cobblemon/tumblestones` — `datapacks/Academy/data/academy/loot_table/cobblemon/tumblestones.json`
+- `academy:cobblemon/vitamins` — `datapacks/Academy/data/academy/loot_table/cobblemon/vitamins.json`
+- `academy:cobblemon/xitems` — `datapacks/Academy/data/academy/loot_table/cobblemon/xitems.json`
+
+### `custom/convenientdecor` (1)
+- `academy:convenientdecor/umbrellas` — `datapacks/Academy/data/academy/loot_table/convenientdecor/umbrellas.json`
+
+### `custom/crystal` (3)
+- `mes:crystal` — `datapacks/Academy/data/mes/loot_table/crystal.json`
+- `mss:crystal` — `datapacks/Academy/data/mss/loot_table/crystal.json`
+- `mvs:crystal` — `datapacks/Academy/data/mvs/loot_table/crystal.json`
+
+### `custom/desert_ruin_archaeology` (4)
+- `stellarity:desert_ruin_archaeology/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/desert_ruin_archaeology/common.json`
+- `stellarity:desert_ruin_archaeology/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/desert_ruin_archaeology/common.json`
+- `stellarity:desert_ruin_archaeology/rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/desert_ruin_archaeology/rare.json`
+- `stellarity:desert_ruin_archaeology/rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/desert_ruin_archaeology/rare.json`
+
+### `custom/desert_temple_crypt_chest` (1)
+- `mtr:desert_temple_crypt_chest` — `datapacks/Academy/data/mtr/loot_table/desert_temple_crypt_chest.json`
+
+### `custom/desert_temple_decorated_pot` (1)
+- `mtr:desert_temple_decorated_pot` — `datapacks/Academy/data/mtr/loot_table/desert_temple_decorated_pot.json`
+
+### `custom/desert_temple_lower_chamber` (1)
+- `mtr:desert_temple_lower_chamber` — `datapacks/Academy/data/mtr/loot_table/desert_temple_lower_chamber.json`
+
+### `custom/desert_temple_pillar_chest` (1)
+- `mtr:desert_temple_pillar_chest` — `datapacks/Academy/data/mtr/loot_table/desert_temple_pillar_chest.json`
+
+### `custom/desert_temple_suspicious_sand` (1)
+- `mtr:desert_temple_suspicious_sand` — `datapacks/Academy/data/mtr/loot_table/desert_temple_suspicious_sand.json`
+
+### `custom/desert_temple_wall_chest` (1)
+- `mtr:desert_temple_wall_chest` — `datapacks/Academy/data/mtr/loot_table/desert_temple_wall_chest.json`
+
+### `custom/dragons_den` (2)
+- `stellarity:dragons_den` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/dragons_den.json`
+- `stellarity:dragons_den` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/dragons_den.json`
+
+### `custom/dungeon` (2)
+- `stellarity:dungeon` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/dungeon.json`
+- `stellarity:dungeon` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/dungeon.json`
+
+### `custom/empty` (3)
+- `mes:empty` — `datapacks/Academy/data/mes/loot_table/empty.json`
+- `mss:empty` — `datapacks/Academy/data/mss/loot_table/empty.json`
+- `mvs:empty` — `datapacks/Academy/data/mvs/loot_table/empty.json`
+
+### `custom/end_city` (78)
+- `stellarity:end_city/amethyst` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/amethyst.json`
+- `stellarity:end_city/amethyst` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/amethyst.json`
+- `stellarity:end_city/brewery` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/brewery.json`
+- `stellarity:end_city/brewery` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/brewery.json`
+- `stellarity:end_city/farm` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/farm.json`
+- `stellarity:end_city/farm` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/farm.json`
+- `stellarity:end_city/fishing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/fishing.json`
+- `stellarity:end_city/fishing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/fishing.json`
+- `stellarity:end_city/junk` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/junk.json`
+- `stellarity:end_city/junk` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/junk.json`
+- `stellarity:end_city/library` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/library.json`
+- `stellarity:end_city/library` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/library.json`
+- `stellarity:end_city/pot` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/pot.json`
+- `stellarity:end_city/pot` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/pot.json`
+- `stellarity:end_city/pot_common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/pot_common.json`
+- `stellarity:end_city/pot_common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/pot_common.json`
+- `stellarity:end_city/pot_rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/pot_rare.json`
+- `stellarity:end_city/pot_rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/pot_rare.json`
+- `stellarity:end_city/random_potion` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/random_potion.json`
+- `stellarity:end_city/random_potion` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/random_potion.json`
+- `stellarity:end_city/ship` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/ship.json`
+- `stellarity:end_city/ship` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/ship.json`
+- `stellarity:end_city/ship_storage` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/ship_storage.json`
+- `stellarity:end_city/ship_storage` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/ship_storage.json`
+- `stellarity:end_city/ship_treasure` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/ship_treasure.json`
+- `stellarity:end_city/ship_treasure` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/ship_treasure.json`
+- `stellarity:end_city/spawner_equipment/pools/armor_normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/armor_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/armor_normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/armor_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/armor_ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/armor_ominous.json`
+- `stellarity:end_city/spawner_equipment/pools/armor_ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/armor_ominous.json`
+- `stellarity:end_city/spawner_equipment/pools/ranged_normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/ranged_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/ranged_normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/ranged_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/ranged_ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/ranged_ominous.json`
+- `stellarity:end_city/spawner_equipment/pools/ranged_ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/ranged_ominous.json`
+- `stellarity:end_city/spawner_equipment/pools/weapon_normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/weapon_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/weapon_normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/weapon_normal.json`
+- `stellarity:end_city/spawner_equipment/pools/weapon_ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/pools/weapon_ominous.json`
+- `stellarity:end_city/spawner_equipment/pools/weapon_ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/pools/weapon_ominous.json`
+- `stellarity:end_city/spawner_equipment/skeleton_normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/skeleton_normal.json`
+- `stellarity:end_city/spawner_equipment/skeleton_normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/skeleton_normal.json`
+- `stellarity:end_city/spawner_equipment/skeleton_ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/skeleton_ominous.json`
+- `stellarity:end_city/spawner_equipment/skeleton_ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/skeleton_ominous.json`
+- `stellarity:end_city/spawner_equipment/zombie_normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/zombie_normal.json`
+- `stellarity:end_city/spawner_equipment/zombie_normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/zombie_normal.json`
+- `stellarity:end_city/spawner_equipment/zombie_ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/spawner_equipment/zombie_ominous.json`
+- `stellarity:end_city/spawner_equipment/zombie_ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/spawner_equipment/zombie_ominous.json`
+- `stellarity:end_city/trial_spawner/normal/consumables` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/trial_spawner/normal/consumables.json`
+- `stellarity:end_city/trial_spawner/normal/consumables` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/trial_spawner/normal/consumables.json`
+- `stellarity:end_city/trial_spawner/normal/key` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/trial_spawner/normal/key.json`
+- `stellarity:end_city/trial_spawner/normal/key` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/trial_spawner/normal/key.json`
+- `stellarity:end_city/trial_spawner/ominous/consumables` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/trial_spawner/ominous/consumables.json`
+- `stellarity:end_city/trial_spawner/ominous/consumables` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/trial_spawner/ominous/consumables.json`
+- `stellarity:end_city/trial_spawner/ominous/key` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/trial_spawner/ominous/key.json`
+- `stellarity:end_city/trial_spawner/ominous/key` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/trial_spawner/ominous/key.json`
+- `stellarity:end_city/trial_spawner/ominous_item_spawn` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/trial_spawner/ominous_item_spawn.json`
+- `stellarity:end_city/trial_spawner/ominous_item_spawn` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/trial_spawner/ominous_item_spawn.json`
+- `stellarity:end_city/vault/elytra` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/elytra.json`
+- `stellarity:end_city/vault/elytra` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/elytra.json`
+- `stellarity:end_city/vault/normal` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/normal.json`
+- `stellarity:end_city/vault/normal` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/normal.json`
+- `stellarity:end_city/vault/normal/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/normal/common.json`
+- `stellarity:end_city/vault/normal/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/normal/common.json`
+- `stellarity:end_city/vault/normal/equipment` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/normal/equipment.json`
+- `stellarity:end_city/vault/normal/equipment` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/normal/equipment.json`
+- `stellarity:end_city/vault/normal/rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/normal/rare.json`
+- `stellarity:end_city/vault/normal/rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/normal/rare.json`
+- `stellarity:end_city/vault/normal/unique` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/normal/unique.json`
+- `stellarity:end_city/vault/normal/unique` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/normal/unique.json`
+- `stellarity:end_city/vault/ominous` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/ominous.json`
+- `stellarity:end_city/vault/ominous` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/ominous.json`
+- `stellarity:end_city/vault/ominous/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/ominous/common.json`
+- `stellarity:end_city/vault/ominous/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/ominous/common.json`
+- `stellarity:end_city/vault/ominous/equipment` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/ominous/equipment.json`
+- `stellarity:end_city/vault/ominous/equipment` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/ominous/equipment.json`
+- `stellarity:end_city/vault/ominous/rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/ominous/rare.json`
+- `stellarity:end_city/vault/ominous/rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/ominous/rare.json`
+- `stellarity:end_city/vault/ominous/unique` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_city/vault/ominous/unique.json`
+- `stellarity:end_city/vault/ominous/unique` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_city/vault/ominous/unique.json`
+
+### `custom/end_crystal_drop` (2)
+- `stellarity:end_crystal_drop` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/end_crystal_drop.json`
+- `stellarity:end_crystal_drop` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/end_crystal_drop.json`
+
+### `custom/fisherman_hut` (4)
+- `stellarity:fisherman_hut/barrel` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/fisherman_hut/barrel.json`
+- `stellarity:fisherman_hut/barrel` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/fisherman_hut/barrel.json`
+- `stellarity:fisherman_hut/treasure` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/fisherman_hut/treasure.json`
+- `stellarity:fisherman_hut/treasure` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/fisherman_hut/treasure.json`
+
+### `custom/floating_islands` (3)
+- `mes:floating_islands` — `datapacks/Academy/data/mes/loot_table/floating_islands.json`
+- `mss:floating_islands` — `datapacks/Academy/data/mss/loot_table/floating_islands.json`
+- `mvs:floating_islands` — `datapacks/Academy/data/mvs/loot_table/floating_islands.json`
+
+### `custom/general` (3)
+- `mes:general` — `datapacks/Academy/data/mes/loot_table/general.json`
+- `mss:general` — `datapacks/Academy/data/mss/loot_table/general.json`
+- `mvs:general` — `datapacks/Academy/data/mvs/loot_table/general.json`
+
+### `custom/gimmicks` (6)
+- `academy:gimmicks/legendaries` — `datapacks/Academy/data/academy/loot_table/gimmicks/legendaries.json`
+- `academy:gimmicks/legendary_placeholder` — `datapacks/Academy/data/academy/loot_table/gimmicks/legendary_placeholder.json`
+- `academy:gimmicks/megastones` — `datapacks/Academy/data/academy/loot_table/gimmicks/megastones.json`
+- `academy:gimmicks/mythicals` — `datapacks/Academy/data/academy/loot_table/gimmicks/mythicals.json`
+- `academy:gimmicks/mythicals_legendaries` — `datapacks/Academy/data/academy/loot_table/gimmicks/mythicals_legendaries.json`
+- `academy:gimmicks/tera_shards` — `datapacks/Academy/data/academy/loot_table/gimmicks/tera_shards.json`
+
+### `custom/gyms` (228)
+- `rad-gyms:gyms/bug/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/shared_loot_table.json`
+- `rad-gyms:gyms/bug/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t0_loot_table.json`
+- `rad-gyms:gyms/bug/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t10_loot_table.json`
+- `rad-gyms:gyms/bug/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t1_loot_table.json`
+- `rad-gyms:gyms/bug/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t2_loot_table.json`
+- `rad-gyms:gyms/bug/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t3_loot_table.json`
+- `rad-gyms:gyms/bug/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t4_loot_table.json`
+- `rad-gyms:gyms/bug/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t5_loot_table.json`
+- `rad-gyms:gyms/bug/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t6_loot_table.json`
+- `rad-gyms:gyms/bug/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t7_loot_table.json`
+- `rad-gyms:gyms/bug/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t8_loot_table.json`
+- `rad-gyms:gyms/bug/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/bug/t9_loot_table.json`
+- `rad-gyms:gyms/dark/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/shared_loot_table.json`
+- `rad-gyms:gyms/dark/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t0_loot_table.json`
+- `rad-gyms:gyms/dark/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t10_loot_table.json`
+- `rad-gyms:gyms/dark/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t1_loot_table.json`
+- `rad-gyms:gyms/dark/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t2_loot_table.json`
+- `rad-gyms:gyms/dark/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t3_loot_table.json`
+- `rad-gyms:gyms/dark/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t4_loot_table.json`
+- `rad-gyms:gyms/dark/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t5_loot_table.json`
+- `rad-gyms:gyms/dark/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t6_loot_table.json`
+- `rad-gyms:gyms/dark/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t7_loot_table.json`
+- `rad-gyms:gyms/dark/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t8_loot_table.json`
+- `rad-gyms:gyms/dark/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dark/t9_loot_table.json`
+- `rad-gyms:gyms/default/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/shared_loot_table.json`
+- `rad-gyms:gyms/default/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t0_loot_table.json`
+- `rad-gyms:gyms/default/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t10_loot_table.json`
+- `rad-gyms:gyms/default/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t1_loot_table.json`
+- `rad-gyms:gyms/default/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t2_loot_table.json`
+- `rad-gyms:gyms/default/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t3_loot_table.json`
+- `rad-gyms:gyms/default/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t4_loot_table.json`
+- `rad-gyms:gyms/default/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t5_loot_table.json`
+- `rad-gyms:gyms/default/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t6_loot_table.json`
+- `rad-gyms:gyms/default/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t7_loot_table.json`
+- `rad-gyms:gyms/default/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t8_loot_table.json`
+- `rad-gyms:gyms/default/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/default/t9_loot_table.json`
+- `rad-gyms:gyms/dragon/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/shared_loot_table.json`
+- `rad-gyms:gyms/dragon/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t0_loot_table.json`
+- `rad-gyms:gyms/dragon/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t10_loot_table.json`
+- `rad-gyms:gyms/dragon/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t1_loot_table.json`
+- `rad-gyms:gyms/dragon/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t2_loot_table.json`
+- `rad-gyms:gyms/dragon/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t3_loot_table.json`
+- `rad-gyms:gyms/dragon/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t4_loot_table.json`
+- `rad-gyms:gyms/dragon/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t5_loot_table.json`
+- `rad-gyms:gyms/dragon/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t6_loot_table.json`
+- `rad-gyms:gyms/dragon/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t7_loot_table.json`
+- `rad-gyms:gyms/dragon/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t8_loot_table.json`
+- `rad-gyms:gyms/dragon/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/dragon/t9_loot_table.json`
+- `rad-gyms:gyms/electric/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/shared_loot_table.json`
+- `rad-gyms:gyms/electric/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t0_loot_table.json`
+- `rad-gyms:gyms/electric/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t10_loot_table.json`
+- `rad-gyms:gyms/electric/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t1_loot_table.json`
+- `rad-gyms:gyms/electric/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t2_loot_table.json`
+- `rad-gyms:gyms/electric/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t3_loot_table.json`
+- `rad-gyms:gyms/electric/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t4_loot_table.json`
+- `rad-gyms:gyms/electric/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t5_loot_table.json`
+- `rad-gyms:gyms/electric/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t6_loot_table.json`
+- `rad-gyms:gyms/electric/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t7_loot_table.json`
+- `rad-gyms:gyms/electric/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t8_loot_table.json`
+- `rad-gyms:gyms/electric/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/electric/t9_loot_table.json`
+- `rad-gyms:gyms/fairy/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/shared_loot_table.json`
+- `rad-gyms:gyms/fairy/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t0_loot_table.json`
+- `rad-gyms:gyms/fairy/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t10_loot_table.json`
+- `rad-gyms:gyms/fairy/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t1_loot_table.json`
+- `rad-gyms:gyms/fairy/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t2_loot_table.json`
+- `rad-gyms:gyms/fairy/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t3_loot_table.json`
+- `rad-gyms:gyms/fairy/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t4_loot_table.json`
+- `rad-gyms:gyms/fairy/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t5_loot_table.json`
+- `rad-gyms:gyms/fairy/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t6_loot_table.json`
+- `rad-gyms:gyms/fairy/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t7_loot_table.json`
+- `rad-gyms:gyms/fairy/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t8_loot_table.json`
+- `rad-gyms:gyms/fairy/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fairy/t9_loot_table.json`
+- `rad-gyms:gyms/fighting/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/shared_loot_table.json`
+- `rad-gyms:gyms/fighting/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t0_loot_table.json`
+- `rad-gyms:gyms/fighting/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t10_loot_table.json`
+- `rad-gyms:gyms/fighting/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t1_loot_table.json`
+- `rad-gyms:gyms/fighting/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t2_loot_table.json`
+- `rad-gyms:gyms/fighting/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t3_loot_table.json`
+- `rad-gyms:gyms/fighting/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t4_loot_table.json`
+- `rad-gyms:gyms/fighting/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t5_loot_table.json`
+- `rad-gyms:gyms/fighting/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t6_loot_table.json`
+- `rad-gyms:gyms/fighting/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t7_loot_table.json`
+- `rad-gyms:gyms/fighting/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t8_loot_table.json`
+- `rad-gyms:gyms/fighting/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fighting/t9_loot_table.json`
+- `rad-gyms:gyms/fire/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/shared_loot_table.json`
+- `rad-gyms:gyms/fire/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t0_loot_table.json`
+- `rad-gyms:gyms/fire/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t10_loot_table.json`
+- `rad-gyms:gyms/fire/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t1_loot_table.json`
+- `rad-gyms:gyms/fire/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t2_loot_table.json`
+- `rad-gyms:gyms/fire/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t3_loot_table.json`
+- `rad-gyms:gyms/fire/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t4_loot_table.json`
+- `rad-gyms:gyms/fire/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t5_loot_table.json`
+- `rad-gyms:gyms/fire/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t6_loot_table.json`
+- `rad-gyms:gyms/fire/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t7_loot_table.json`
+- `rad-gyms:gyms/fire/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t8_loot_table.json`
+- `rad-gyms:gyms/fire/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/fire/t9_loot_table.json`
+- `rad-gyms:gyms/flying/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/shared_loot_table.json`
+- `rad-gyms:gyms/flying/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t0_loot_table.json`
+- `rad-gyms:gyms/flying/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t10_loot_table.json`
+- `rad-gyms:gyms/flying/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t1_loot_table.json`
+- `rad-gyms:gyms/flying/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t2_loot_table.json`
+- `rad-gyms:gyms/flying/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t3_loot_table.json`
+- `rad-gyms:gyms/flying/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t4_loot_table.json`
+- `rad-gyms:gyms/flying/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t5_loot_table.json`
+- `rad-gyms:gyms/flying/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t6_loot_table.json`
+- `rad-gyms:gyms/flying/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t7_loot_table.json`
+- `rad-gyms:gyms/flying/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t8_loot_table.json`
+- `rad-gyms:gyms/flying/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/flying/t9_loot_table.json`
+- `rad-gyms:gyms/ghost/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/shared_loot_table.json`
+- `rad-gyms:gyms/ghost/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t0_loot_table.json`
+- `rad-gyms:gyms/ghost/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t10_loot_table.json`
+- `rad-gyms:gyms/ghost/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t1_loot_table.json`
+- `rad-gyms:gyms/ghost/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t2_loot_table.json`
+- `rad-gyms:gyms/ghost/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t3_loot_table.json`
+- `rad-gyms:gyms/ghost/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t4_loot_table.json`
+- `rad-gyms:gyms/ghost/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t5_loot_table.json`
+- `rad-gyms:gyms/ghost/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t6_loot_table.json`
+- `rad-gyms:gyms/ghost/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t7_loot_table.json`
+- `rad-gyms:gyms/ghost/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t8_loot_table.json`
+- `rad-gyms:gyms/ghost/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ghost/t9_loot_table.json`
+- `rad-gyms:gyms/grass/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/shared_loot_table.json`
+- `rad-gyms:gyms/grass/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t0_loot_table.json`
+- `rad-gyms:gyms/grass/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t10_loot_table.json`
+- `rad-gyms:gyms/grass/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t1_loot_table.json`
+- `rad-gyms:gyms/grass/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t2_loot_table.json`
+- `rad-gyms:gyms/grass/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t3_loot_table.json`
+- `rad-gyms:gyms/grass/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t4_loot_table.json`
+- `rad-gyms:gyms/grass/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t5_loot_table.json`
+- `rad-gyms:gyms/grass/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t6_loot_table.json`
+- `rad-gyms:gyms/grass/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t7_loot_table.json`
+- `rad-gyms:gyms/grass/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t8_loot_table.json`
+- `rad-gyms:gyms/grass/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/grass/t9_loot_table.json`
+- `rad-gyms:gyms/ground/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/shared_loot_table.json`
+- `rad-gyms:gyms/ground/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t0_loot_table.json`
+- `rad-gyms:gyms/ground/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t10_loot_table.json`
+- `rad-gyms:gyms/ground/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t1_loot_table.json`
+- `rad-gyms:gyms/ground/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t2_loot_table.json`
+- `rad-gyms:gyms/ground/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t3_loot_table.json`
+- `rad-gyms:gyms/ground/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t4_loot_table.json`
+- `rad-gyms:gyms/ground/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t5_loot_table.json`
+- `rad-gyms:gyms/ground/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t6_loot_table.json`
+- `rad-gyms:gyms/ground/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t7_loot_table.json`
+- `rad-gyms:gyms/ground/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t8_loot_table.json`
+- `rad-gyms:gyms/ground/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ground/t9_loot_table.json`
+- `rad-gyms:gyms/ice/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/shared_loot_table.json`
+- `rad-gyms:gyms/ice/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t0_loot_table.json`
+- `rad-gyms:gyms/ice/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t10_loot_table.json`
+- `rad-gyms:gyms/ice/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t1_loot_table.json`
+- `rad-gyms:gyms/ice/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t2_loot_table.json`
+- `rad-gyms:gyms/ice/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t3_loot_table.json`
+- `rad-gyms:gyms/ice/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t4_loot_table.json`
+- `rad-gyms:gyms/ice/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t5_loot_table.json`
+- `rad-gyms:gyms/ice/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t6_loot_table.json`
+- `rad-gyms:gyms/ice/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t7_loot_table.json`
+- `rad-gyms:gyms/ice/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t8_loot_table.json`
+- `rad-gyms:gyms/ice/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/ice/t9_loot_table.json`
+- `rad-gyms:gyms/normal/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/shared_loot_table.json`
+- `rad-gyms:gyms/normal/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t0_loot_table.json`
+- `rad-gyms:gyms/normal/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t10_loot_table.json`
+- `rad-gyms:gyms/normal/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t1_loot_table.json`
+- `rad-gyms:gyms/normal/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t2_loot_table.json`
+- `rad-gyms:gyms/normal/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t3_loot_table.json`
+- `rad-gyms:gyms/normal/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t4_loot_table.json`
+- `rad-gyms:gyms/normal/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t5_loot_table.json`
+- `rad-gyms:gyms/normal/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t6_loot_table.json`
+- `rad-gyms:gyms/normal/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t7_loot_table.json`
+- `rad-gyms:gyms/normal/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t8_loot_table.json`
+- `rad-gyms:gyms/normal/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/normal/t9_loot_table.json`
+- `rad-gyms:gyms/poison/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/shared_loot_table.json`
+- `rad-gyms:gyms/poison/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t0_loot_table.json`
+- `rad-gyms:gyms/poison/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t10_loot_table.json`
+- `rad-gyms:gyms/poison/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t1_loot_table.json`
+- `rad-gyms:gyms/poison/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t2_loot_table.json`
+- `rad-gyms:gyms/poison/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t3_loot_table.json`
+- `rad-gyms:gyms/poison/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t4_loot_table.json`
+- `rad-gyms:gyms/poison/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t5_loot_table.json`
+- `rad-gyms:gyms/poison/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t6_loot_table.json`
+- `rad-gyms:gyms/poison/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t7_loot_table.json`
+- `rad-gyms:gyms/poison/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t8_loot_table.json`
+- `rad-gyms:gyms/poison/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/poison/t9_loot_table.json`
+- `rad-gyms:gyms/psychic/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/shared_loot_table.json`
+- `rad-gyms:gyms/psychic/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t0_loot_table.json`
+- `rad-gyms:gyms/psychic/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t10_loot_table.json`
+- `rad-gyms:gyms/psychic/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t1_loot_table.json`
+- `rad-gyms:gyms/psychic/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t2_loot_table.json`
+- `rad-gyms:gyms/psychic/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t3_loot_table.json`
+- `rad-gyms:gyms/psychic/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t4_loot_table.json`
+- `rad-gyms:gyms/psychic/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t5_loot_table.json`
+- `rad-gyms:gyms/psychic/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t6_loot_table.json`
+- `rad-gyms:gyms/psychic/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t7_loot_table.json`
+- `rad-gyms:gyms/psychic/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t8_loot_table.json`
+- `rad-gyms:gyms/psychic/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/psychic/t9_loot_table.json`
+- `rad-gyms:gyms/rock/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/shared_loot_table.json`
+- `rad-gyms:gyms/rock/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t0_loot_table.json`
+- `rad-gyms:gyms/rock/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t10_loot_table.json`
+- `rad-gyms:gyms/rock/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t1_loot_table.json`
+- `rad-gyms:gyms/rock/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t2_loot_table.json`
+- `rad-gyms:gyms/rock/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t3_loot_table.json`
+- `rad-gyms:gyms/rock/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t4_loot_table.json`
+- `rad-gyms:gyms/rock/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t5_loot_table.json`
+- `rad-gyms:gyms/rock/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t6_loot_table.json`
+- `rad-gyms:gyms/rock/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t7_loot_table.json`
+- `rad-gyms:gyms/rock/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t8_loot_table.json`
+- `rad-gyms:gyms/rock/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/rock/t9_loot_table.json`
+- `rad-gyms:gyms/steel/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/shared_loot_table.json`
+- `rad-gyms:gyms/steel/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t0_loot_table.json`
+- `rad-gyms:gyms/steel/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t10_loot_table.json`
+- `rad-gyms:gyms/steel/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t1_loot_table.json`
+- `rad-gyms:gyms/steel/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t2_loot_table.json`
+- `rad-gyms:gyms/steel/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t3_loot_table.json`
+- `rad-gyms:gyms/steel/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t4_loot_table.json`
+- `rad-gyms:gyms/steel/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t5_loot_table.json`
+- `rad-gyms:gyms/steel/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t6_loot_table.json`
+- `rad-gyms:gyms/steel/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t7_loot_table.json`
+- `rad-gyms:gyms/steel/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t8_loot_table.json`
+- `rad-gyms:gyms/steel/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/steel/t9_loot_table.json`
+- `rad-gyms:gyms/water/shared_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/shared_loot_table.json`
+- `rad-gyms:gyms/water/t0_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t0_loot_table.json`
+- `rad-gyms:gyms/water/t10_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t10_loot_table.json`
+- `rad-gyms:gyms/water/t1_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t1_loot_table.json`
+- `rad-gyms:gyms/water/t2_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t2_loot_table.json`
+- `rad-gyms:gyms/water/t3_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t3_loot_table.json`
+- `rad-gyms:gyms/water/t4_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t4_loot_table.json`
+- `rad-gyms:gyms/water/t5_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t5_loot_table.json`
+- `rad-gyms:gyms/water/t6_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t6_loot_table.json`
+- `rad-gyms:gyms/water/t7_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t7_loot_table.json`
+- `rad-gyms:gyms/water/t8_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t8_loot_table.json`
+- `rad-gyms:gyms/water/t9_loot_table` — `datapacks/Academy/data/rad-gyms/loot_table/gyms/water/t9_loot_table.json`
+
+### `custom/houses_books` (3)
+- `mes:houses_books` — `datapacks/Academy/data/mes/loot_table/houses_books.json`
+- `mss:houses_books` — `datapacks/Academy/data/mss/loot_table/houses_books.json`
+- `mvs:houses_books` — `datapacks/Academy/data/mvs/loot_table/houses_books.json`
+
+### `custom/houses_common` (3)
+- `mes:houses_common` — `datapacks/Academy/data/mes/loot_table/houses_common.json`
+- `mss:houses_common` — `datapacks/Academy/data/mss/loot_table/houses_common.json`
+- `mvs:houses_common` — `datapacks/Academy/data/mvs/loot_table/houses_common.json`
+
+### `custom/houses_desert` (3)
+- `mes:houses_desert` — `datapacks/Academy/data/mes/loot_table/houses_desert.json`
+- `mss:houses_desert` — `datapacks/Academy/data/mss/loot_table/houses_desert.json`
+- `mvs:houses_desert` — `datapacks/Academy/data/mvs/loot_table/houses_desert.json`
+
+### `custom/houses_flower` (3)
+- `mes:houses_flower` — `datapacks/Academy/data/mes/loot_table/houses_flower.json`
+- `mss:houses_flower` — `datapacks/Academy/data/mss/loot_table/houses_flower.json`
+- `mvs:houses_flower` — `datapacks/Academy/data/mvs/loot_table/houses_flower.json`
+
+### `custom/houses_rare` (3)
+- `mes:houses_rare` — `datapacks/Academy/data/mes/loot_table/houses_rare.json`
+- `mss:houses_rare` — `datapacks/Academy/data/mss/loot_table/houses_rare.json`
+- `mvs:houses_rare` — `datapacks/Academy/data/mvs/loot_table/houses_rare.json`
+
+### `custom/houses_uncommon` (3)
+- `mes:houses_uncommon` — `datapacks/Academy/data/mes/loot_table/houses_uncommon.json`
+- `mss:houses_uncommon` — `datapacks/Academy/data/mss/loot_table/houses_uncommon.json`
+- `mvs:houses_uncommon` — `datapacks/Academy/data/mvs/loot_table/houses_uncommon.json`
+
+### `custom/jungle_temple_corridor` (1)
+- `mtr:jungle_temple_corridor` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_corridor.json`
+
+### `custom/jungle_temple_crypt_barrel` (1)
+- `mtr:jungle_temple_crypt_barrel` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_crypt_barrel.json`
+
+### `custom/jungle_temple_crypt_barrel_empty` (1)
+- `mtr:jungle_temple_crypt_barrel_empty` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_crypt_barrel_empty.json`
+
+### `custom/jungle_temple_crypt_barrel_full` (1)
+- `mtr:jungle_temple_crypt_barrel_full` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_crypt_barrel_full.json`
+
+### `custom/jungle_temple_crypt_chest` (1)
+- `mtr:jungle_temple_crypt_chest` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_crypt_chest.json`
+
+### `custom/jungle_temple_lava_chamber` (1)
+- `mtr:jungle_temple_lava_chamber` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_lava_chamber.json`
+
+### `custom/jungle_temple_main_common` (1)
+- `mtr:jungle_temple_main_common` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_main_common.json`
+
+### `custom/jungle_temple_main_double` (1)
+- `mtr:jungle_temple_main_double` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_main_double.json`
+
+### `custom/jungle_temple_puzzle_treasure` (1)
+- `mtr:jungle_temple_puzzle_treasure` — `datapacks/Academy/data/mtr/loot_table/jungle_temple_puzzle_treasure.json`
+
+### `custom/jungle_tower` (3)
+- `mes:jungle_tower` — `datapacks/Academy/data/mes/loot_table/jungle_tower.json`
+- `mss:jungle_tower` — `datapacks/Academy/data/mss/loot_table/jungle_tower.json`
+- `mvs:jungle_tower` — `datapacks/Academy/data/mvs/loot_table/jungle_tower.json`
+
+### `custom/large_carts` (3)
+- `mes:large_carts` — `datapacks/Academy/data/mes/loot_table/large_carts.json`
+- `mss:large_carts` — `datapacks/Academy/data/mss/loot_table/large_carts.json`
+- `mvs:large_carts` — `datapacks/Academy/data/mvs/loot_table/large_carts.json`
+
+### `custom/large_carts_2` (3)
+- `mes:large_carts_2` — `datapacks/Academy/data/mes/loot_table/large_carts_2.json`
+- `mss:large_carts_2` — `datapacks/Academy/data/mss/loot_table/large_carts_2.json`
+- `mvs:large_carts_2` — `datapacks/Academy/data/mvs/loot_table/large_carts_2.json`
+
+### `custom/mineshaft` (4)
+- `mvs:mineshaft/common` — `datapacks/Academy/data/mvs/loot_table/mineshaft/common.json`
+- `mvs:mineshaft/pot` — `datapacks/Academy/data/mvs/loot_table/mineshaft/pot.json`
+- `mvs:mineshaft/rare` — `datapacks/Academy/data/mvs/loot_table/mineshaft/rare.json`
+- `mvs:mineshaft/uncommon` — `datapacks/Academy/data/mvs/loot_table/mineshaft/uncommon.json`
+
+### `custom/mobs` (36)
+- `stellarity:mobs/buffed/phantom` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/buffed/phantom.json`
+- `stellarity:mobs/buffed/phantom` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/buffed/phantom.json`
+- `stellarity:mobs/dragon/extra_drops` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/dragon/extra_drops.json`
+- `stellarity:mobs/dragon/extra_drops` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/dragon/extra_drops.json`
+- `stellarity:mobs/dragon/loot` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/dragon/loot.json`
+- `stellarity:mobs/dragon/loot` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/dragon/loot.json`
+- `stellarity:mobs/dragon/loot_50` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/dragon/loot_50.json`
+- `stellarity:mobs/dragon/loot_50` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/dragon/loot_50.json`
+- `stellarity:mobs/eol/daytime_drops` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/eol/daytime_drops.json`
+- `stellarity:mobs/eol/daytime_drops` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/eol/daytime_drops.json`
+- `stellarity:mobs/eol/extra_drops/day` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/eol/extra_drops/day.json`
+- `stellarity:mobs/eol/extra_drops/day` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/eol/extra_drops/day.json`
+- `stellarity:mobs/eol/extra_drops/night` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/eol/extra_drops/night.json`
+- `stellarity:mobs/eol/extra_drops/night` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/eol/extra_drops/night.json`
+- `stellarity:mobs/eol/loot` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/eol/loot.json`
+- `stellarity:mobs/eol/loot` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/eol/loot.json`
+- `stellarity:mobs/eol/loot_50` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/eol/loot_50.json`
+- `stellarity:mobs/eol/loot_50` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/eol/loot_50.json`
+- `stellarity:mobs/flesh_piglin` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/flesh_piglin.json`
+- `stellarity:mobs/flesh_piglin` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/flesh_piglin.json`
+- `stellarity:mobs/frosted_stray` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/frosted_stray.json`
+- `stellarity:mobs/frosted_stray` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/frosted_stray.json`
+- `stellarity:mobs/gloop` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/gloop.json`
+- `stellarity:mobs/gloop` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/gloop.json`
+- `stellarity:mobs/kohara` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/kohara.json`
+- `stellarity:mobs/kohara` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/kohara.json`
+- `stellarity:mobs/pixie` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/pixie.json`
+- `stellarity:mobs/pixie` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/pixie.json`
+- `stellarity:mobs/voided_silverfish` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/voided_silverfish.json`
+- `stellarity:mobs/voided_silverfish` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/voided_silverfish.json`
+- `stellarity:mobs/voided_skeleton` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/voided_skeleton.json`
+- `stellarity:mobs/voided_skeleton` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/voided_skeleton.json`
+- `stellarity:mobs/voided_slime` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/voided_slime.json`
+- `stellarity:mobs/voided_slime` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/voided_slime.json`
+- `stellarity:mobs/voided_zombie` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/mobs/voided_zombie.json`
+- `stellarity:mobs/voided_zombie` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/mobs/voided_zombie.json`
+
+### `custom/mushroom_pond` (3)
+- `mes:mushroom_pond` — `datapacks/Academy/data/mes/loot_table/mushroom_pond.json`
+- `mss:mushroom_pond` — `datapacks/Academy/data/mss/loot_table/mushroom_pond.json`
+- `mvs:mushroom_pond` — `datapacks/Academy/data/mvs/loot_table/mushroom_pond.json`
+
+### `custom/ocean_temple_common` (1)
+- `mtr:ocean_temple_common` — `datapacks/Academy/data/mtr/loot_table/ocean_temple_common.json`
+
+### `custom/ocean_temple_treasure` (1)
+- `mtr:ocean_temple_treasure` — `datapacks/Academy/data/mtr/loot_table/ocean_temple_treasure.json`
+
+### `custom/ocean_tower_chest` (1)
+- `totw_modded:ocean_tower_chest` — `datapacks/Academy/data/totw_modded/loot_table/ocean_tower_chest.json`
+
+### `custom/oreki_special_head_combo` (2)
+- `stellarity:oreki_special_head_combo` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/oreki_special_head_combo.json`
+- `stellarity:oreki_special_head_combo` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/oreki_special_head_combo.json`
+
+### `custom/overworld` (93)
+- `trek:overworld/common/elven_pillar_tall` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/common/elven_pillar_tall.json`
+- `trek:overworld/common/mushroom_house` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/common/mushroom_house.json`
+- `trek:overworld/common/ruine_1` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/common/ruine_1.json`
+- `trek:overworld/common/well` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/common/well.json`
+- `trek:overworld/medium/all_abandoned` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/all_abandoned.json`
+- `trek:overworld/medium/bases` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/bases.json`
+- `trek:overworld/medium/birch_fort` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/birch_fort.json`
+- `trek:overworld/medium/birch_trade` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/birch_trade.json`
+- `trek:overworld/medium/buried_village` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/buried_village.json`
+- `trek:overworld/medium/camp_1` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/camp_1.json`
+- `trek:overworld/medium/camp_4/camp_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/camp_4/camp_barrels.json`
+- `trek:overworld/medium/camp_4/street_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/camp_4/street_barrels.json`
+- `trek:overworld/medium/cold_red_trade/capitan` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/cold_red_trade/capitan.json`
+- `trek:overworld/medium/cold_red_trade/hay` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/cold_red_trade/hay.json`
+- `trek:overworld/medium/cold_red_trade/iron` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/cold_red_trade/iron.json`
+- `trek:overworld/medium/cold_red_trade/main` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/cold_red_trade/main.json`
+- `trek:overworld/medium/dark_oak_trade` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/dark_oak_trade.json`
+- `trek:overworld/medium/desert_ranch/loot` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/desert_ranch/loot.json`
+- `trek:overworld/medium/desert_ranch/trash` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/desert_ranch/trash.json`
+- `trek:overworld/medium/dirt_hut` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/dirt_hut.json`
+- `trek:overworld/medium/enchanter` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/enchanter.json`
+- `trek:overworld/medium/explorer_cabin/default_1` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/explorer_cabin/default_1.json`
+- `trek:overworld/medium/explorer_cabin/default_2` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/explorer_cabin/default_2.json`
+- `trek:overworld/medium/explorer_cabin/fridge` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/explorer_cabin/fridge.json`
+- `trek:overworld/medium/fort` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/fort.json`
+- `trek:overworld/medium/graveyard` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/graveyard.json`
+- `trek:overworld/medium/haunted_house` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/haunted_house.json`
+- `trek:overworld/medium/hobbit_hole` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/hobbit_hole.json`
+- `trek:overworld/medium/ice_fort/bottom` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/ice_fort/bottom.json`
+- `trek:overworld/medium/ice_fort/top` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/ice_fort/top.json`
+- `trek:overworld/medium/igloo_village` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/igloo_village.json`
+- `trek:overworld/medium/jungle_treehouse` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/jungle_treehouse.json`
+- `trek:overworld/medium/maison` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/maison.json`
+- `trek:overworld/medium/mangrove_watchtowers` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/mangrove_watchtowers.json`
+- `trek:overworld/medium/orbital` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/orbital.json`
+- `trek:overworld/medium/plains_cottage/1_floor` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/plains_cottage/1_floor.json`
+- `trek:overworld/medium/plains_cottage/2_floor` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/plains_cottage/2_floor.json`
+- `trek:overworld/medium/plains_cottage/2_floor_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/plains_cottage/2_floor_barrels.json`
+- `trek:overworld/medium/plains_cottage/2_floor_bed` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/plains_cottage/2_floor_bed.json`
+- `trek:overworld/medium/railroad/coal` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/railroad/coal.json`
+- `trek:overworld/medium/railroad/horse` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/railroad/horse.json`
+- `trek:overworld/medium/ritual` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/ritual.json`
+- `trek:overworld/medium/ruine_bateaux` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/ruine_bateaux.json`
+- `trek:overworld/medium/ruine_cabane` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/ruine_cabane.json`
+- `trek:overworld/medium/small_red_trade` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/small_red_trade.json`
+- `trek:overworld/medium/snowman` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/snowman.json`
+- `trek:overworld/medium/sorcerers_house` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/sorcerers_house.json`
+- `trek:overworld/medium/star_spike` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/star_spike.json`
+- `trek:overworld/medium/stelzens` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/stelzens.json`
+- `trek:overworld/medium/strange_house/basement_diamond` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/basement_diamond.json`
+- `trek:overworld/medium/strange_house/basement_emerald` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/basement_emerald.json`
+- `trek:overworld/medium/strange_house/basement_gold` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/basement_gold.json`
+- `trek:overworld/medium/strange_house/basement_redstone` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/basement_redstone.json`
+- `trek:overworld/medium/strange_house/top` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/top.json`
+- `trek:overworld/medium/strange_house/top_hay` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/strange_house/top_hay.json`
+- `trek:overworld/medium/tour_deserts` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/tour_deserts.json`
+- `trek:overworld/medium/tours` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/tours.json`
+- `trek:overworld/medium/tower` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/tower.json`
+- `trek:overworld/medium/tower_of_ice` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/tower_of_ice.json`
+- `trek:overworld/medium/wandering_traders/1` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/wandering_traders/1.json`
+- `trek:overworld/medium/wandering_traders/2` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/wandering_traders/2.json`
+- `trek:overworld/medium/wandering_traders/3` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/wandering_traders/3.json`
+- `trek:overworld/medium/witch_tower` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/medium/witch_tower.json`
+- `trek:overworld/rare/abandoned_castle_pillager` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/abandoned_castle_pillager.json`
+- `trek:overworld/rare/castle` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/castle.json`
+- `trek:overworld/rare/island_village_1/common_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/island_village_1/common_barrels.json`
+- `trek:overworld/rare/island_village_1/top_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/island_village_1/top_barrels.json`
+- `trek:overworld/rare/mushroom_island/middle` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/mushroom_island/middle.json`
+- `trek:overworld/rare/mushroom_island/top` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/mushroom_island/top.json`
+- `trek:overworld/rare/pyramide_of_anubis/bottom` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/pyramide_of_anubis/bottom.json`
+- `trek:overworld/rare/pyramide_of_anubis/top` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/pyramide_of_anubis/top.json`
+- `trek:overworld/rare/sleepy_island_3` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/sleepy_island_3.json`
+- `trek:overworld/rare/stronghold_dispenser` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/stronghold_dispenser.json`
+- `trek:overworld/rare/tower_island` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/tower_island.json`
+- `trek:overworld/rare/villager_castle/bedroom` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/bedroom.json`
+- `trek:overworld/rare/villager_castle/default_loot` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/default_loot.json`
+- `trek:overworld/rare/villager_castle/default_loot_food` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/default_loot_food.json`
+- `trek:overworld/rare/villager_castle/default_loot_food_better` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/default_loot_food_better.json`
+- `trek:overworld/rare/villager_castle/default_loot_trash` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/default_loot_trash.json`
+- `trek:overworld/rare/villager_castle/defending_tower` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/defending_tower.json`
+- `trek:overworld/rare/villager_castle/enchantment_room` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/enchantment_room.json`
+- `trek:overworld/rare/villager_castle/potions` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_castle/potions.json`
+- `trek:overworld/rare/villager_island/bottom_barrels` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_island/bottom_barrels.json`
+- `trek:overworld/rare/villager_island/good_loot` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_island/good_loot.json`
+- `trek:overworld/rare/villager_island/lighthouse` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/villager_island/lighthouse.json`
+- `trek:overworld/rare/wooden_manor/blacksmith` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/wooden_manor/blacksmith.json`
+- `trek:overworld/rare/wooden_manor/default_loot` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/rare/wooden_manor/default_loot.json`
+- `trek:overworld/very_common/crystal_rock` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_common/crystal_rock.json`
+- `trek:overworld/very_rare/farm_island/house` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_rare/farm_island/house.json`
+- `trek:overworld/very_rare/farm_island/mill` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_rare/farm_island/mill.json`
+- `trek:overworld/very_rare/floating_farm_large/barn` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_rare/floating_farm_large/barn.json`
+- `trek:overworld/very_rare/floating_farm_large/default_loot` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_rare/floating_farm_large/default_loot.json`
+- `trek:overworld/very_rare/floating_farm_large/pen` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/overworld/very_rare/floating_farm_large/pen.json`
+
+### `custom/pandoras_barrel` (62)
+- `stellarity:pandoras_barrel/drops/badlands` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/badlands.json`
+- `stellarity:pandoras_barrel/drops/badlands` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/badlands.json`
+- `stellarity:pandoras_barrel/drops/beach` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/beach.json`
+- `stellarity:pandoras_barrel/drops/beach` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/beach.json`
+- `stellarity:pandoras_barrel/drops/birch_forest` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/birch_forest.json`
+- `stellarity:pandoras_barrel/drops/birch_forest` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/birch_forest.json`
+- `stellarity:pandoras_barrel/drops/cherry_grove` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/cherry_grove.json`
+- `stellarity:pandoras_barrel/drops/cherry_grove` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/cherry_grove.json`
+- `stellarity:pandoras_barrel/drops/deep_dark` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/deep_dark.json`
+- `stellarity:pandoras_barrel/drops/deep_dark` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/deep_dark.json`
+- `stellarity:pandoras_barrel/drops/desert` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/desert.json`
+- `stellarity:pandoras_barrel/drops/desert` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/desert.json`
+- `stellarity:pandoras_barrel/drops/dripstone_caves` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/dripstone_caves.json`
+- `stellarity:pandoras_barrel/drops/dripstone_caves` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/dripstone_caves.json`
+- `stellarity:pandoras_barrel/drops/flower_forest` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/flower_forest.json`
+- `stellarity:pandoras_barrel/drops/flower_forest` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/flower_forest.json`
+- `stellarity:pandoras_barrel/drops/forest` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/forest.json`
+- `stellarity:pandoras_barrel/drops/forest` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/forest.json`
+- `stellarity:pandoras_barrel/drops/generic/end` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/generic/end.json`
+- `stellarity:pandoras_barrel/drops/generic/end` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/generic/end.json`
+- `stellarity:pandoras_barrel/drops/generic/nether` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/generic/nether.json`
+- `stellarity:pandoras_barrel/drops/generic/nether` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/generic/nether.json`
+- `stellarity:pandoras_barrel/drops/generic/overworld` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/generic/overworld.json`
+- `stellarity:pandoras_barrel/drops/generic/overworld` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/generic/overworld.json`
+- `stellarity:pandoras_barrel/drops/hills` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/hills.json`
+- `stellarity:pandoras_barrel/drops/hills` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/hills.json`
+- `stellarity:pandoras_barrel/drops/jungle` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/jungle.json`
+- `stellarity:pandoras_barrel/drops/jungle` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/jungle.json`
+- `stellarity:pandoras_barrel/drops/lush_caves` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/lush_caves.json`
+- `stellarity:pandoras_barrel/drops/lush_caves` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/lush_caves.json`
+- `stellarity:pandoras_barrel/drops/mushroom_fields` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/mushroom_fields.json`
+- `stellarity:pandoras_barrel/drops/mushroom_fields` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/mushroom_fields.json`
+- `stellarity:pandoras_barrel/drops/nether/basalt_deltas` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/nether/basalt_deltas.json`
+- `stellarity:pandoras_barrel/drops/nether/basalt_deltas` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/nether/basalt_deltas.json`
+- `stellarity:pandoras_barrel/drops/nether/crimson_forest` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/nether/crimson_forest.json`
+- `stellarity:pandoras_barrel/drops/nether/crimson_forest` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/nether/crimson_forest.json`
+- `stellarity:pandoras_barrel/drops/nether/nether_wastes` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/nether/nether_wastes.json`
+- `stellarity:pandoras_barrel/drops/nether/nether_wastes` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/nether/nether_wastes.json`
+- `stellarity:pandoras_barrel/drops/nether/soul_sand_valley` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/nether/soul_sand_valley.json`
+- `stellarity:pandoras_barrel/drops/nether/soul_sand_valley` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/nether/soul_sand_valley.json`
+- `stellarity:pandoras_barrel/drops/nether/warped_forest` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/nether/warped_forest.json`
+- `stellarity:pandoras_barrel/drops/nether/warped_forest` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/nether/warped_forest.json`
+- `stellarity:pandoras_barrel/drops/ocean` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/ocean.json`
+- `stellarity:pandoras_barrel/drops/ocean` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/ocean.json`
+- `stellarity:pandoras_barrel/drops/plains` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/plains.json`
+- `stellarity:pandoras_barrel/drops/plains` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/plains.json`
+- `stellarity:pandoras_barrel/drops/river` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/river.json`
+- `stellarity:pandoras_barrel/drops/river` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/river.json`
+- `stellarity:pandoras_barrel/drops/savanna` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/savanna.json`
+- `stellarity:pandoras_barrel/drops/savanna` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/savanna.json`
+- `stellarity:pandoras_barrel/drops/snowy` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/snowy.json`
+- `stellarity:pandoras_barrel/drops/snowy` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/snowy.json`
+- `stellarity:pandoras_barrel/drops/swamp` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/swamp.json`
+- `stellarity:pandoras_barrel/drops/swamp` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/swamp.json`
+- `stellarity:pandoras_barrel/drops/taiga` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/taiga.json`
+- `stellarity:pandoras_barrel/drops/taiga` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/taiga.json`
+- `stellarity:pandoras_barrel/drops/warm_ocean` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/drops/warm_ocean.json`
+- `stellarity:pandoras_barrel/drops/warm_ocean` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/drops/warm_ocean.json`
+- `stellarity:pandoras_barrel/helmet` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/helmet.json`
+- `stellarity:pandoras_barrel/helmet` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/helmet.json`
+- `stellarity:pandoras_barrel/helmet_generic` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/pandoras_barrel/helmet_generic.json`
+- `stellarity:pandoras_barrel/helmet_generic` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/pandoras_barrel/helmet_generic.json`
+
+### `custom/pillager` (2)
+- `mss:pillager` — `datapacks/Academy/data/mss/loot_table/pillager.json`
+- `mvs:pillager` — `datapacks/Academy/data/mvs/loot_table/pillager.json`
+
+### `custom/pillagers` (8)
+- `trek:pillagers/elven_pillar_tall` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/elven_pillar_tall.json`
+- `trek:pillagers/miner` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/miner.json`
+- `trek:pillagers/ocean` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/ocean.json`
+- `trek:pillagers/outpost_barrel` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/outpost_barrel.json`
+- `trek:pillagers/outpost_desert` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/outpost_desert.json`
+- `trek:pillagers/outpost_jungle` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/outpost_jungle.json`
+- `trek:pillagers/outpost_mangrove` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/outpost_mangrove.json`
+- `trek:pillagers/pillager_mansion` — `datapacks/Trek 1.21.x B0.4.1/data/trek/loot_table/pillagers/pillager_mansion.json`
+
+### `custom/radgyms` (1)
+- `academy:radgyms/keys` — `datapacks/Academy/data/academy/loot_table/radgyms/keys.json`
+
+### `custom/rare` (2)
+- `mss:rare` — `datapacks/Academy/data/mss/loot_table/rare.json`
+- `mvs:rare` — `datapacks/Academy/data/mvs/loot_table/rare.json`
+
+### `custom/sharanga_and_arrows` (2)
+- `stellarity:sharanga_and_arrows` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/sharanga_and_arrows.json`
+- `stellarity:sharanga_and_arrows` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/sharanga_and_arrows.json`
+
+### `custom/shipwreck` (14)
+- `stellarity:shipwreck/archaeology/dunes/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/archaeology/dunes/common.json`
+- `stellarity:shipwreck/archaeology/dunes/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/archaeology/dunes/common.json`
+- `stellarity:shipwreck/archaeology/dunes/rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/archaeology/dunes/rare.json`
+- `stellarity:shipwreck/archaeology/dunes/rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/archaeology/dunes/rare.json`
+- `stellarity:shipwreck/archaeology/normal/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/archaeology/normal/common.json`
+- `stellarity:shipwreck/archaeology/normal/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/archaeology/normal/common.json`
+- `stellarity:shipwreck/archaeology/normal/rare` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/archaeology/normal/rare.json`
+- `stellarity:shipwreck/archaeology/normal/rare` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/archaeology/normal/rare.json`
+- `stellarity:shipwreck/maps` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/maps.json`
+- `stellarity:shipwreck/maps` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/maps.json`
+- `stellarity:shipwreck/supplies` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/supplies.json`
+- `stellarity:shipwreck/supplies` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/supplies.json`
+- `stellarity:shipwreck/treasure` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/shipwreck/treasure.json`
+- `stellarity:shipwreck/treasure` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/shipwreck/treasure.json`
+
+### `custom/simpletms` (44)
+- `academy:simpletms/category_physical_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/category_physical_tm.json`
+- `academy:simpletms/category_physical_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/category_physical_tr.json`
+- `academy:simpletms/category_special_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/category_special_tm.json`
+- `academy:simpletms/category_special_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/category_special_tr.json`
+- `academy:simpletms/category_status_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/category_status_tm.json`
+- `academy:simpletms/category_status_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/category_status_tr.json`
+- `academy:simpletms/tm_items` — `datapacks/Academy/data/academy/loot_table/simpletms/tm_items.json`
+- `academy:simpletms/tr_items` — `datapacks/Academy/data/academy/loot_table/simpletms/tr_items.json`
+- `academy:simpletms/type_bug_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_bug_tm.json`
+- `academy:simpletms/type_bug_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_bug_tr.json`
+- `academy:simpletms/type_dark_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_dark_tm.json`
+- `academy:simpletms/type_dark_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_dark_tr.json`
+- `academy:simpletms/type_dragon_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_dragon_tm.json`
+- `academy:simpletms/type_dragon_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_dragon_tr.json`
+- `academy:simpletms/type_electric_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_electric_tm.json`
+- `academy:simpletms/type_electric_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_electric_tr.json`
+- `academy:simpletms/type_fairy_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fairy_tm.json`
+- `academy:simpletms/type_fairy_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fairy_tr.json`
+- `academy:simpletms/type_fighting_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fighting_tm.json`
+- `academy:simpletms/type_fighting_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fighting_tr.json`
+- `academy:simpletms/type_fire_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fire_tm.json`
+- `academy:simpletms/type_fire_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_fire_tr.json`
+- `academy:simpletms/type_flying_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_flying_tm.json`
+- `academy:simpletms/type_flying_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_flying_tr.json`
+- `academy:simpletms/type_ghost_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ghost_tm.json`
+- `academy:simpletms/type_ghost_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ghost_tr.json`
+- `academy:simpletms/type_grass_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_grass_tm.json`
+- `academy:simpletms/type_grass_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_grass_tr.json`
+- `academy:simpletms/type_ground_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ground_tm.json`
+- `academy:simpletms/type_ground_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ground_tr.json`
+- `academy:simpletms/type_ice_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ice_tm.json`
+- `academy:simpletms/type_ice_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_ice_tr.json`
+- `academy:simpletms/type_normal_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_normal_tm.json`
+- `academy:simpletms/type_normal_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_normal_tr.json`
+- `academy:simpletms/type_poison_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_poison_tm.json`
+- `academy:simpletms/type_poison_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_poison_tr.json`
+- `academy:simpletms/type_psychic_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_psychic_tm.json`
+- `academy:simpletms/type_psychic_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_psychic_tr.json`
+- `academy:simpletms/type_rock_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_rock_tm.json`
+- `academy:simpletms/type_rock_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_rock_tr.json`
+- `academy:simpletms/type_steel_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_steel_tm.json`
+- `academy:simpletms/type_steel_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_steel_tr.json`
+- `academy:simpletms/type_water_tm` — `datapacks/Academy/data/academy/loot_table/simpletms/type_water_tm.json`
+- `academy:simpletms/type_water_tr` — `datapacks/Academy/data/academy/loot_table/simpletms/type_water_tr.json`
+
+### `custom/stronghold` (58)
+- `stellarity:stronghold/coffin` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/coffin.json`
+- `stellarity:stronghold/coffin` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/coffin.json`
+- `stellarity:stronghold/corridor` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/corridor.json`
+- `stellarity:stronghold/corridor` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/corridor.json`
+- `stellarity:stronghold/farm` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/farm.json`
+- `stellarity:stronghold/farm` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/farm.json`
+- `stellarity:stronghold/junk` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/junk.json`
+- `stellarity:stronghold/junk` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/junk.json`
+- `stellarity:stronghold/library` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/library.json`
+- `stellarity:stronghold/library` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/library.json`
+- `stellarity:stronghold/mobs/buff/evoker` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/buff/evoker.json`
+- `stellarity:stronghold/mobs/buff/evoker` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/buff/evoker.json`
+- `stellarity:stronghold/mobs/buff/illusioner` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/buff/illusioner.json`
+- `stellarity:stronghold/mobs/buff/illusioner` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/buff/illusioner.json`
+- `stellarity:stronghold/mobs/buff/pillager` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/buff/pillager.json`
+- `stellarity:stronghold/mobs/buff/pillager` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/buff/pillager.json`
+- `stellarity:stronghold/mobs/buff/vindicator` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/buff/vindicator.json`
+- `stellarity:stronghold/mobs/buff/vindicator` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/buff/vindicator.json`
+- `stellarity:stronghold/mobs/evoker` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/evoker.json`
+- `stellarity:stronghold/mobs/evoker` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/evoker.json`
+- `stellarity:stronghold/mobs/illusioner` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/illusioner.json`
+- `stellarity:stronghold/mobs/illusioner` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/illusioner.json`
+- `stellarity:stronghold/mobs/pillager` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/pillager.json`
+- `stellarity:stronghold/mobs/pillager` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/pillager.json`
+- `stellarity:stronghold/mobs/vindicator` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/vindicator.json`
+- `stellarity:stronghold/mobs/vindicator` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/vindicator.json`
+- `stellarity:stronghold/mobs/witch` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/mobs/witch.json`
+- `stellarity:stronghold/mobs/witch` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/mobs/witch.json`
+- `stellarity:stronghold/portal_room/brewing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/portal_room/brewing.json`
+- `stellarity:stronghold/portal_room/brewing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/portal_room/brewing.json`
+- `stellarity:stronghold/portal_room/frame` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/portal_room/frame.json`
+- `stellarity:stronghold/portal_room/frame` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/portal_room/frame.json`
+- `stellarity:stronghold/portal_room/library` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/portal_room/library.json`
+- `stellarity:stronghold/portal_room/library` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/portal_room/library.json`
+- `stellarity:stronghold/portal_room/treasure` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/portal_room/treasure.json`
+- `stellarity:stronghold/portal_room/treasure` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/portal_room/treasure.json`
+- `stellarity:stronghold/prison/allay` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/prison/allay.json`
+- `stellarity:stronghold/prison/allay` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/prison/allay.json`
+- `stellarity:stronghold/prison/regular` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/prison/regular.json`
+- `stellarity:stronghold/prison/regular` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/prison/regular.json`
+- `stellarity:stronghold/random_potion` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/random_potion.json`
+- `stellarity:stronghold/random_potion` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/random_potion.json`
+- `stellarity:stronghold/rascal_crossing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/rascal_crossing.json`
+- `stellarity:stronghold/rascal_crossing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/rascal_crossing.json`
+- `stellarity:stronghold/ritual_crossing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/ritual_crossing.json`
+- `stellarity:stronghold/ritual_crossing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/ritual_crossing.json`
+- `stellarity:stronghold/sculk_crossing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/sculk_crossing.json`
+- `stellarity:stronghold/sculk_crossing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/sculk_crossing.json`
+- `stellarity:stronghold/secret_coffin` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/secret_coffin.json`
+- `stellarity:stronghold/secret_coffin` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/secret_coffin.json`
+- `stellarity:stronghold/spider_crossing` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/spider_crossing.json`
+- `stellarity:stronghold/spider_crossing` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/spider_crossing.json`
+- `stellarity:stronghold/storage` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/storage.json`
+- `stellarity:stronghold/storage` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/storage.json`
+- `stellarity:stronghold/workshop_loot` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/workshop_loot.json`
+- `stellarity:stronghold/workshop_loot` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/workshop_loot.json`
+- `stellarity:stronghold/workshop_materials` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/stronghold/workshop_materials.json`
+- `stellarity:stronghold/workshop_materials` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/stronghold/workshop_materials.json`
+
+### `custom/stronghold_barracks_barrel` (1)
+- `mtr:stronghold_barracks_barrel` — `datapacks/Academy/data/mtr/loot_table/stronghold_barracks_barrel.json`
+
+### `custom/stronghold_barracks_chest` (1)
+- `mtr:stronghold_barracks_chest` — `datapacks/Academy/data/mtr/loot_table/stronghold_barracks_chest.json`
+
+### `custom/stronghold_corridor_chest` (1)
+- `mtr:stronghold_corridor_chest` — `datapacks/Academy/data/mtr/loot_table/stronghold_corridor_chest.json`
+
+### `custom/stronghold_corridor_common` (1)
+- `mtr:stronghold_corridor_common` — `datapacks/Academy/data/mtr/loot_table/stronghold_corridor_common.json`
+
+### `custom/stronghold_corridor_empty` (1)
+- `mtr:stronghold_corridor_empty` — `datapacks/Academy/data/mtr/loot_table/stronghold_corridor_empty.json`
+
+### `custom/stronghold_corridor_rare` (1)
+- `mtr:stronghold_corridor_rare` — `datapacks/Academy/data/mtr/loot_table/stronghold_corridor_rare.json`
+
+### `custom/stronghold_corridor_uncommon` (1)
+- `mtr:stronghold_corridor_uncommon` — `datapacks/Academy/data/mtr/loot_table/stronghold_corridor_uncommon.json`
+
+### `custom/stronghold_library_chest` (1)
+- `mtr:stronghold_library_chest` — `datapacks/Academy/data/mtr/loot_table/stronghold_library_chest.json`
+
+### `custom/stronghold_library_trapped_chest` (1)
+- `mtr:stronghold_library_trapped_chest` — `datapacks/Academy/data/mtr/loot_table/stronghold_library_trapped_chest.json`
+
+### `custom/stronghold_mossy_corridor_chest` (1)
+- `mtr:stronghold_mossy_corridor_chest` — `datapacks/Academy/data/mtr/loot_table/stronghold_mossy_corridor_chest.json`
+
+### `custom/stronghold_mossy_special` (1)
+- `mtr:stronghold_mossy_special` — `datapacks/Academy/data/mtr/loot_table/stronghold_mossy_special.json`
+
+### `custom/swamps` (3)
+- `mes:swamps` — `datapacks/Academy/data/mes/loot_table/swamps.json`
+- `mss:swamps` — `datapacks/Academy/data/mss/loot_table/swamps.json`
+- `mvs:swamps` — `datapacks/Academy/data/mvs/loot_table/swamps.json`
+
+### `custom/tower_chest` (1)
+- `totw_modded:tower_chest` — `datapacks/Academy/data/totw_modded/loot_table/tower_chest.json`
+
+### `custom/treasure_heads` (2)
+- `stellarity:treasure_heads` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/treasure_heads.json`
+- `stellarity:treasure_heads` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/treasure_heads.json`
+
+### `custom/village` (66)
+- `stellarity:village/apiary` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/apiary.json`
+- `stellarity:village/apiary` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/apiary.json`
+- `stellarity:village/archer_tower` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/archer_tower.json`
+- `stellarity:village/archer_tower` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/archer_tower.json`
+- `stellarity:village/armorer` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/armorer.json`
+- `stellarity:village/armorer` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/armorer.json`
+- `stellarity:village/butcher` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/butcher.json`
+- `stellarity:village/butcher` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/butcher.json`
+- `stellarity:village/cartographer` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/cartographer.json`
+- `stellarity:village/cartographer` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/cartographer.json`
+- `stellarity:village/cartographer_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/cartographer_shulker_box.json`
+- `stellarity:village/cartographer_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/cartographer_shulker_box.json`
+- `stellarity:village/center/aether` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/center/aether.json`
+- `stellarity:village/center/aether` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/center/aether.json`
+- `stellarity:village/center/market/baker` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/center/market/baker.json`
+- `stellarity:village/center/market/baker` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/center/market/baker.json`
+- `stellarity:village/center/market/enchants` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/center/market/enchants.json`
+- `stellarity:village/center/market/enchants` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/center/market/enchants.json`
+- `stellarity:village/center/market/explorer` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/center/market/explorer.json`
+- `stellarity:village/center/market/explorer` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/center/market/explorer.json`
+- `stellarity:village/center/town_hall` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/center/town_hall.json`
+- `stellarity:village/center/town_hall` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/center/town_hall.json`
+- `stellarity:village/cleric` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/cleric.json`
+- `stellarity:village/cleric` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/cleric.json`
+- `stellarity:village/fisherman` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/fisherman.json`
+- `stellarity:village/fisherman` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/fisherman.json`
+- `stellarity:village/fisherman_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/fisherman_shulker_box.json`
+- `stellarity:village/fisherman_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/fisherman_shulker_box.json`
+- `stellarity:village/fletcher` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/fletcher.json`
+- `stellarity:village/fletcher` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/fletcher.json`
+- `stellarity:village/fletcher_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/fletcher_shulker_box.json`
+- `stellarity:village/fletcher_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/fletcher_shulker_box.json`
+- `stellarity:village/house/bookworm` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/bookworm.json`
+- `stellarity:village/house/bookworm` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/bookworm.json`
+- `stellarity:village/house/common` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/common.json`
+- `stellarity:village/house/common` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/common.json`
+- `stellarity:village/house/lush` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/lush.json`
+- `stellarity:village/house/lush` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/lush.json`
+- `stellarity:village/house/music` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/music.json`
+- `stellarity:village/house/music` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/music.json`
+- `stellarity:village/house/regular` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/regular.json`
+- `stellarity:village/house/regular` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/regular.json`
+- `stellarity:village/house/regular_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/regular_shulker_box.json`
+- `stellarity:village/house/regular_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/regular_shulker_box.json`
+- `stellarity:village/house/warped` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/house/warped.json`
+- `stellarity:village/house/warped` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/house/warped.json`
+- `stellarity:village/leatherworker` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/leatherworker.json`
+- `stellarity:village/leatherworker` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/leatherworker.json`
+- `stellarity:village/librarian` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/librarian.json`
+- `stellarity:village/librarian` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/librarian.json`
+- `stellarity:village/market` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/market.json`
+- `stellarity:village/market` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/market.json`
+- `stellarity:village/mason` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/mason.json`
+- `stellarity:village/mason` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/mason.json`
+- `stellarity:village/shepherd` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/shepherd.json`
+- `stellarity:village/shepherd` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/shepherd.json`
+- `stellarity:village/shepherd_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/shepherd_shulker_box.json`
+- `stellarity:village/shepherd_shulker_box` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/shepherd_shulker_box.json`
+- `stellarity:village/toolsmith` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/toolsmith.json`
+- `stellarity:village/toolsmith` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/toolsmith.json`
+- `stellarity:village/tree_farm_1` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/tree_farm_1.json`
+- `stellarity:village/tree_farm_1` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/tree_farm_1.json`
+- `stellarity:village/tree_farm_2` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/tree_farm_2.json`
+- `stellarity:village/tree_farm_2` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/tree_farm_2.json`
+- `stellarity:village/weaponsmith` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/village/weaponsmith.json`
+- `stellarity:village/weaponsmith` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/village/weaponsmith.json`
+
+### `custom/villages` (1)
+- `cobblemon:villages/village_pokecenters` — `datapacks/Academy/data/cobblemon/loot_table/villages/village_pokecenters.json`
+
+### `custom/waystone_compatibility` (4)
+- `stellarity:waystone_compatibility/fabric` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/waystone_compatibility/fabric.json`
+- `stellarity:waystone_compatibility/fabric` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/waystone_compatibility/fabric.json`
+- `stellarity:waystone_compatibility/forge` — `datapacks/stellarity_lite_3.0.5.6/1_21_/data/stellarity/loot_table/waystone_compatibility/forge.json`
+- `stellarity:waystone_compatibility/forge` — `datapacks/stellarity_lite_3.0.5.6/data/stellarity/loot_table/waystone_compatibility/forge.json`
+
+## Trades / marchands (fichiers détectés)
+- Aucun dossier `data/*/trades` ou `data/*/villager` hors loot_table détecté.

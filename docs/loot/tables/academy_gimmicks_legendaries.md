@@ -1,0 +1,80 @@
+# `academy:gimmicks/legendaries`
+
+- Fichier: `datapacks/Academy/data/academy/loot_table/gimmicks/legendaries.json`
+- Type de source: **custom/gimmicks**
+
+Nombre de pools: **1**
+
+## Pool 1
+- Rolls: `1.0`
+- Bonus rolls: `0.0`
+- Entrées: 69 (somme des poids visibles: 69)
+  - `cobblemon:glacial_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:static_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:flare_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:cloning_cable` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:sacred_lightning` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:sacred_flame` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:sacred_droplet` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:silver_wing` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:rainbow_wing` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:steel_alloy` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:never_melt_icicle` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ancient_ingot` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:infinite_source` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:dragon_skull` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:titan_totem` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:blue_eon_ticket` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:red_eon_ticket` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:blue_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:red_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:jade_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruby_of_willpower` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruby_of_emotion` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruby_of_knowledge` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:adamant_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:lustrous_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:griseous_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:magma_chunk` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:lunar_feather` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:cobalion_sword` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:virizion_sword` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:terrakion_sword` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:thundurus_bottle` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:tornadus_bottle` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:landorus_bottle` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:enamorus_bottle` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:light_stone` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:dark_stone` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:gray_stone` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:tree_of_life` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:cocoon_of_destruction` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:zygarde_cube` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:broken_memory` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:electric_totem` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:psychic_totem` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:grass_totem` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:water_totem` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:solar_core` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:lunar_core` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:eclipse_core` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:rusted_sword` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:rusted_shield` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:dynamax_core` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:mystical_branch` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:frozen_hoof` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ghostly_hoof` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:koraidon_key` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:miraidon_key` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:toxic_scarf` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:toxic_headband` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:toxic_ribbon` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:teal_mask` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:stellar_tera_core` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:psychic_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:combat_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:dark_orb` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruinous_sword` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruinous_beads` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruinous_tablet` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
+  - `cobblemon:ruinous_vessel` (minecraft:item), weight `1` ⇒ prob. relative ~1.45%
