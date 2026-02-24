@@ -1,0 +1,981 @@
+# Arena reward species (rad-gyms caches)
+
+Source: `datapacks/Academy/data/rad-gyms/caches/*.json`
+
+- `abomasnow` — grass/rare
+- `abra` — psychic/uncommon
+- `absol` — dark/rare
+- `accelgor` — bug/rare
+- `aegislash` — ghost/rare, steel/rare
+- `aerodactyl` — rock/rare
+- `aggron` — steel/rare
+- `aipom` — normal/uncommon
+- `alakazam` — psychic/rare
+- `alcremie` — fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare
+- `alomomola` — water/rare
+- `altaria` — dragon/rare
+- `amaura` — rock/uncommon
+- `ambipom` — normal/rare
+- `amoonguss` — grass/rare
+- `ampharos` — electric/rare
+- `annihilape` — fighting/rare
+- `anorith` — rock/uncommon
+- `appletun` — grass/rare
+- `applin` — grass/common
+- `araquanid` — water/rare
+- `arbok` — poison/uncommon
+- `arboliva` — grass/rare
+- `arcanine` — fire/rare, rock/common
+- `arceus` — bug/epic, dark/epic, dragon/epic, electric/epic, fairy/epic, fighting/epic, fire/epic, flying/epic, ghost/epic, grass/epic, ground/epic, ice/epic, normal/epic, poison/epic, psychic/epic, rock/epic, steel/epic, water/epic
+- `archaludon` — steel/epic
+- `archen` — rock/uncommon
+- `archeops` — rock/rare
+- `arctibax` — dragon/uncommon
+- `arctovish` — water/rare
+- `arctozolt` — electric/rare
+- `ariados` — bug/uncommon
+- `armaldo` — rock/rare
+- `armarouge` — fire/rare
+- `aromatisse` — fairy/rare
+- `aron` — steel/uncommon
+- `arrokuda` — water/common
+- `articuno` — ice/epic, psychic/epic
+- `audino` — normal/uncommon
+- `aurorus` — rock/rare
+- `avalugg` — ice/rare, rock/common
+- `axew` — dragon/uncommon
+- `azelf` — psychic/epic
+- `azumarill` — water/uncommon
+- `azurill` — normal/common
+- `bagon` — dragon/uncommon
+- `baltoy` — ground/uncommon
+- `banette` — ghost/rare
+- `barbaracle` — rock/rare
+- `barboach` — water/common
+- `barraskewda` — water/rare
+- `basculegion` — ghost/rare, water/rare
+- `basculin` — water/common, water/rare, water/rare
+- `bastiodon` — rock/rare
+- `baxcalibur` — dragon/epic
+- `beartic` — ice/rare
+- `beautifly` — bug/uncommon
+- `beedrill` — bug/uncommon
+- `beheeyem` — psychic/rare
+- `beldum` — steel/uncommon
+- `bellibolt` — electric/rare
+- `bellossom` — grass/rare
+- `bellsprout` — grass/uncommon
+- `bergmite` — ice/common, ice/uncommon
+- `bewear` — normal/rare
+- `bibarel` — normal/uncommon
+- `bidoof` — normal/common
+- `binacle` — rock/uncommon
+- `bisharp` — dark/rare
+- `blacephalon` — fire/rare
+- `blipbug` — bug/common
+- `blissey` — normal/rare
+- `blitzle` — electric/common
+- `boldore` — rock/uncommon
+- `boltund` — electric/rare
+- `bombirdier` — flying/rare
+- `bonsly` — rock/common
+- `bouffalant` — normal/rare
+- `bounsweet` — grass/common
+- `brambleghast` — grass/rare
+- `bramblin` — grass/common
+- `braviary` — normal/rare, psychic/common
+- `breloom` — grass/rare
+- `bronzong` — steel/rare
+- `bronzor` — steel/uncommon
+- `brutebonnet` — grass/epic
+- `bruxish` — water/rare
+- `budew` — grass/common
+- `buizel` — water/uncommon
+- `bulbasaur` — grass/rare
+- `buneary` — normal/uncommon
+- `bunnelby` — normal/common
+- `burmy` — bug/common, bug/common, bug/common
+- `butterfree` — bug/uncommon
+- `buzzwole` — bug/rare
+- `cacnea` — grass/uncommon
+- `cacturne` — grass/rare
+- `calyrex` — ghost/epic, ice/epic, psychic/epic
+- `camerupt` — fire/rare
+- `capsakid` — grass/uncommon
+- `carbink` — rock/rare
+- `carkol` — rock/uncommon
+- `carnivine` — grass/rare
+- `carracosta` — water/rare
+- `carvanha` — water/uncommon
+- `cascoon` — bug/common
+- `castform` — fire/uncommon, ice/uncommon, normal/uncommon, water/uncommon
+- `caterpie` — bug/common
+- `celebi` — psychic/epic
+- `celesteela` — steel/rare
+- `centiskorch` — fire/rare
+- `ceruledge` — fire/rare
+- `cetitan` — ice/rare
+- `cetoddle` — ice/uncommon
+- `chandelure` — ghost/rare
+- `chansey` — normal/rare
+- `charcadet` — fire/common
+- `charjabug` — bug/uncommon
+- `charmander` — fire/rare
+- `chatot` — normal/uncommon
+- `cherrim` — grass/rare, grass/rare
+- `cherubi` — grass/common
+- `chespin` — grass/rare
+- `chewtle` — water/common
+- `chienpao` — dark/epic
+- `chikorita` — grass/rare
+- `chimchar` — fire/rare
+- `chimecho` — psychic/rare
+- `chinchou` — water/uncommon
+- `chingling` — psychic/common
+- `chiyu` — dark/epic
+- `cinccino` — normal/rare
+- `clamperl` — water/uncommon
+- `clauncher` — water/uncommon
+- `clawitzer` — water/rare
+- `claydol` — ground/rare
+- `clefable` — fairy/rare
+- `clefairy` — fairy/uncommon
+- `cleffa` — fairy/common
+- `clobbopus` — fighting/uncommon
+- `clodsire` — poison/uncommon
+- `cloyster` — water/rare
+- `coalossal` — rock/rare
+- `cobalion` — steel/epic
+- `cofagrigus` — ghost/rare
+- `combee` — bug/common
+- `comfey` — fairy/rare
+- `conkeldurr` — fighting/rare
+- `copperajah` — steel/rare
+- `corphish` — water/uncommon
+- `corsola` — ghost/common, water/uncommon
+- `corviknight` — flying/rare
+- `corvisquire` — flying/uncommon
+- `cosmoem` — psychic/epic
+- `cosmog` — psychic/epic
+- `cottonee` — grass/common
+- `crabominable` — fighting/rare
+- `crabrawler` — fighting/uncommon
+- `cradily` — rock/rare
+- `cramorant` — flying/rare, water/rare, water/rare
+- `cranidos` — rock/uncommon
+- `crawdaunt` — water/rare
+- `cresselia` — psychic/epic
+- `croagunk` — poison/uncommon
+- `crobat` — poison/rare
+- `crustle` — bug/rare
+- `cryogonal` — ice/rare
+- `cubchoo` — ice/uncommon
+- `cubone` — ground/common, ground/uncommon
+- `cufant` — steel/uncommon
+- `cursola` — ghost/rare
+- `cutiefly` — bug/uncommon
+- `cyclizar` — dragon/rare
+- `cyndaquil` — fire/rare, fire/rare
+- `dachsbun` — fairy/rare
+- `darkrai` — dark/epic
+- `darmanitan` — fire/rare, ice/common, ice/common, psychic/rare
+- `dartrix` — flying/common
+- `darumaka` — fire/uncommon, ice/common
+- `decidueye` — fighting/common
+- `dedenne` — electric/uncommon
+- `deerling` — grass/uncommon, grass/uncommon, grass/uncommon, normal/uncommon
+- `deino` — dark/uncommon
+- `delcatty` — normal/uncommon
+- `delibird` — ice/uncommon
+- `deoxys` — psychic/epic, psychic/epic, psychic/epic, psychic/epic
+- `dewgong` — water/rare
+- `dewott` — water/uncommon
+- `dewpider` — water/common
+- `dhelmise` — ghost/rare
+- `dialga` — dragon/epic, steel/epic
+- `diancie` — rock/epic
+- `diggersby` — normal/uncommon
+- `diglett` — ground/common, steel/common
+- `dipplin` — grass/rare
+- `ditto` — normal/common
+- `dodrio` — normal/rare
+- `doduo` — normal/uncommon
+- `dolliv` — grass/uncommon
+- `dondozo` — water/rare
+- `donphan` — ground/rare
+- `dottler` — bug/uncommon
+- `doublade` — steel/uncommon
+- `dracovish` — water/rare
+- `dracozolt` — electric/rare
+- `dragalge` — poison/rare
+- `dragapult` — dragon/epic
+- `dragonair` — dragon/uncommon
+- `dragonite` — dragon/epic
+- `drakloak` — dragon/uncommon
+- `drampa` — normal/rare
+- `drapion` — poison/rare
+- `dratini` — dragon/uncommon
+- `drednaw` — water/rare
+- `dreepy` — dragon/common
+- `drifblim` — ghost/rare
+- `drifloon` — ghost/uncommon
+- `drilbur` — ground/uncommon
+- `drowzee` — psychic/uncommon
+- `druddigon` — dragon/rare
+- `dubwool` — normal/rare
+- `ducklett` — water/uncommon
+- `dudunsparce` — normal/rare, normal/rare
+- `dugtrio` — ground/uncommon, steel/common
+- `dunsparce` — normal/uncommon
+- `duosion` — psychic/uncommon
+- `duraludon` — steel/rare
+- `durant` — bug/rare
+- `dusclops` — ghost/rare
+- `dusknoir` — ghost/rare
+- `duskull` — ghost/common
+- `dustox` — bug/uncommon
+- `dwebble` — bug/uncommon
+- `eelektrik` — electric/uncommon
+- `eelektross` — electric/rare
+- `eevee` — normal/uncommon
+- `eiscue` — ice/rare, ice/rare
+- `ekans` — poison/common
+- `eldegoss` — grass/rare
+- `electabuzz` — electric/rare
+- `electivire` — electric/rare
+- `electrike` — electric/common
+- `electrode` — electric/rare, grass/common
+- `elekid` — electric/common
+- `elgyem` — psychic/uncommon
+- `emolga` — electric/uncommon
+- `enamorus` — fairy/epic, flying/epic
+- `entei` — fire/epic
+- `escavalier` — bug/rare
+- `espathra` — psychic/rare
+- `espeon` — psychic/rare
+- `espurr` — psychic/uncommon
+- `eternatus` — dragon/epic, poison/epic
+- `excadrill` — ground/rare
+- `exeggcute` — grass/uncommon, psychic/common
+- `exeggutor` — dragon/common, grass/rare
+- `exploud` — normal/rare
+- `falinks` — fighting/rare
+- `farfetchd` — fighting/common, normal/uncommon
+- `farigiraf` — normal/rare
+- `fearow` — normal/uncommon
+- `feebas` — water/common
+- `fennekin` — fire/rare
+- `ferroseed` — grass/uncommon
+- `ferrothorn` — grass/rare
+- `fezandipiti` — poison/epic
+- `fidough` — fairy/uncommon
+- `finizen` — water/uncommon
+- `finneon` — water/uncommon
+- `flaaffy` — electric/uncommon
+- `flabebe` — fairy/uncommon, fairy/uncommon, fairy/uncommon, fairy/uncommon, fairy/uncommon
+- `flamigo` — flying/rare
+- `flapple` — grass/rare
+- `flareon` — fire/rare
+- `fletchinder` — fire/uncommon
+- `fletchling` — normal/common
+- `flittle` — psychic/common
+- `floatzel` — water/rare
+- `floette` — fairy/uncommon, fairy/uncommon, fairy/uncommon, fairy/uncommon, fairy/uncommon, fairy/rare
+- `florges` — fairy/rare, fairy/rare, fairy/rare, fairy/rare, fairy/rare
+- `fluttermane` — ghost/epic
+- `flygon` — ground/rare
+- `fomantis` — grass/common
+- `foongus` — grass/common
+- `forretress` — bug/rare
+- `fraxure` — dragon/uncommon
+- `frigibax` — dragon/uncommon
+- `frillish` — water/uncommon
+- `froakie` — water/rare
+- `froslass` — ice/rare
+- `frosmoth` — ice/rare
+- `fuecoco` — fire/rare
+- `furfrou` — normal/rare, normal/rare, normal/rare, normal/rare, normal/rare, normal/rare, normal/rare, normal/rare, normal/rare, normal/rare
+- `furret` — normal/uncommon
+- `gabite` — dragon/uncommon
+- `gallade` — psychic/rare
+- `galvantula` — bug/rare
+- `garbodor` — poison/rare
+- `garchomp` — dragon/epic
+- `gardevoir` — psychic/rare
+- `garganacl` — rock/rare
+- `gastly` — ghost/uncommon
+- `gastrodon` — ground/rare, water/rare
+- `genesect` — bug/epic, steel/epic, steel/epic, steel/epic, steel/epic
+- `gengar` — ghost/rare
+- `geodude` — electric/common, rock/uncommon
+- `gholdengo` — steel/rare
+- `gible` — dragon/uncommon
+- `gigalith` — rock/rare
+- `gimmighoul` — ghost/uncommon, ghost/uncommon
+- `girafarig` — normal/rare
+- `giratina` — dragon/epic, ghost/epic
+- `glaceon` — ice/rare
+- `glalie` — ice/rare
+- `glameow` — normal/uncommon
+- `glastrier` — ice/epic
+- `gligar` — ground/uncommon
+- `glimmet` — rock/uncommon
+- `glimmora` — rock/rare
+- `gliscor` — ground/rare
+- `gloom` — grass/uncommon
+- `gogoat` — grass/rare
+- `golbat` — poison/rare
+- `goldeen` — water/uncommon
+- `golduck` — water/rare
+- `golem` — electric/common, rock/rare
+- `golett` — ground/uncommon
+- `golisopod` — bug/rare
+- `golurk` — ground/rare
+- `goodra` — dragon/epic, steel/common
+- `goomy` — dragon/common, dragon/uncommon
+- `gorebyss` — water/rare
+- `gossifleur` — grass/common
+- `gothita` — psychic/common
+- `gothitelle` — psychic/rare
+- `gothorita` — psychic/uncommon
+- `gougingfire` — fire/epic
+- `gourgeist` — ghost/rare, grass/rare, grass/rare, grass/rare
+- `grafaiai` — poison/rare
+- `granbull` — fairy/rare
+- `grapploct` — fighting/rare
+- `graveler` — electric/common, rock/uncommon
+- `greattusk` — ground/epic
+- `greavard` — ghost/common
+- `greedent` — normal/rare
+- `greninja` — dark/rare, dark/epic
+- `grimer` — dark/common, poison/uncommon
+- `grimmsnarl` — dark/rare
+- `grookey` — grass/rare
+- `groudon` — fire/epic, ground/epic
+- `growlithe` — fire/uncommon, rock/common
+- `grubbin` — bug/uncommon
+- `grumpig` — psychic/rare
+- `gulpin` — poison/uncommon
+- `gumshoos` — normal/uncommon
+- `gurdurr` — fighting/uncommon
+- `guzzlord` — dark/rare
+- `gyarados` — water/rare
+- `hakamoo` — dragon/uncommon
+- `happiny` — normal/common
+- `hariyama` — fighting/rare
+- `hatenna` — psychic/common
+- `hatterene` — psychic/rare
+- `hattrem` — psychic/uncommon
+- `haunter` — ghost/uncommon
+- `hawlucha` — fighting/rare
+- `haxorus` — dragon/rare
+- `heatmor` — fire/rare
+- `heatran` — fire/epic
+- `heliolisk` — electric/rare
+- `helioptile` — electric/common
+- `heracross` — bug/rare
+- `herdier` — normal/uncommon
+- `hippopotas` — ground/uncommon
+- `hippowdon` — ground/rare
+- `hitmonchan` — fighting/rare
+- `hitmonlee` — fighting/rare
+- `hitmontop` — fighting/rare
+- `honchkrow` — dark/rare
+- `honedge` — steel/uncommon
+- `hooh` — fire/epic
+- `hoopa` — dark/epic, psychic/epic
+- `hoothoot` — normal/common
+- `hoppip` — grass/common
+- `horsea` — water/common
+- `houndoom` — dark/rare
+- `houndour` — dark/uncommon
+- `houndstone` — ghost/rare
+- `huntail` — water/rare
+- `hydrapple` — grass/rare
+- `hydreigon` — dark/epic
+- `hypno` — psychic/rare
+- `igglybuff` — normal/common
+- `illumise` — bug/uncommon
+- `impidimp` — dark/common
+- `indeedee` — normal/rare, psychic/rare
+- `inkay` — dark/common
+- `ironboulder` — rock/epic
+- `ironbundle` — ice/epic
+- `ironcrown` — steel/epic
+- `ironhands` — fighting/epic
+- `ironjugulis` — dark/epic
+- `ironleaves` — grass/epic
+- `ironmoth` — fire/epic
+- `ironthorns` — rock/epic
+- `irontreads` — ground/epic
+- `ironvaliant` — fairy/epic
+- `jangmoo` — dragon/uncommon
+- `jellicent` — water/rare
+- `jigglypuff` — normal/common
+- `jirachi` — steel/epic
+- `jolteon` — electric/rare
+- `joltik` — bug/uncommon
+- `jumpluff` — grass/rare
+- `jynx` — ice/rare
+- `kabuto` — rock/uncommon
+- `kabutops` — rock/rare
+- `kadabra` — psychic/uncommon
+- `kakuna` — bug/common
+- `kangaskhan` — normal/rare
+- `karrablast` — bug/uncommon
+- `kartana` — grass/rare
+- `kecleon` — normal/uncommon
+- `keldeo` — fighting/epic, water/epic
+- `kilowattrel` — electric/rare
+- `kingambit` — dark/rare
+- `kingdra` — water/rare
+- `kingler` — water/rare
+- `kirlia` — psychic/common
+- `klang` — steel/uncommon
+- `klawf` — rock/rare
+- `kleavor` — bug/rare
+- `klefki` — steel/rare
+- `klink` — steel/uncommon
+- `klinklang` — steel/rare
+- `koffing` — poison/common, poison/uncommon
+- `komala` — normal/rare
+- `kommoo` — dragon/epic
+- `koraidon` — fighting/epic
+- `krabby` — water/uncommon
+- `kricketot` — bug/common
+- `kricketune` — bug/uncommon
+- `krokorok` — ground/uncommon
+- `krookodile` — ground/rare
+- `kubfu` — fighting/epic
+- `kyogre` — water/epic, water/epic
+- `kyurem` — dragon/epic, ice/epic, ice/epic
+- `lairon` — steel/uncommon
+- `lampent` — ghost/uncommon
+- `landorus` — flying/epic, ground/epic
+- `lanturn` — water/rare
+- `lapras` — water/rare
+- `larvesta` — bug/uncommon
+- `larvitar` — rock/uncommon
+- `latias` — dragon/epic
+- `latios` — dragon/epic
+- `leafeon` — grass/rare
+- `leavanny` — bug/rare
+- `lechonk` — normal/common
+- `ledian` — bug/uncommon
+- `ledyba` — bug/common
+- `lickilicky` — normal/rare
+- `lickitung` — normal/uncommon
+- `liepard` — dark/uncommon
+- `lileep` — rock/uncommon
+- `lilligant` — fighting/common, grass/rare
+- `lillipup` — normal/common
+- `linoone` — dark/common, normal/uncommon
+- `litleo` — fire/uncommon
+- `litten` — fire/rare
+- `litwick` — ghost/common
+- `lokix` — bug/rare
+- `lombre` — water/uncommon
+- `lopunny` — normal/rare
+- `lotad` — water/common
+- `loudred` — normal/uncommon
+- `lucario` — fighting/rare
+- `ludicolo` — water/rare
+- `lugia` — psychic/epic
+- `lumineon` — water/rare
+- `lunala` — psychic/epic
+- `lunatone` — rock/rare
+- `lurantis` — grass/rare
+- `luvdisc` — water/uncommon
+- `luxio` — electric/uncommon
+- `luxray` — electric/rare
+- `lycanroc` — rock/rare, rock/rare, rock/rare
+- `mabosstiff` — dark/rare
+- `machamp` — fighting/rare
+- `machoke` — fighting/uncommon
+- `machop` — fighting/uncommon
+- `magby` — fire/common
+- `magcargo` — fire/uncommon
+- `magearna` — fairy/epic, steel/epic
+- `magikarp` — water/common
+- `magmar` — fire/rare
+- `magmortar` — fire/rare
+- `magnemite` — electric/uncommon
+- `magneton` — electric/rare
+- `magnezone` — electric/rare
+- `makuhita` — fighting/common
+- `malamar` — dark/rare
+- `mamoswine` — ice/rare
+- `manaphy` — water/epic
+- `mandibuzz` — dark/rare
+- `manectric` — electric/rare
+- `mankey` — fighting/uncommon
+- `mantine` — water/rare
+- `mantyke` — water/common
+- `maractus` — grass/rare
+- `mareanie` — poison/uncommon
+- `mareep` — electric/common
+- `marill` — water/common
+- `marowak` — fire/common, ground/uncommon
+- `marshadow` — fighting/epic
+- `maschiff` — dark/uncommon
+- `masquerain` — bug/rare
+- `maushold` — normal/rare, normal/rare
+- `mawile` — steel/uncommon
+- `medicham` — fighting/uncommon
+- `meditite` — fighting/common
+- `melmetal` — steel/epic
+- `meloetta` — fighting/epic, normal/epic
+- `meltan` — steel/epic
+- `meowstic` — psychic/rare, psychic/rare
+- `meowth` — dark/common, normal/common, steel/common
+- `mesprit` — psychic/epic
+- `metagross` — steel/epic
+- `metang` — steel/uncommon
+- `metapod` — bug/common
+- `mew` — psychic/epic
+- `mewtwo` — psychic/epic
+- `mienfoo` — fighting/uncommon
+- `mienshao` — fighting/rare
+- `mightyena` — dark/uncommon
+- `milcery` — fairy/common
+- `milotic` — water/rare
+- `miltank` — normal/rare
+- `mimejr` — fairy/common, psychic/common
+- `mimikyu` — fairy/rare, ghost/rare
+- `minccino` — normal/uncommon
+- `minior` — flying/uncommon, rock/rare
+- `minun` — electric/uncommon
+- `miraidon` — electric/epic
+- `misdreavus` — ghost/uncommon
+- `mismagius` — ghost/rare
+- `moltres` — dark/epic, fire/epic
+- `morelull` — grass/common
+- `morgrem` — dark/uncommon
+- `morpeko` — dark/uncommon, electric/uncommon
+- `mothim` — bug/uncommon
+- `mrmime` — ice/common, psychic/rare
+- `mrrime` — ice/rare
+- `mudbray` — ground/uncommon
+- `mudkip` — water/rare
+- `mudsdale` — ground/rare
+- `muk` — dark/common, poison/rare
+- `munchlax` — normal/common
+- `munkidori` — poison/epic
+- `munna` — psychic/common
+- `murkrow` — dark/uncommon
+- `musharna` — psychic/rare
+- `nacli` — rock/common
+- `naclstack` — rock/uncommon
+- `naganadel` — poison/rare
+- `natu` — psychic/uncommon
+- `necrozma` — dragon/epic, ghost/epic, psychic/epic, steel/epic
+- `nickit` — dark/common
+- `nidoking` — poison/rare
+- `nidoqueen` — poison/rare
+- `nidoranf` — poison/common
+- `nidoranm` — poison/common
+- `nidorina` — poison/uncommon
+- `nidorino` — poison/uncommon
+- `nihilego` — rock/rare
+- `nincada` — bug/common
+- `ninetales` — fire/rare, ice/common
+- `ninjask` — bug/rare
+- `noctowl` — normal/rare
+- `noibat` — flying/common
+- `noivern` — flying/rare
+- `nosepass` — rock/uncommon
+- `numel` — fire/uncommon
+- `nuzleaf` — grass/uncommon
+- `nymble` — bug/common
+- `obstagoon` — dark/rare
+- `octillery` — water/rare
+- `oddish` — grass/uncommon
+- `ogerpon` — fire/epic, fire/epic, grass/epic, grass/epic, rock/epic, rock/epic, water/epic, water/epic
+- `oinkologne` — normal/rare, normal/rare
+- `okidogi` — poison/epic
+- `omanyte` — rock/uncommon
+- `omastar` — rock/rare
+- `onix` — rock/uncommon
+- `oranguru` — normal/rare
+- `orbeetle` — bug/rare
+- `oricorio` — electric/rare, fire/rare, ghost/rare, psychic/rare
+- `orthworm` — steel/rare
+- `oshawott` — water/uncommon, water/rare
+- `overqwil` — dark/rare
+- `pachirisu` — electric/uncommon
+- `palafin` — water/rare, water/epic
+- `palkia` — dragon/epic, water/epic
+- `palossand` — ghost/rare
+- `palpitoad` — water/uncommon
+- `pancham` — fighting/uncommon
+- `pangoro` — fighting/rare
+- `panpour` — water/uncommon
+- `pansage` — grass/uncommon
+- `pansear` — fire/uncommon
+- `paras` — bug/common
+- `parasect` — bug/uncommon
+- `passimian` — fighting/rare
+- `patrat` — normal/common
+- `pawmi` — electric/common
+- `pawmo` — electric/uncommon
+- `pawmot` — electric/rare
+- `pawniard` — dark/uncommon
+- `pecharunt` — poison/epic
+- `pelipper` — water/uncommon
+- `perrserker` — steel/uncommon
+- `persian` — dark/common, normal/uncommon
+- `petilil` — grass/common, grass/common
+- `phanpy` — ground/uncommon
+- `phantump` — ghost/uncommon
+- `pheromosa` — bug/rare
+- `phione` — water/epic
+- `pichu` — electric/common, electric/common
+- `pidgeot` — normal/rare
+- `pidgeotto` — normal/uncommon
+- `pidgey` — normal/common
+- `pidove` — normal/common
+- `pikachu` — electric/common, electric/uncommon, electric/uncommon
+- `pikipek` — normal/common
+- `piloswine` — ice/rare
+- `pincurchin` — electric/uncommon
+- `pineco` — bug/common
+- `pinsir` — bug/rare
+- `piplup` — water/rare
+- `plusle` — electric/uncommon
+- `poipole` — poison/rare
+- `politoed` — water/rare
+- `poliwag` — water/uncommon
+- `poliwhirl` — water/uncommon
+- `poliwrath` — water/rare
+- `poltchageist` — ghost/uncommon, grass/uncommon
+- `polteageist` — ghost/rare, ghost/rare
+- `ponyta` — fire/uncommon, psychic/common
+- `poochyena` — dark/common
+- `popplio` — water/rare
+- `porygon` — normal/uncommon
+- `porygon2` — normal/rare
+- `porygonz` — normal/rare
+- `primeape` — fighting/rare
+- `probopass` — rock/rare
+- `psyduck` — water/uncommon
+- `pumpkaboo` — ghost/uncommon, grass/uncommon, grass/uncommon, grass/uncommon
+- `pupitar` — rock/uncommon
+- `purrloin` — dark/common
+- `purugly` — normal/rare
+- `pyroar` — fire/rare
+- `pyukumuku` — water/uncommon
+- `quagsire` — water/uncommon
+- `quaxly` — water/rare
+- `qwilfish` — dark/common, water/uncommon
+- `rabsca` — bug/rare
+- `ragingbolt` — electric/epic
+- `raichu` — electric/rare, psychic/common
+- `raikou` — electric/epic
+- `ralts` — psychic/common
+- `rampardos` — rock/rare
+- `rapidash` — fire/rare, psychic/common
+- `raticate` — dark/common, normal/uncommon
+- `rattata` — dark/common, normal/common
+- `rayquaza` — dragon/epic
+- `regice` — ice/epic
+- `regidrago` — dragon/epic
+- `regieleki` — electric/epic
+- `regigigas` — normal/epic
+- `regirock` — rock/epic
+- `registeel` — steel/epic
+- `relicanth` — water/rare
+- `rellor` — bug/common
+- `remoraid` — water/uncommon
+- `reshiram` — dragon/epic
+- `reuniclus` — psychic/rare
+- `revavroom` — steel/rare
+- `rhydon` — ground/rare
+- `rhyhorn` — ground/uncommon
+- `rhyperior` — ground/rare
+- `ribombee` — bug/rare
+- `riolu` — fighting/common
+- `roaringmoon` — dragon/epic
+- `rockruff` — rock/common, rock/common
+- `roggenrola` — rock/common
+- `rolycoly` — rock/common
+- `rookidee` — flying/common
+- `roselia` — grass/uncommon
+- `roserade` — grass/rare
+- `rotom` — electric/uncommon, fire/rare, flying/rare, grass/rare, ice/rare, water/rare
+- `rowlet` — flying/common, grass/rare
+- `rufflet` — flying/common, normal/uncommon
+- `runerigus` — ground/rare
+- `sableye` — dark/uncommon
+- `salamence` — dragon/epic
+- `salandit` — poison/uncommon
+- `salazzle` — poison/rare
+- `samurott` — dark/common
+- `sandaconda` — ground/rare
+- `sandile` — ground/common
+- `sandshrew` — ground/uncommon, ice/common
+- `sandslash` — ground/rare, ice/common
+- `sandygast` — ghost/uncommon
+- `sandyshocks` — electric/epic
+- `sawk` — fighting/rare
+- `sawsbuck` — grass/rare, grass/rare, grass/rare, normal/rare
+- `scatterbug` — bug/common
+- `scizor` — bug/rare
+- `scolipede` — bug/rare
+- `scorbunny` — fire/rare
+- `scovillain` — grass/rare
+- `scrafty` — dark/rare
+- `scraggy` — dark/uncommon
+- `screamtail` — fairy/epic
+- `scyther` — bug/rare
+- `seadra` — water/uncommon
+- `seaking` — water/rare
+- `sealeo` — ice/uncommon
+- `seedot` — grass/common
+- `seel` — water/uncommon
+- `seismitoad` — water/rare
+- `sentret` — normal/common
+- `seviper` — poison/rare
+- `sewaddle` — bug/uncommon
+- `sharpedo` — water/rare
+- `shaymin` — flying/epic, grass/epic
+- `shedinja` — bug/common
+- `shelgon` — dragon/uncommon
+- `shellder` — water/uncommon
+- `shellos` — water/uncommon, water/uncommon
+- `shelmet` — bug/uncommon
+- `shieldon` — rock/uncommon
+- `shiftry` — grass/rare
+- `shiinotic` — grass/uncommon
+- `shinx` — electric/common
+- `shroodle` — poison/common
+- `shroomish` — grass/common
+- `shuckle` — bug/rare
+- `shuppet` — ghost/common
+- `sigilyph` — psychic/rare
+- `silcoon` — bug/common
+- `silicobra` — ground/uncommon
+- `silvally` — bug/epic, dark/epic, dragon/epic, electric/epic, fairy/epic, fighting/epic, fire/epic, flying/epic, ghost/epic, grass/epic, ground/epic, ice/epic, normal/epic, poison/epic, psychic/epic, rock/epic, steel/epic, water/epic
+- `simipour` — water/rare
+- `simisage` — grass/rare
+- `simisear` — fire/rare
+- `sinistcha` — ghost/rare, grass/rare
+- `sinistea` — ghost/uncommon, ghost/uncommon
+- `sirfetchd` — fighting/rare
+- `sizzlipede` — fire/uncommon
+- `skarmory` — steel/rare
+- `skiddo` — grass/uncommon
+- `skiploom` — grass/uncommon
+- `skitty` — normal/common
+- `skorupi` — poison/uncommon
+- `skrelp` — poison/uncommon
+- `skuntank` — poison/rare
+- `skwovet` — normal/common
+- `slaking` — normal/epic
+- `slakoth` — normal/common
+- `sliggoo` — dragon/rare, steel/common
+- `slitherwing` — bug/epic
+- `slowbro` — poison/common, water/rare
+- `slowking` — poison/common, water/rare
+- `slowpoke` — psychic/common, water/uncommon
+- `slugma` — fire/common
+- `slurpuff` — fairy/rare
+- `smeargle` — normal/common
+- `smoliv` — grass/common
+- `smoochum` — ice/common
+- `sneasel` — dark/uncommon, fighting/common
+- `sneasler` — fighting/rare
+- `snivy` — grass/rare
+- `snom` — ice/common
+- `snorlax` — normal/rare
+- `snorunt` — ice/uncommon
+- `snover` — grass/uncommon
+- `snubbull` — fairy/uncommon
+- `sobble` — water/rare
+- `solgaleo` — psychic/epic
+- `solosis` — psychic/common
+- `solrock` — rock/rare
+- `spearow` — normal/common
+- `spectrier` — ghost/epic
+- `spewpa` — bug/common
+- `spheal` — ice/common
+- `spidops` — bug/uncommon
+- `spinarak` — bug/common
+- `spinda` — normal/uncommon
+- `spiritomb` — ghost/rare
+- `spoink` — psychic/uncommon
+- `sprigatito` — grass/rare
+- `spritzee` — fairy/uncommon
+- `squawkabilly` — flying/uncommon, flying/uncommon, flying/uncommon, normal/uncommon
+- `squirtle` — water/rare
+- `stakataka` — rock/rare
+- `stantler` — normal/rare
+- `staraptor` — normal/rare
+- `staravia` — normal/uncommon
+- `starly` — normal/common
+- `starmie` — water/rare
+- `staryu` — water/uncommon
+- `steelix` — steel/rare
+- `steenee` — grass/common
+- `stonjourner` — rock/rare
+- `stoutland` — normal/rare
+- `stufful` — normal/uncommon
+- `stunfisk` — ground/rare, steel/common
+- `stunky` — poison/uncommon
+- `sudowoodo` — rock/uncommon
+- `suicune` — water/epic
+- `sunflora` — grass/uncommon
+- `sunkern` — grass/common
+- `surskit` — bug/common
+- `swablu` — normal/uncommon
+- `swadloon` — bug/uncommon
+- `swalot` — poison/rare
+- `swanna` — water/rare
+- `swellow` — normal/rare
+- `swinub` — ice/common
+- `swirlix` — fairy/uncommon
+- `swoobat` — psychic/uncommon
+- `sylveon` — fairy/rare
+- `tadbulb` — electric/common
+- `taillow` — normal/common
+- `talonflame` — fire/rare
+- `tandemaus` — normal/uncommon
+- `tangela` — grass/uncommon
+- `tangrowth` — grass/rare
+- `tapubulu` — grass/epic
+- `tapufini` — water/epic
+- `tapukoko` — electric/epic
+- `tapulele` — psychic/epic
+- `tarountula` — bug/common
+- `tatsugiri` — dragon/rare, water/rare, water/rare
+- `tauros` — fighting/common, fighting/common, fighting/common, normal/rare
+- `teddiursa` — normal/uncommon
+- `tentacool` — water/uncommon
+- `tentacruel` — water/rare
+- `tepig` — fire/rare
+- `terapagos` — normal/epic, normal/epic, normal/epic
+- `terrakion` — rock/epic
+- `thievul` — dark/rare
+- `throh` — fighting/rare
+- `thundurus` — electric/epic, flying/epic
+- `timburr` — fighting/uncommon
+- `tinglu` — dark/epic
+- `tinkatink` — fairy/common
+- `tinkaton` — fairy/rare
+- `tinkatuff` — fairy/uncommon
+- `tirtouga` — water/uncommon
+- `toedscool` — ground/uncommon
+- `toedscruel` — ground/rare
+- `togedemaru` — electric/uncommon
+- `togekiss` — fairy/rare
+- `togepi` — fairy/common
+- `togetic` — fairy/uncommon
+- `torchic` — fire/rare
+- `torkoal` — fire/rare
+- `tornadus` — flying/epic, flying/epic
+- `totodile` — water/rare
+- `toucannon` — normal/rare
+- `toxapex` — poison/rare
+- `toxel` — electric/common
+- `toxicroak` — poison/rare
+- `toxtricity` — electric/rare, poison/rare
+- `tranquill` — normal/uncommon
+- `trapinch` — ground/common
+- `treecko` — grass/rare
+- `trevenant` — ghost/rare
+- `tropius` — grass/rare
+- `trubbish` — poison/uncommon
+- `trumbeak` — normal/uncommon
+- `tsareena` — grass/rare
+- `turtonator` — fire/rare
+- `turtwig` — grass/rare
+- `tympole` — water/common
+- `tynamo` — electric/common
+- `typenull` — normal/epic
+- `typhlosion` — ghost/common
+- `tyranitar` — rock/epic
+- `tyrantrum` — rock/rare
+- `tyrogue` — fighting/common
+- `tyrunt` — rock/uncommon
+- `umbreon` — dark/rare
+- `unfezant` — normal/rare
+- `unown` — psychic/uncommon
+- `ursaluna` — ground/rare, normal/rare
+- `ursaring` — normal/rare
+- `urshifu` — fighting/epic, water/epic
+- `uxie` — psychic/epic
+- `vanillish` — ice/uncommon
+- `vanillite` — ice/uncommon
+- `vanilluxe` — ice/rare
+- `vaporeon` — water/rare
+- `varoom` — steel/uncommon
+- `veluza` — water/rare
+- `venipede` — bug/common
+- `venomoth` — bug/rare
+- `venonat` — bug/uncommon
+- `vespiquen` — bug/rare
+- `vibrava` — ground/uncommon
+- `victini` — psychic/epic
+- `victreebel` — grass/rare
+- `vigoroth` — normal/uncommon
+- `vikavolt` — bug/rare
+- `vileplume` — grass/rare
+- `virizion` — grass/epic
+- `vivillon` — bug/uncommon, flying/uncommon
+- `volbeat` — bug/uncommon
+- `volcanion` — fire/epic
+- `volcarona` — bug/rare
+- `voltorb` — electric/uncommon, grass/common
+- `vullaby` — dark/uncommon
+- `vulpix` — fire/common, ice/common
+- `wailmer` — water/uncommon
+- `wailord` — water/rare
+- `walkingwake` — water/epic
+- `walrein` — ice/rare
+- `watchog` — normal/uncommon
+- `wattrel` — electric/common
+- `weavile` — dark/rare
+- `weedle` — bug/common
+- `weepinbell` — grass/uncommon
+- `weezing` — fairy/common, poison/rare
+- `whimsicott` — grass/rare
+- `whirlipede` — bug/uncommon
+- `whiscash` — water/rare
+- `whismur` — normal/common
+- `wigglytuff` — normal/uncommon
+- `wiglett` — water/common
+- `wimpod` — bug/common
+- `wingull` — water/common
+- `wishiwashi` — water/common, water/epic
+- `wobbuffet` — psychic/uncommon
+- `wochien` — dark/epic
+- `woobat` — psychic/uncommon
+- `wooloo` — normal/common
+- `wooper` — poison/common, water/common
+- `wormadam` — bug/uncommon, ground/uncommon, steel/uncommon
+- `wugtrio` — water/uncommon
+- `wurmple` — bug/common
+- `wynaut` — psychic/common
+- `wyrdeer` — normal/rare
+- `xatu` — psychic/rare
+- `xerneas` — fairy/epic, fairy/epic
+- `xurkitree` — electric/rare
+- `yamask` — ghost/uncommon, ground/common
+- `yamper` — electric/common
+- `yanma` — bug/uncommon
+- `yanmega` — bug/rare
+- `yungoos` — normal/common
+- `yveltal` — dark/epic
+- `zacian` — fairy/epic, steel/epic
+- `zamazenta` — fighting/epic, steel/epic
+- `zangoose` — normal/rare
+- `zapdos` — electric/epic, fighting/epic
+- `zarude` — dark/epic, grass/epic
+- `zebstrika` — electric/rare
+- `zekrom` — dragon/epic
+- `zeraora` — electric/epic
+- `zigzagoon` — dark/common, normal/common
+- `zoroark` — dark/rare, normal/common
+- `zorua` — dark/uncommon, normal/common
+- `zubat` — poison/common
+- `zweilous` — dark/uncommon
+- `zygarde` — dragon/epic, ground/epic, ground/epic, ground/epic, ground/epic
