@@ -1,0 +1,80 @@
+{
+  "uuid": "e3cfc9e9-2d47-4cab-a7de-7d724c8ceede",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "6a025d8b-b2db-4cdd-a7ef-2363b6466dc9",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 12,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 7,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 7,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 2,
+      "electric": 2,
+      "flying": 1,
+      "fairy": 2,
+      "bug": 2,
+      "poison": 1,
+      "steel": 2,
+      "normal": 2,
+      "dark": 2,
+      "fire": 2,
+      "rock": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:meowth": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:shellder": [
+        "male"
+      ],
+      "cobblemon:wattrel": [
+        "male"
+      ],
+      "cobblemon:snubbull": [
+        "female"
+      ],
+      "cobblemon:weedle": [
+        "male"
+      ],
+      "cobblemon:pachirisu": [
+        "female"
+      ],
+      "cobblemon:durant": [
+        "female"
+      ],
+      "cobblemon:kilowattrel": [
+        "male"
+      ],
+      "cobblemon:meowth": [
+        "female"
+      ],
+      "cobblemon:pawniard": [
+        "male"
+      ],
+      "cobblemon:growlithe": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:houndour": [
+        "male"
+      ],
+      "cobblemon:igglybuff": [
+        "female"
+      ],
+      "cobblemon:poliwhirl": [
+        "female"
+      ]
+    }
+  }
+}

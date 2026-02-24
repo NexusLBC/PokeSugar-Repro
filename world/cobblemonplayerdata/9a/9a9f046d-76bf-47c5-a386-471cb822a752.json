@@ -1,0 +1,185 @@
+{
+  "uuid": "9a9f046d-76bf-47c5-a386-471cb822a752",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "67f071cf-3dcd-430e-8b26-7d2f0f1e99df",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 42,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 16,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 16,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 9,
+      "flying": 6,
+      "dark": 2,
+      "water": 8,
+      "fire": 3,
+      "ice": 2,
+      "poison": 3,
+      "bug": 8,
+      "rock": 2,
+      "ground": 2,
+      "electric": 7,
+      "psychic": 1,
+      "grass": 2,
+      "fairy": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:geodude": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:electrike": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:gimmighoul": 2,
+      "cobblemon:miltank": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:pidgey": [
+        "female"
+      ],
+      "cobblemon:grotle": [
+        "female"
+      ],
+      "cobblemon:zorua": [
+        "male"
+      ],
+      "cobblemon:torterra": [
+        "female",
+        "tree-none"
+      ],
+      "cobblemon:magikarp": [
+        "shiny",
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:slugma": [
+        "male"
+      ],
+      "cobblemon:lapras": [
+        "female"
+      ],
+      "cobblemon:mareanie": [
+        "male"
+      ],
+      "cobblemon:wishiwashi": [
+        "male",
+        "solo-form"
+      ],
+      "cobblemon:arrokuda": [
+        "female"
+      ],
+      "cobblemon:krabby": [
+        "male"
+      ],
+      "cobblemon:ariados": [
+        "male"
+      ],
+      "cobblemon:venipede": [
+        "male"
+      ],
+      "cobblemon:mothim": [
+        "male"
+      ],
+      "cobblemon:geodude": [
+        "male"
+      ],
+      "cobblemon:buizel": [
+        "female"
+      ],
+      "cobblemon:vikavolt": [
+        "female"
+      ],
+      "cobblemon:phanpy": [
+        "female"
+      ],
+      "cobblemon:patrat": [
+        "female"
+      ],
+      "cobblemon:woobat": [
+        "female"
+      ],
+      "cobblemon:nymble": [
+        "female"
+      ],
+      "cobblemon:purrloin": [
+        "female"
+      ],
+      "cobblemon:blipbug": [
+        "male"
+      ],
+      "cobblemon:caterpie": [
+        "male"
+      ],
+      "cobblemon:bunnelby": [
+        "female"
+      ],
+      "cobblemon:flaaffy": [
+        "male"
+      ],
+      "cobblemon:lechonk": [
+        "female"
+      ],
+      "cobblemon:pachirisu": [
+        "male"
+      ],
+      "cobblemon:skwovet": [
+        "male"
+      ],
+      "cobblemon:seedot": [
+        "male"
+      ],
+      "cobblemon:electrike": [
+        "female"
+      ],
+      "cobblemon:combee": [
+        "male"
+      ],
+      "cobblemon:binacle": [
+        "male"
+      ],
+      "cobblemon:comfey": [
+        "female"
+      ],
+      "cobblemon:buneary": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:pidgeotto": [
+        "male"
+      ],
+      "cobblemon:kilowattrel": [
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "female"
+      ],
+      "cobblemon:snover": [
+        "female"
+      ],
+      "cobblemon:elekid": [
+        "male"
+      ],
+      "cobblemon:torchic": [
+        "male"
+      ],
+      "cobblemon:pichu": [
+        "female"
+      ],
+      "cobblemon:tepig": [
+        "male"
+      ]
+    }
+  }
+}

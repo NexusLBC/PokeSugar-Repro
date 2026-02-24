@@ -1,0 +1,161 @@
+{
+  "uuid": "47429e53-7f13-42ea-a25e-a75919b5c970",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "63b9484b-aa0e-4564-b2f3-1e891e8bf0e6",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 24,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 25,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 25,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 5,
+    "totalTypeCaptureCounts": {
+      "normal": 3,
+      "flying": 3,
+      "water": 1,
+      "dark": 3,
+      "ground": 8,
+      "ghost": 4,
+      "grass": 2,
+      "electric": 2,
+      "fighting": 1,
+      "poison": 2,
+      "rock": 2,
+      "fairy": 1,
+      "fire": 2,
+      "bug": 1,
+      "psychic": 1,
+      "dragon": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:wingull": 1,
+      "cobblemon:elgyem": 1,
+      "cobblemon:seedot": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:ledyba": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:orthworm": 1,
+      "cobblemon:marowak": 1,
+      "cobblemon:drilbur": 1,
+      "cobblemon:misdreavus": 1,
+      "cobblemon:terrakion": 1,
+      "cobblemon:haunter": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:taillow": [
+        "male",
+        "shiny"
+      ],
+      "cobblemon:monferno": [
+        "female"
+      ],
+      "cobblemon:crawdaunt": [
+        "male"
+      ],
+      "cobblemon:swellow": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:yungoos": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:gumshoos": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:infernape": [
+        "female"
+      ],
+      "cobblemon:runerigus": [
+        "female"
+      ],
+      "cobblemon:sandaconda": [
+        "male"
+      ],
+      "cobblemon:cacturne": [
+        "female"
+      ],
+      "cobblemon:sandile": [
+        "male"
+      ],
+      "cobblemon:silicobra": [
+        "male"
+      ],
+      "cobblemon:hippopotas": [
+        "male"
+      ],
+      "cobblemon:sandshrew": [
+        "male"
+      ],
+      "cobblemon:maractus": [
+        "male"
+      ],
+      "cobblemon:pawmo": [
+        "female"
+      ],
+      "cobblemon:cubone": [
+        "male"
+      ],
+      "cobblemon:golbat": [
+        "female"
+      ],
+      "cobblemon:carbink": [
+        "genderless"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:misdreavus": [
+        "female"
+      ],
+      "cobblemon:arcanine": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:duskull": [
+        "male"
+      ],
+      "cobblemon:rabsca": [
+        "female"
+      ],
+      "cobblemon:sandslash": [
+        "male"
+      ],
+      "cobblemon:charmander": [
+        "male"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:charizard": [
+        "male",
+        "none"
+      ],
+      "cobblemon:dusclops": [
+        "male"
+      ],
+      "cobblemon:miraidon": [
+        "genderless"
+      ],
+      "cobblemon:seedot": [
+        "female"
+      ],
+      "cobblemon:ampharos": [
+        "male",
+        "none"
+      ]
+    }
+  }
+}

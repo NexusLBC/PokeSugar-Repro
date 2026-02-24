@@ -1,0 +1,47 @@
+{
+  "uuid": "5226cde7-b647-45e4-98a6-c374cb3c8125",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "a9258376-27c5-4815-84c9-7aed0a7cf842",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 6,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 6,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "electric": 1,
+      "fire": 1,
+      "rock": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:mareep": 1,
+      "cobblemon:yungoos": 1,
+      "cobblemon:ponyta": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:pikachu": [
+        "male"
+      ],
+      "cobblemon:growlithe": [
+        "female",
+        "hisuian"
+      ]
+    }
+  }
+}

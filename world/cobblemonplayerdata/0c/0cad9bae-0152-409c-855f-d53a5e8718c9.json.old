@@ -1,0 +1,111 @@
+{
+  "uuid": "0cad9bae-0152-409c-855f-d53a5e8718c9",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "383d30a2-c9b6-4672-8ef0-44f230933b06",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 11,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 39,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 38,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 5,
+    "totalTypeCaptureCounts": {
+      "psychic": 2,
+      "grass": 1,
+      "dark": 2,
+      "electric": 2,
+      "flying": 4,
+      "poison": 1,
+      "water": 1,
+      "fire": 1,
+      "normal": 1,
+      "rock": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:combee": 1,
+      "cobblemon:gimmighoul": 2,
+      "cobblemon:burmy": 1,
+      "cobblemon:hoothoot": 1,
+      "cobblemon:doduo": 1,
+      "cobblemon:wingull": 1,
+      "cobblemon:fletchling": 1,
+      "cobblemon:pineco": 2,
+      "cobblemon:grubbin": 1,
+      "cobblemon:skiddo": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:tarountula": 1,
+      "cobblemon:yungoos": 1,
+      "cobblemon:corsola": 2,
+      "cobblemon:rattata": 1,
+      "cobblemon:dustox": 1,
+      "cobblemon:ditto": 1,
+      "cobblemon:rolycoly": 1,
+      "cobblemon:murkrow": 1,
+      "cobblemon:teddiursa": 1,
+      "cobblemon:furfrou": 1,
+      "cobblemon:stantler": 1,
+      "cobblemon:cetoddle": 1,
+      "cobblemon:snover": 1,
+      "cobblemon:yamask": 1,
+      "cobblemon:zubat": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:elgyem": [
+        "female"
+      ],
+      "cobblemon:seedot": [
+        "female"
+      ],
+      "cobblemon:zorua": [
+        "male"
+      ],
+      "cobblemon:dewott": [
+        "male"
+      ],
+      "cobblemon:kilowattrel": [
+        "male"
+      ],
+      "cobblemon:skrelp": [
+        "female"
+      ],
+      "cobblemon:talonflame": [
+        "male"
+      ],
+      "cobblemon:absol": [
+        "male",
+        "none"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:braviary": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:minior": [
+        "genderless",
+        "core-form",
+        "yellow-core"
+      ],
+      "cobblemon:ampharos": [
+        "male",
+        "none"
+      ],
+      "cobblemon:dusknoir": [
+        "male"
+      ],
+      "cobblemon:golbat": [
+        "female"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "uuid": "1152a937-a59c-4d2b-84f5-86fbd1aba780",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "5e0dbfd9-6d0c-4e1f-b0d2-77d0364ad77d",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 20,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 44,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 44,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "grass": 3,
+      "fairy": 1,
+      "bug": 1,
+      "flying": 2,
+      "normal": 7,
+      "poison": 1,
+      "ground": 1,
+      "fire": 4,
+      "water": 2,
+      "electric": 1,
+      "dark": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:cottonee": 1,
+      "cobblemon:cutiefly": 1,
+      "cobblemon:abra": 1,
+      "cobblemon:bouffalant": 2,
+      "cobblemon:electrike": 1,
+      "cobblemon:minun": 3,
+      "cobblemon:tauros": 1,
+      "cobblemon:slugma": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:nickit": 2,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:linoone": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:maushold": 1,
+      "cobblemon:jigglypuff": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:chewtle": 1,
+      "cobblemon:drilbur": 1,
+      "cobblemon:cleffa": 1,
+      "cobblemon:swellow": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:cottonee": [
+        "female"
+      ],
+      "cobblemon:ledian": [
+        "female"
+      ],
+      "cobblemon:fomantis": [
+        "female"
+      ],
+      "cobblemon:deerling": [
+        "male",
+        "spring"
+      ],
+      "cobblemon:yungoos": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:watchog": [
+        "female"
+      ],
+      "cobblemon:wooloo": [
+        "male",
+        "color-none"
+      ],
+      "cobblemon:seviper": [
+        "male"
+      ],
+      "cobblemon:mudsdale": [
+        "male"
+      ],
+      "cobblemon:zangoose": [
+        "male"
+      ],
+      "cobblemon:ponyta": [
+        "female"
+      ],
+      "cobblemon:tepig": [
+        "female"
+      ],
+      "cobblemon:rapidash": [
+        "male"
+      ],
+      "cobblemon:chewtle": [
+        "male",
+        "female"
+      ],
+      "cobblemon:oricorio": [
+        "male",
+        "baile-style"
+      ],
+      "cobblemon:plusle": [
+        "male"
+      ],
+      "cobblemon:zigzagoon": [
+        "female"
+      ],
+      "cobblemon:gumshoos": [
+        "female"
+      ],
+      "cobblemon:nickit": [
+        "female"
+      ]
+    }
+  }
+}

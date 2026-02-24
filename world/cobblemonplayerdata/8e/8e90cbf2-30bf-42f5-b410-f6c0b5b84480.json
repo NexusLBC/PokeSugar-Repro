@@ -1,0 +1,62 @@
+{
+  "uuid": "8e90cbf2-30bf-42f5-b410-f6c0b5b84480",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "72151374-5337-40ef-b857-79a76891e509",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 10,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 10,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "electric": 1,
+      "normal": 1,
+      "poison": 3,
+      "steel": 1,
+      "rock": 1,
+      "ghost": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:wattrel": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:electrike": 1,
+      "cobblemon:murkrow": 1,
+      "cobblemon:seviper": 1,
+      "cobblemon:geodude": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:shinx": [
+        "female"
+      ],
+      "cobblemon:jolteon": [
+        "male"
+      ],
+      "cobblemon:meowth": [
+        "female"
+      ],
+      "cobblemon:arbok": [
+        "male",
+        "snake-pattern-elusive"
+      ],
+      "cobblemon:aron": [
+        "male"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:haunter": [
+        "female"
+      ]
+    }
+  }
+}
