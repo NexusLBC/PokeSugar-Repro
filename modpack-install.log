@@ -1,0 +1,244 @@
+2026-02-11 23:44:21 === CurseForge Install v4.1 Started ===
+23:44:28 INFO: Getting pack info for project 1452896 version 7608770
+23:44:28 WARN: No server pack available, using client pack
+23:44:28 INFO: Downloading client pack...
+23:44:29 WARN: Using fallback download for client pack
+23:44:29 INFO: Extracting client pack...
+23:44:34 INFO: Applying overrides...
+23:44:37 INFO: Processing mods from manifest...
+23:44:37 INFO: Building download list from 234 mods...
+23:44:47 INFO: Starting parallel download/filtering of 225 mods...
+23:44:47 PROGRESS: [5/225] ⏭ Skipping manually blocked: iris-fabric-1.8.8+mc1.21.1.jar
+23:44:48 PROGRESS: [2/225] ✓ Downloaded: sit-1.21-28.jar
+23:44:48 PROGRESS: [6/225] ✓ Downloaded: letsparkour-1.21.1-1.8.jar
+23:44:48 PROGRESS: [9/225] ✓ Downloaded: NBTac-FABRIC-1.21.1-1.3.10.jar
+23:44:48 PROGRESS: [12/225] ✓ Downloaded: particle_core-0.2.4+1.21.jar
+23:44:48 PROGRESS: [4/225] ✓ Downloaded: noisium-fabric-2.3.0+mc1.21-1.21.1.jar
+23:44:48 PROGRESS: [10/225] ✓ Downloaded: redirected-fabric-1.0.0-1.21.1.jar
+23:44:48 PROGRESS: [3/225] ✓ Downloaded: globalpacks-fabric-1.21.1-21.0.6.jar
+23:44:48 PROGRESS: [7/225] ✓ Downloaded: jei-1.21.1-fabric-19.21.2.313.jar
+23:44:48 PROGRESS: [8/225] ✓ Downloaded: deimos-1.21.1-fabric-2.2.jar
+23:44:48 PROGRESS: [11/225] ✓ Downloaded: balm-fabric-1.21.1-21.0.56.jar
+23:44:48 PROGRESS: [13/225] ✓ Downloaded: cobblemon_knowlogy-fabric-1.5.0-1.21.1.jar
+23:44:49 PROGRESS: [1/225] ✓ Downloaded: sophisticatedstorage-1.21.1-1.3.7.6.127.jar
+23:44:49 PROGRESS: [15/225] ⏭ Skipping client-only: ImmersiveUI-FABRIC-0.3.0.jar
+23:44:49 PROGRESS: [20/225] ⏭ Skipping client-only: minecraft-cursor-fabric-3.10.0+1.21.1.jar
+23:44:49 PROGRESS: [23/225] ⏭ Skipping client-only: immersive-hotbar-1.0.4-1.21-1.21.1.jar
+23:44:49 PROGRESS: [19/225] ✓ Downloaded: Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.0.14.jar
+23:44:49 PROGRESS: [17/225] ✓ Downloaded: Searchables-fabric-1.21.1-1.0.2.jar
+23:44:49 PROGRESS: [21/225] ✓ Downloaded: exposure_catalog-fabric-1.1.1.jar
+23:44:49 PROGRESS: [18/225] ✓ Downloaded: particle-rain-3.0.5.jar
+23:44:49 PROGRESS: [16/225] ✓ Downloaded: FarmersDelight-1.21.1-3.2.2+refabricated.jar
+23:44:49 PROGRESS: [14/225] ✓ Downloaded: clientsort-fabric-1.3.3+1.21.jar
+23:44:49 PROGRESS: [22/225] ✓ Downloaded: rechiseled-1.1.6b-fabric-mc1.21.jar
+23:44:49 PROGRESS: [25/225] ⏭ Skipping client-only: jmi-fabric-1.21.1-1.9.jar
+23:44:49 PROGRESS: [24/225] ✓ Downloaded: Slideshow-fabric-1.21.1-1.0.3-Enhancement-1.jar
+23:44:49 PROGRESS: [29/225] ⏭ Skipping manually blocked: ShoulderSurfing-Fabric-1.21.1-4.17.1.jar
+23:44:49 PROGRESS: [26/225] ✓ Downloaded: Clumps-fabric-1.21.1-19.0.0.1.jar
+23:44:50 PROGRESS: [27/225] ✓ Downloaded: sophisticatedcore-1.21.1-1.2.9.19.161.jar
+23:44:50 PROGRESS: [32/225] ⏭ Skipping client-only: dynamiccrosshaircompat-4.4+1.21.1-fabric.jar
+23:44:50 PROGRESS: [28/225] ✓ Downloaded: exposure_polaroid-fabric-1.21.1-1.1.2.jar
+23:44:50 PROGRESS: [30/225] ✓ Downloaded: chalk-2.2.5+1.21.1.jar
+23:44:50 PROGRESS: [33/225] ✓ Downloaded: Chunky-Fabric-1.4.23.jar
+23:44:50 PROGRESS: [31/225] ✓ Downloaded: HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b.jar
+23:44:50 PROGRESS: [34/225] ✓ Downloaded: toms_storage_fabric-1.21-2.2.4.jar
+23:44:50 PROGRESS: [35/225] ✓ Downloaded: elevatorid-fabric-1.21-1.11.1.jar
+23:44:50 PROGRESS: [38/225] ✓ Downloaded: xercapaint-1.21.1-1.0.1.jar
+23:44:50 PROGRESS: [36/225] ✓ Downloaded: beautify-1.3.0+1.21.1.jar
+23:44:50 PROGRESS: [45/225] ⏭ Skipping manually blocked: enchdesc-fabric-1.21.1-21.1.8.jar
+23:44:50 PROGRESS: [37/225] ✓ Downloaded: MoogsTemplesReimagined-1.21-1.0.3.jar
+23:44:50 PROGRESS: [41/225] ⏭ Skipping client-only: dynamiccrosshair-9.10+1.21.1-fabric.jar
+23:44:50 PROGRESS: [39/225] ✓ Downloaded: NoChatReports-FABRIC-1.21.1-v2.9.1.jar
+23:44:50 PROGRESS: [40/225] ✓ Downloaded: Stoneworks-v21.1.0-1.21.1-Fabric.jar
+23:44:50 PROGRESS: [42/225] ✓ Downloaded: modernfix-fabric-5.25.1+mc1.21.1.jar
+23:44:51 PROGRESS: [43/225] ✓ Downloaded: handcrafted-fabric-1.21.1-4.0.3.jar
+23:44:51 PROGRESS: [44/225] ✓ Downloaded: regions_unexplored-fabric-1.21.1-0.5.6.1.jar
+23:44:51 PROGRESS: [51/225] ⏭ Skipping client-only: wakes-0.2.2-1.21.jar
+23:44:51 PROGRESS: [46/225] ✓ Downloaded: MoreSparkles-1.1.jar
+23:44:51 PROGRESS: [47/225] ✓ Downloaded: another_furniture-fabric-4.0.1.jar
+23:44:51 PROGRESS: [48/225] ✓ Downloaded: chunksfadein-fabric-3.0.15-1.21.jar
+23:44:51 PROGRESS: [52/225] ✓ Downloaded: wits-1.3.0+1.21-fabric.jar
+23:44:51 PROGRESS: [49/225] ✓ Downloaded: MoogsVoyagerStructures-1.21-5.0.2.jar
+23:44:51 PROGRESS: [50/225] ✓ Downloaded: emotecraft-for-MC1.21.1-2.4.12-fabric.jar
+23:44:51 PROGRESS: [53/225] ✓ Downloaded: numismatic-overhaul-0.3.5+1.21.jar
+23:44:51 PROGRESS: [54/225] ✓ Downloaded: bookshelf-fabric-1.21.1-21.1.80.jar
+23:44:51 PROGRESS: [55/225] ✓ Downloaded: dimworldborder-fabric-1.21.1-1.0.5.jar
+23:44:51 PROGRESS: [61/225] ⏭ Skipping manually blocked: EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar
+23:44:51 PROGRESS: [57/225] ✓ Downloaded: konkrete_fabric_1.9.9_MC_1.21.jar
+23:44:52 PROGRESS: [58/225] ✓ Downloaded: crawl-0.14.9.jar
+23:44:52 PROGRESS: [64/225] ⏭ Skipping client-only: ImmediatelyFast-Fabric-1.6.6+1.21.1.jar
+23:44:52 PROGRESS: [59/225] ✓ Downloaded: farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar
+23:44:52 PROGRESS: [60/225] ✓ Downloaded: quests-cobb-1.1.3.jar
+23:44:52 PROGRESS: [67/225] ⏭ Skipping client-only: subtleskybox-fabric-0.2.0.jar
+23:44:52 PROGRESS: [62/225] ✓ Downloaded: collective-1.21.1-8.3.jar
+23:44:52 PROGRESS: [63/225] ✓ Downloaded: constructionwand-1.0.6+1.21.1.jar
+23:44:52 PROGRESS: [65/225] ✓ Downloaded: nyctography-fabric-1.21.1-21.1.6.jar
+23:44:52 PROGRESS: [56/225] ✓ Downloaded: stohuns_vanity_collection-1.0.0.jar
+23:44:52 PROGRESS: [66/225] ✓ Downloaded: BEB-Fabric-1.21-5.0.0.jar
+23:44:52 PROGRESS: [69/225] ✓ Downloaded: StylishEffects-v21.1.1-1.21.1-Fabric.jar
+23:44:52 PROGRESS: [72/225] ✓ Downloaded: SimpleTMs-fabric-2.3.2.jar
+23:44:52 PROGRESS: [71/225] ✓ Downloaded: academy-mc1.21.1-v2.2.0+build.532-fabric.jar
+23:44:52 PROGRESS: [74/225] ✓ Downloaded: better_climbing-fabric-3.jar
+23:44:52 PROGRESS: [73/225] ✓ Downloaded: appleskin-fabric-mc1.21-3.0.6.jar
+23:44:53 PROGRESS: [76/225] ✓ Downloaded: shutter-2.1.2-fabric-1.21.1.jar
+23:44:53 PROGRESS: [70/225] ✓ Downloaded: scholar-fabric-1.21.1-1.1.4.jar
+23:44:53 PROGRESS: [75/225] ✓ Downloaded: Enhanced-Celestials-Fabric-1.21.1-6.0.2.5.jar
+23:44:53 PROGRESS: [68/225] ✓ Downloaded: txnilib-fabric-1.0.24-1.21.1.jar
+23:44:53 PROGRESS: [77/225] ✓ Downloaded: emi-1.1.22+1.21.1+fabric.jar
+23:44:53 PROGRESS: [78/225] ✓ Downloaded: vanity-fabric-1.21.1-5.0.2.jar
+23:44:53 PROGRESS: [79/225] ✓ Downloaded: ATi Structures V1.4.2 (1.21+).jar
+23:44:53 PROGRESS: [80/225] ✓ Downloaded: GlitchCore-fabric-1.21.1-2.1.0.0.jar
+23:44:53 PROGRESS: [87/225] ⏭ Skipping manually blocked: MouseTweaks-fabric-mc1.21-2.26.jar
+23:44:53 PROGRESS: [83/225] ✓ Downloaded: fasterrandom-5.1.0.jar
+23:44:53 PROGRESS: [82/225] ✓ Downloaded: Emojiful-Fabric-1.21-5.2.1.jar
+23:44:53 PROGRESS: [81/225] ✓ Downloaded: fireworkcapsules-fabric-1.1.0+1.21.1.jar
+23:44:53 PROGRESS: [84/225] ✓ Downloaded: MoogsSoaringStructures-1.21-2.0.0.jar
+23:44:53 PROGRESS: [89/225] ⏭ Skipping client-only: reacharound+1.21-1.3.1.jar
+23:44:53 PROGRESS: [85/225] ✓ Downloaded: timcore-fabric-1.7.1-1.27.0.jar
+23:44:53 PROGRESS: [86/225] ✓ Downloaded: cobblemon-economy-0.0.13.jar
+23:44:53 PROGRESS: [88/225] ✓ Downloaded: MoogsEndStructures-1.21-2.0.0.jar
+23:44:54 PROGRESS: [91/225] ✓ Downloaded: polymorph-fabric-1.1.0+1.21.1.jar
+23:44:54 PROGRESS: [90/225] ✓ Downloaded: arts_and_crafts-fabric-1.21.1-1.5.3.jar
+23:44:54 PROGRESS: [92/225] ✓ Downloaded: geckolib-fabric-1.21.1-4.7.6.jar
+23:44:54 PROGRESS: [93/225] ✓ Downloaded: spark-1.10.109-fabric.jar
+23:44:54 PROGRESS: [94/225] ✓ Downloaded: journeymap-fabric-1.21.1-6.0.0-beta.47.jar
+23:44:54 PROGRESS: [102/225] ⏭ Skipping manually blocked: sodium-extra-fabric-0.6.0+mc1.21.1.jar
+23:44:54 PROGRESS: [95/225] ✓ Downloaded: exposure_expanded-fabric-1.0.1.jar
+23:44:54 PROGRESS: [99/225] ⏭ Skipping manually blocked: drippyloadingscreen_fabric_3.1.0_MC_1.21.1.jar
+23:44:54 PROGRESS: [96/225] ✓ Downloaded: cobblenav-fabric-2.2.5.jar
+23:44:54 PROGRESS: [98/225] ✓ Downloaded: supermartijn642configlib-1.1.8-fabric-mc1.21.jar
+23:44:54 PROGRESS: [97/225] ✓ Downloaded: comforts-fabric-9.0.4+1.21.1.jar
+23:44:54 PROGRESS: [100/225] ✓ Downloaded: fusion-1.2.11-fabric-mc1.21.jar
+23:44:54 PROGRESS: [103/225] ✓ Downloaded: ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar
+23:44:54 PROGRESS: [101/225] ✓ Downloaded: PuzzlesLib-v21.1.39-1.21.1-Fabric.jar
+23:44:54 PROGRESS: [107/225] ⏭ Skipping client-only: effectual-1.1.0-1.21.1.jar
+23:44:54 PROGRESS: [105/225] ✓ Downloaded: playerladder-fabric-1.21-0.7.1.jar
+23:44:55 PROGRESS: [106/225] ✓ Downloaded: cloth-config-15.0.140-fabric.jar
+23:44:55 PROGRESS: [108/225] ✓ Downloaded: owo-lib-0.12.15.4+1.21.jar
+23:44:55 PROGRESS: [110/225] ✓ Downloaded: MoogsNetherStructures-1.21-2.0.1.jar
+23:44:55 PROGRESS: [109/225] ✓ Downloaded: fancymenu_fabric_3.8.1_MC_1.21.1.jar
+23:44:55 PROGRESS: [111/225] ✓ Downloaded: sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar
+23:44:55 PROGRESS: [112/225] ✓ Downloaded: cobblemon_spawn_alerts-fabric-1.11.2.jar
+23:44:55 PROGRESS: [104/225] ✓ Downloaded: VisualWorkbench-v21.1.1-1.21.1-Fabric.jar
+23:44:55 PROGRESS: [118/225] ⏭ Skipping client-only: chatanimation-1.0.6.jar
+23:44:55 PROGRESS: [115/225] ✓ Downloaded: Glassential-renewed-fabric-1.21.1-3.2.5.jar
+23:44:55 PROGRESS: [116/225] ✓ Downloaded: Rad Gyms [Cobblemon]-0.3.1-stable.jar
+23:44:55 PROGRESS: [117/225] ✓ Downloaded: Cobblemon Interface v1.4.1.zip
+23:44:55 PROGRESS: [119/225] ✓ Downloaded: OctoLib-FABRIC-0.5.0.1.jar
+23:44:55 PROGRESS: [120/225] ✓ Downloaded: mru-1.0.19+LTS+1.21.1+fabric.jar
+23:44:55 PROGRESS: [113/225] ✓ Downloaded: packetfixer-3.3.0-1.20.5-1.21.X-merged.jar
+23:44:55 PROGRESS: [127/225] ⏭ Skipping manually blocked: sodium-fabric-0.6.13+mc1.21.1.jar
+23:44:55 PROGRESS: [121/225] ✓ Downloaded: trinkets-3.10.0.jar
+23:44:55 PROGRESS: [122/225] ✓ Downloaded: the_ruler-1.3-1.21.1-fabric.jar
+23:44:56 PROGRESS: [123/225] ✓ Downloaded: yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar
+23:44:56 PROGRESS: [126/225] ⏭ Skipping client-only: no-more-popups-1.0.2.jar
+23:44:56 PROGRESS: [125/225] ✓ Downloaded: Iceberg-1.21.1-fabric-1.3.2.jar
+23:44:56 PROGRESS: [124/225] ✓ Downloaded: BetterF3-11.0.3-Fabric-1.21.1.jar
+23:44:56 PROGRESS: [114/225] ✓ Downloaded: lootr-fabric-1.21-1.10.35.91.jar
+23:44:56 PROGRESS: [128/225] ✓ Downloaded: NaturesCompass-1.21.1-2.2.7-fabric.jar
+23:44:56 PROGRESS: [129/225] ✓ Downloaded: Ping-Wheel-1.10.3-fabric-1.21.1.jar
+23:44:56 PROGRESS: [132/225] ✓ Downloaded: BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar
+23:44:56 PROGRESS: [130/225] ✓ Downloaded: fabric-api-0.116.7+1.21.1.jar
+23:44:56 PROGRESS: [131/225] ✓ Downloaded: polytone-1.21-3.5.5-fabric.jar
+23:44:56 PROGRESS: [134/225] ✓ Downloaded: CobblemonTrialsEdition-fabric-1.1.0.jar
+23:44:56 PROGRESS: [133/225] ✓ Downloaded: fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar
+23:44:56 PROGRESS: [135/225] ✓ Downloaded: moogs_structures-1.1.0-1.21-1.21.1-fabric.jar
+23:44:56 PROGRESS: [136/225] ✓ Downloaded: laserbridges-1.21.1-fabric-5.3.jar
+23:44:56 PROGRESS: [140/225] ⏭ Skipping client-only: fancytoasts-fabric-1.21.1-1.4.5.1.jar
+23:44:57 PROGRESS: [137/225] ✓ Downloaded: libraryferret-fabric-1.21.1-4.0.0.jar
+23:44:57 PROGRESS: [138/225] ✓ Downloaded: TravelersTitles-1.21.1-Fabric-5.1.3.jar
+23:44:57 PROGRESS: [139/225] ✓ Downloaded: tlib-1.3.0-1.21.1.jar
+23:44:57 PROGRESS: [141/225] ✓ Downloaded: knowlogy-fabric-0.9.1-1.21.1.jar
+23:44:57 PROGRESS: [143/225] ✓ Downloaded: chalk-colorful-addon-2.1.1.jar
+23:44:57 PROGRESS: [142/225] ✓ Downloaded: TerraBlender-fabric-1.21.1-4.1.0.8.jar
+23:44:57 PROGRESS: [144/225] ✓ Downloaded: tabtweaks-1.5.9+1.21.1-fabric.jar
+23:44:57 PROGRESS: [150/225] ⏭ Skipping client-only: bwncr-fabric-1.21.1-3.20.3.jar
+23:44:57 PROGRESS: [145/225] ✓ Downloaded: totw_modded-fabric-1.21-1.0.8.jar
+23:44:57 PROGRESS: [152/225] ⏭ Skipping client-only: lambdynamiclights-4.1.5+1.21.1.jar
+23:44:57 PROGRESS: [146/225] ✓ Downloaded: fzzy_config-0.7.2+1.21.jar
+23:44:57 PROGRESS: [154/225] ⏭ Skipping manually blocked: modmenu-11.0.3.jar
+23:44:57 PROGRESS: [148/225] ✓ Downloaded: safari-dimension-0.0.11.jar
+23:44:57 PROGRESS: [149/225] ✓ Downloaded: NBTcopy-FABRIC-1.20.1-1.0.4.jar
+23:44:57 PROGRESS: [155/225] ⏭ Skipping manually blocked: entityculling-fabric-1.8.2-mc1.21.jar
+23:44:57 PROGRESS: [147/225] ✓ Downloaded: Oh-The-Biomes-Weve-Gone-Fabric-2.4.6.jar
+23:44:57 PROGRESS: [151/225] ✓ Downloaded: sootychimneys-fabric-1.3.2.jar
+23:44:58 PROGRESS: [153/225] ✓ Downloaded: defaultoptions-fabric-1.21.1-21.1.2.jar
+23:44:58 PROGRESS: [161/225] ⏭ Skipping client-only: desiredservers-fabric-1.21.1-1.6.0.jar
+23:44:58 PROGRESS: [157/225] ✓ Downloaded: scoreboardtweaks-1.3.4+1.21.1-fabric.jar
+23:44:58 PROGRESS: [158/225] ✓ Downloaded: Cobblemon Classic Grass Pack v2.0 MC1.21.1.zip
+23:44:58 PROGRESS: [159/225] ✓ Downloaded: Controlling-fabric-1.21.1-19.0.5.jar
+23:44:58 PROGRESS: [160/225] ✓ Downloaded: player-roles-1.6.13.jar
+23:44:58 PROGRESS: [156/225] ✓ Downloaded: architectury-13.0.8-fabric.jar
+23:44:58 PROGRESS: [162/225] ✓ Downloaded: YungsApi-1.21.1-Fabric-5.1.6.jar
+23:44:58 PROGRESS: [163/225] ✓ Downloaded: tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar
+23:44:58 PROGRESS: [164/225] ✓ Downloaded: dye_depot-2.0.2-fabric.jar
+23:44:58 PROGRESS: [165/225] ✓ Downloaded: BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar
+23:44:58 PROGRESS: [166/225] ✓ Downloaded: Data_Anchor-fabric-1.21.1-2.0.0.12.jar
+23:44:58 PROGRESS: [171/225] ⏭ Skipping manually blocked: blur-fabric-5.2.2+1.21.1+1.21.1.jar
+23:44:58 PROGRESS: [167/225] ✓ Downloaded: FauxCustomEntityData-fabric-1.21.1-13.0.1.jar
+23:44:59 PROGRESS: [168/225] ✓ Downloaded: fallingleaves-1.17.1+1.21.1.jar
+23:44:59 PROGRESS: [169/225] ✓ Downloaded: polymer-bundled-0.9.18+1.21.1.jar
+23:44:59 PROGRESS: [170/225] ✓ Downloaded: moonlight-1.21-2.20.7-fabric.jar
+23:44:59 PROGRESS: [172/225] ✓ Downloaded: enchantmentdisabler-3.3.2+1.21.1.jar
+23:44:59 PROGRESS: [173/225] ✓ Downloaded: Auction-House-Cobb-1.3.jar
+23:44:59 PROGRESS: [174/225] ✓ Downloaded: Corgilib-Fabric-1.21.1-5.0.0.7.jar
+23:44:59 PROGRESS: [178/225] ✓ Downloaded: Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar
+23:44:59 PROGRESS: [181/225] ⏭ Skipping client-only: Stfu-1.2.2.jar
+23:44:59 PROGRESS: [176/225] ✓ Downloaded: athena-fabric-1.21-4.0.2.jar
+23:44:59 PROGRESS: [177/225] ✓ Downloaded: craftingtweaks-fabric-1.21.1-21.1.5.jar
+23:44:59 PROGRESS: [179/225] ✓ Downloaded: rctapi-fabric-1.21.1-0.14.3-beta.jar
+23:44:59 PROGRESS: [180/225] ✓ Downloaded: farmers-cutting-regions-unexplored-1.21.1-1.1a-fabric.jar
+23:44:59 PROGRESS: [182/225] ✓ Downloaded: Necronomicon-Fabric-1.6.0+1.21.jar
+23:45:00 PROGRESS: [190/225] ⏭ Skipping manually blocked: structurify-fabric-1.0.13+mc1.21.1.jar
+23:45:00 PROGRESS: [175/225] ✓ Downloaded: Abes-Hutts-Cobblemon-1.21.1-1.7.1-1.0.1.jar
+23:45:00 PROGRESS: [186/225] ⏭ Skipping client-only: autorun-1.21.X-0.6.0.jar
+23:45:00 PROGRESS: [184/225] ✓ Downloaded: shulkerboxtooltip-fabric-5.1.8+1.21.1.jar
+23:45:00 PROGRESS: [185/225] ✓ Downloaded: wraith-waystones-3.3.4+mc1.21.1.jar
+23:45:00 PROGRESS: [183/225] ✓ Downloaded: runelic-fabric-1.21.1-21.1.5.jar
+23:45:00 PROGRESS: [188/225] ✓ Downloaded: cwb-fabric-3.0.0+mc1.21.jar
+23:45:00 PROGRESS: [189/225] ✓ Downloaded: Zoomify-2.14.4+1.21.1.jar
+23:45:00 PROGRESS: [187/225] ✓ Downloaded: darkutils-fabric-1.21.1-21.1.1.jar
+23:45:00 PROGRESS: [192/225] ✓ Downloaded: ferritecore-7.0.2-hotfix-fabric.jar
+23:45:00 PROGRESS: [191/225] ✓ Downloaded: LeavesBeGone-v21.1.0-1.21.1-Fabric.jar
+23:45:00 PROGRESS: [193/225] ✓ Downloaded: jinxedlib-fabric-1.21.1-1.0.4.jar
+23:45:00 PROGRESS: [194/225] ✓ Downloaded: prickle-fabric-1.21.1-21.1.8.jar
+23:45:00 PROGRESS: [195/225] ✓ Downloaded: resourcefullib-fabric-1.21-3.0.12.jar
+23:45:00 PROGRESS: [196/225] ✓ Downloaded: exposure-fabric-1.21.1-1.9.11.jar
+23:45:00 PROGRESS: [198/225] ✓ Downloaded: playerxp-fabric-1.0.4+1.21.1.jar
+23:45:01 PROGRESS: [197/225] ✓ Downloaded: ftb-library-fabric-2101.1.30.jar
+23:45:01 PROGRESS: [199/225] ✓ Downloaded: pigpen-fabric-1.21.1-21.1.4.jar
+23:45:01 PROGRESS: [200/225] ✓ Downloaded: advancementframes-1.21-2.2.9-fabric.jar
+23:45:01 PROGRESS: [205/225] ⏭ Skipping client-only: sparkle-3.1.0.jar
+23:45:01 PROGRESS: [202/225] ✓ Downloaded: badpackets-fabric-0.8.2.jar
+23:45:01 PROGRESS: [201/225] ✓ Downloaded: TreeChop-1.21.1-fabric-0.19.3a.jar
+23:45:01 PROGRESS: [203/225] ✓ Downloaded: distraction_free_recipes-fabric-1.2.1-1.21.1.jar
+23:45:01 PROGRESS: [204/225] ✓ Downloaded: Luckys-Cozyhome-Refurnished-1.1.20.jar
+23:45:01 PROGRESS: [206/225] ✓ Downloaded: supermartijn642corelib-1.1.18a-fabric-mc1.21.jar
+23:45:01 PROGRESS: [207/225] ✓ Downloaded: wthit-fabric-12.5.4.jar
+23:45:01 PROGRESS: [216/225] ⏭ Skipping manually blocked: sounds-2.4.13.1+lts+1.21.1+fabric.jar
+23:45:01 PROGRESS: [212/225] ⏭ Skipping client-only: LegendaryTooltips-1.21.1-fabric-1.5.5.jar
+23:45:01 PROGRESS: [208/225] ✓ Downloaded: bobby-5.2.4+mc1.21.jar
+23:45:01 PROGRESS: [209/225] ✓ Downloaded: biomespawnpoint-1.21.1-2.4.jar
+23:45:01 PROGRESS: [214/225] ⏭ Skipping client-only: nametagtweaks-1.3.5+1.21-fabric.jar
+23:45:01 PROGRESS: [210/225] ✓ Downloaded: wwoo-2.3.4.jar
+23:45:01 PROGRESS: [211/225] ✓ Downloaded: lavender-0.1.15+1.21.jar
+23:45:01 PROGRESS: [213/225] ✓ Downloaded: titletweaks-1.1.5+1.21.1-fabric.jar
+23:45:02 PROGRESS: [217/225] ⏭ Skipping client-only: BHMenu-Fabric-1.21-2.5.3.jar
+23:45:02 PROGRESS: [215/225] ✓ Downloaded: capturexp-fabric-1.7.1-1.3.0.jar
+23:45:02 PROGRESS: [221/225] ⏭ Skipping client-only: Prism-1.21.1-fabric-1.0.11.jar
+23:45:02 PROGRESS: [222/225] ⏭ Skipping client-only: itemzoomer-1.1.0-1.21.1.jar
+23:45:02 PROGRESS: [218/225] ✓ Downloaded: ForgeConfigAPIPort-v21.1.4-1.21.1-Fabric.jar
+23:45:02 PROGRESS: [219/225] ✓ Downloaded: melody_fabric_1.0.10_MC_1.21.jar
+23:45:02 PROGRESS: [220/225] ✓ Downloaded: cupboard-fabric-1.21-2.9.jar
+23:45:02 PROGRESS: [223/225] ✓ Downloaded: connectiblechains-2.5.4+1.21.1.jar
+23:45:02 PROGRESS: [225/225] ✓ Downloaded: templates-mod-2.5.1+1.21.1.jar
+23:45:02 PROGRESS: [224/225] ✓ Downloaded: voicechat-fabric-1.21.1-2.5.35.jar
+23:45:02 INFO: Mod processing completed
+23:45:02 INFO: Getting client manifest for loader info...
+23:45:02 INFO: Downloading client pack...
+23:45:02 WARN: Using fallback download for client pack
+23:45:03 INFO: Installing fabric 0.18.1 for MC 1.21.1
+23:45:05 INFO: Cleaning up mods directory...
+23:45:05 INFO: Removed 2 zip files
+23:45:05 INFO: Blocked mods: 38
+23:45:05 INFO: Installation completed successfully!
