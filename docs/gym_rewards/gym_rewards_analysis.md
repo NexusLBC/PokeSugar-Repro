@@ -1,0 +1,480 @@
+# Gym rewards analysis
+
+## Cache/Fichier -> Pokémon -> spawn naturel
+
+### config/rad-gyms_server.json
+- arceus | spawn_naturel=False | id_valide=True
+- articuno | spawn_naturel=False | id_valide=True
+- azelf | spawn_naturel=False | id_valide=True
+- blacephalon | spawn_naturel=True | id_valide=True
+- brutebonnet | spawn_naturel=True | id_valide=True
+- buzzwole | spawn_naturel=True | id_valide=True
+- calyrex | spawn_naturel=False | id_valide=True
+- celebi | spawn_naturel=False | id_valide=True
+- celesteela | spawn_naturel=True | id_valide=True
+- chienpao | spawn_naturel=False | id_valide=True
+- chiyu | spawn_naturel=False | id_valide=True
+- cobalion | spawn_naturel=False | id_valide=True
+- cosmoem | spawn_naturel=False | id_valide=True
+- cosmog | spawn_naturel=False | id_valide=True
+- cresselia | spawn_naturel=False | id_valide=True
+- darkrai | spawn_naturel=False | id_valide=True
+- deoxys | spawn_naturel=False | id_valide=True
+- dialga | spawn_naturel=False | id_valide=True
+- diancie | spawn_naturel=False | id_valide=True
+- enamorus | spawn_naturel=False | id_valide=True
+- entei | spawn_naturel=False | id_valide=True
+- eternatus | spawn_naturel=False | id_valide=True
+- fezandipiti | spawn_naturel=False | id_valide=True
+- fluttermane | spawn_naturel=True | id_valide=True
+- genesect | spawn_naturel=False | id_valide=True
+- giratina | spawn_naturel=False | id_valide=True
+- glastrier | spawn_naturel=False | id_valide=True
+- gougingfire | spawn_naturel=True | id_valide=True
+- greattusk | spawn_naturel=True | id_valide=True
+- groudon | spawn_naturel=False | id_valide=True
+- guzzlord | spawn_naturel=True | id_valide=True
+- heatran | spawn_naturel=False | id_valide=True
+- hooh | spawn_naturel=False | id_valide=True
+- hoopa | spawn_naturel=False | id_valide=True
+- jirachi | spawn_naturel=False | id_valide=True
+- kartana | spawn_naturel=True | id_valide=True
+- keldeo | spawn_naturel=False | id_valide=True
+- koraidon | spawn_naturel=False | id_valide=True
+- kubfu | spawn_naturel=False | id_valide=True
+- kyogre | spawn_naturel=False | id_valide=True
+- kyurem | spawn_naturel=False | id_valide=True
+- landorus | spawn_naturel=False | id_valide=True
+- latias | spawn_naturel=False | id_valide=True
+- latios | spawn_naturel=False | id_valide=True
+- lugia | spawn_naturel=False | id_valide=True
+- lunala | spawn_naturel=False | id_valide=True
+- magearna | spawn_naturel=False | id_valide=True
+- manaphy | spawn_naturel=False | id_valide=True
+- marshadow | spawn_naturel=False | id_valide=True
+- melmetal | spawn_naturel=False | id_valide=True
+- meloetta | spawn_naturel=False | id_valide=True
+- meltan | spawn_naturel=False | id_valide=True
+- mesprit | spawn_naturel=False | id_valide=True
+- mew | spawn_naturel=False | id_valide=True
+- mewtwo | spawn_naturel=False | id_valide=True
+- miraidon | spawn_naturel=False | id_valide=True
+- moltres | spawn_naturel=False | id_valide=True
+- munkidori | spawn_naturel=False | id_valide=True
+- naganadel | spawn_naturel=False | id_valide=True
+- necrozma | spawn_naturel=False | id_valide=True
+- nihilego | spawn_naturel=True | id_valide=True
+- ogerpon | spawn_naturel=False | id_valide=True
+- okidogi | spawn_naturel=False | id_valide=True
+- palkia | spawn_naturel=False | id_valide=True
+- pecharunt | spawn_naturel=False | id_valide=True
+- pheromosa | spawn_naturel=True | id_valide=True
+- phione | spawn_naturel=False | id_valide=True
+- poipole | spawn_naturel=True | id_valide=True
+- ragingbolt | spawn_naturel=True | id_valide=True
+- raikou | spawn_naturel=False | id_valide=True
+- rayquaza | spawn_naturel=False | id_valide=True
+- regice | spawn_naturel=False | id_valide=True
+- regidrago | spawn_naturel=False | id_valide=True
+- regieleki | spawn_naturel=False | id_valide=True
+- regigigas | spawn_naturel=False | id_valide=True
+- regirock | spawn_naturel=False | id_valide=True
+- registeel | spawn_naturel=False | id_valide=True
+- reshiram | spawn_naturel=False | id_valide=True
+- roaringmoon | spawn_naturel=True | id_valide=True
+- sandyshocks | spawn_naturel=True | id_valide=True
+- screamtail | spawn_naturel=True | id_valide=True
+- shaymin | spawn_naturel=False | id_valide=True
+- silvally | spawn_naturel=False | id_valide=True
+- slitherwing | spawn_naturel=True | id_valide=True
+- solgaleo | spawn_naturel=False | id_valide=True
+- spectrier | spawn_naturel=False | id_valide=True
+- stakataka | spawn_naturel=True | id_valide=True
+- suicune | spawn_naturel=False | id_valide=True
+- tapubulu | spawn_naturel=False | id_valide=True
+- tapufini | spawn_naturel=False | id_valide=True
+- tapukoko | spawn_naturel=False | id_valide=True
+- tapulele | spawn_naturel=False | id_valide=True
+- terapagos | spawn_naturel=False | id_valide=True
+- terrakion | spawn_naturel=False | id_valide=True
+- thundurus | spawn_naturel=False | id_valide=True
+- tinglu | spawn_naturel=False | id_valide=True
+- tornadus | spawn_naturel=False | id_valide=True
+- typenull | spawn_naturel=False | id_valide=True
+- urshifu | spawn_naturel=False | id_valide=True
+- uxie | spawn_naturel=False | id_valide=True
+- victini | spawn_naturel=False | id_valide=True
+- virizion | spawn_naturel=False | id_valide=True
+- volcanion | spawn_naturel=False | id_valide=True
+- walkingwake | spawn_naturel=True | id_valide=True
+- wochien | spawn_naturel=False | id_valide=True
+- xerneas | spawn_naturel=False | id_valide=True
+- xurkitree | spawn_naturel=True | id_valide=True
+- yveltal | spawn_naturel=False | id_valide=True
+- zacian | spawn_naturel=False | id_valide=True
+- zamazenta | spawn_naturel=False | id_valide=True
+- zapdos | spawn_naturel=False | id_valide=True
+- zarude | spawn_naturel=False | id_valide=True
+- zekrom | spawn_naturel=False | id_valide=True
+- zeraora | spawn_naturel=False | id_valide=True
+- zygarde | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/bug.json
+- araquanid | spawn_naturel=False | id_valide=True
+- galvantula | spawn_naturel=True | id_valide=True
+- kleavor | spawn_naturel=False | id_valide=True
+- lokix | spawn_naturel=True | id_valide=True
+- slitherwing | spawn_naturel=True | id_valide=True
+- yanmega | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/dark.json
+- grimmsnarl | spawn_naturel=False | id_valide=True
+- kingambit | spawn_naturel=True | id_valide=True
+- mandibuzz | spawn_naturel=True | id_valide=True
+- meowscarada | spawn_naturel=False | id_valide=True
+- muk | spawn_naturel=True | id_valide=True
+- roaringmoon | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/dragon.json
+- baxcalibur | spawn_naturel=True | id_valide=True
+- dragalge | spawn_naturel=False | id_valide=True
+- garchomp | spawn_naturel=True | id_valide=True
+- goodra | spawn_naturel=False | id_valide=True
+- hydreigon | spawn_naturel=False | id_valide=True
+- salamence | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/electric.json
+- luxray | spawn_naturel=False | id_valide=True
+- pawmot | spawn_naturel=True | id_valide=True
+- pincurchin | spawn_naturel=False | id_valide=True
+- raichu | spawn_naturel=False | id_valide=True
+- rotom | spawn_naturel=True | id_valide=True
+- sandyshocks | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/fairy.json
+- clefairy | spawn_naturel=False | id_valide=True
+- dedenne | spawn_naturel=False | id_valide=True
+- hatterene | spawn_naturel=False | id_valide=True
+- ironvaliant | spawn_naturel=True | id_valide=True
+- klefki | spawn_naturel=False | id_valide=True
+- mimikyu | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/fighting.json
+- annihilape | spawn_naturel=False | id_valide=True
+- flamigo | spawn_naturel=False | id_valide=True
+- ironhands | spawn_naturel=True | id_valide=True
+- lilligant | spawn_naturel=False | id_valide=True
+- lucario | spawn_naturel=False | id_valide=True
+- sneasler | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/fire.json
+- arcanine | spawn_naturel=True | id_valide=True
+- ceruledge | spawn_naturel=True | id_valide=True
+- cinderace | spawn_naturel=False | id_valide=True
+- incineroar | spawn_naturel=False | id_valide=True
+- talonflame | spawn_naturel=False | id_valide=True
+- torkoal | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/flying.json
+- charizard | spawn_naturel=False | id_valide=True
+- corviknight | spawn_naturel=False | id_valide=True
+- dragonite | spawn_naturel=False | id_valide=True
+- gyarados | spawn_naturel=False | id_valide=True
+- hawlucha | spawn_naturel=False | id_valide=True
+- rotom | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/ghost.json
+- dragapult | spawn_naturel=False | id_valide=True
+- fluttermane | spawn_naturel=True | id_valide=True
+- gengar | spawn_naturel=True | id_valide=True
+- gholdengo | spawn_naturel=False | id_valide=True
+- polteageist | spawn_naturel=False | id_valide=True
+- rotom | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/grass.json
+- brutebonnet | spawn_naturel=True | id_valide=True
+- electrode | spawn_naturel=False | id_valide=True
+- hydrapple | spawn_naturel=False | id_valide=True
+- ogerpon | spawn_naturel=False | id_valide=True
+- scovillain | spawn_naturel=False | id_valide=True
+- whimsicott | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/ground.json
+- claydol | spawn_naturel=False | id_valide=True
+- flygon | spawn_naturel=False | id_valide=True
+- gastrodon | spawn_naturel=False | id_valide=True
+- gliscor | spawn_naturel=False | id_valide=True
+- irontreads | spawn_naturel=True | id_valide=True
+- ursaluna | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/ice.json
+- crabominable | spawn_naturel=False | id_valide=True
+- froslass | spawn_naturel=False | id_valide=True
+- lapras | spawn_naturel=False | id_valide=True
+- mamoswine | spawn_naturel=False | id_valide=True
+- ninetales | spawn_naturel=True | id_valide=True
+- sandslash | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/normal.json
+- farigiraf | spawn_naturel=False | id_valide=True
+- smeargle | spawn_naturel=False | id_valide=True
+- snorlax | spawn_naturel=False | id_valide=True
+- staraptor | spawn_naturel=False | id_valide=True
+- ursaluna | spawn_naturel=True | id_valide=True
+- zoroark | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/poison.json
+- crobat | spawn_naturel=True | id_valide=True
+- glimmora | spawn_naturel=False | id_valide=True
+- ironmoth | spawn_naturel=True | id_valide=True
+- revavroom | spawn_naturel=False | id_valide=True
+- toxapex | spawn_naturel=False | id_valide=True
+- toxtricity | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/psychic.json
+- cresselia | spawn_naturel=False | id_valide=True
+- delphox | spawn_naturel=False | id_valide=True
+- gallade | spawn_naturel=False | id_valide=True
+- indeedee | spawn_naturel=True | id_valide=True
+- ironleaves | spawn_naturel=True | id_valide=True
+- metagross | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/rock.json
+- archeops | spawn_naturel=False | id_valide=True
+- garganacl | spawn_naturel=False | id_valide=True
+- golem | spawn_naturel=True | id_valide=True
+- ironboulder | spawn_naturel=True | id_valide=True
+- tyranitar | spawn_naturel=False | id_valide=True
+- tyrantrum | spawn_naturel=False | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/steel.json
+- empoleon | spawn_naturel=False | id_valide=True
+- excadrill | spawn_naturel=False | id_valide=True
+- heatran | spawn_naturel=False | id_valide=True
+- ironcrown | spawn_naturel=True | id_valide=True
+- skarmory | spawn_naturel=False | id_valide=True
+- tinkaton | spawn_naturel=True | id_valide=True
+
+### datapacks/Academy/data/rad-gyms/gyms/water.json
+- dondozo | spawn_naturel=False | id_valide=True
+- palafin | spawn_naturel=False | id_valide=True
+- pelipper | spawn_naturel=True | id_valide=True
+- politoed | spawn_naturel=False | id_valide=True
+- primarina | spawn_naturel=False | id_valide=True
+- tatsugiri | spawn_naturel=False | id_valide=True
+
+## Vrais exclusifs gym (heuristique)
+- annihilape
+- araquanid
+- arceus
+- archeops
+- articuno
+- azelf
+- calyrex
+- celebi
+- charizard
+- chienpao
+- chiyu
+- cinderace
+- claydol
+- clefairy
+- cobalion
+- corviknight
+- cosmoem
+- cosmog
+- crabominable
+- cresselia
+- darkrai
+- dedenne
+- delphox
+- deoxys
+- dialga
+- diancie
+- dondozo
+- dragalge
+- dragapult
+- dragonite
+- electrode
+- empoleon
+- enamorus
+- entei
+- eternatus
+- excadrill
+- farigiraf
+- fezandipiti
+- flamigo
+- flygon
+- froslass
+- gallade
+- garganacl
+- gastrodon
+- genesect
+- gholdengo
+- giratina
+- glastrier
+- glimmora
+- gliscor
+- goodra
+- grimmsnarl
+- groudon
+- gyarados
+- hatterene
+- hawlucha
+- heatran
+- hooh
+- hoopa
+- hydrapple
+- hydreigon
+- incineroar
+- jirachi
+- keldeo
+- kleavor
+- klefki
+- koraidon
+- kubfu
+- kyogre
+- kyurem
+- landorus
+- lapras
+- latias
+- latios
+- lilligant
+- lucario
+- lugia
+- lunala
+- luxray
+- magearna
+- mamoswine
+- manaphy
+- marshadow
+- melmetal
+- meloetta
+- meltan
+- meowscarada
+- mesprit
+- metagross
+- mew
+- mewtwo
+- mimikyu
+- miraidon
+- moltres
+- munkidori
+- naganadel
+- necrozma
+- ogerpon
+- okidogi
+- palafin
+- palkia
+- pecharunt
+- phione
+- pincurchin
+- politoed
+- polteageist
+- primarina
+- raichu
+- raikou
+- rayquaza
+- regice
+- regidrago
+- regieleki
+- regigigas
+- regirock
+- registeel
+- reshiram
+- revavroom
+- salamence
+- scovillain
+- shaymin
+- silvally
+- skarmory
+- smeargle
+- sneasler
+- snorlax
+- solgaleo
+- spectrier
+- staraptor
+- suicune
+- talonflame
+- tapubulu
+- tapufini
+- tapukoko
+- tapulele
+- tatsugiri
+- terapagos
+- terrakion
+- thundurus
+- tinglu
+- torkoal
+- tornadus
+- toxapex
+- toxtricity
+- typenull
+- tyranitar
+- tyrantrum
+- urshifu
+- uxie
+- victini
+- virizion
+- volcanion
+- whimsicott
+- wochien
+- xerneas
+- yanmega
+- yveltal
+- zacian
+- zamazenta
+- zapdos
+- zarude
+- zekrom
+- zeraora
+- zoroark
+- zygarde
+
+## Faux exclusifs gym (spawn naturel aussi présent)
+- arcanine
+- baxcalibur
+- blacephalon
+- brutebonnet
+- buzzwole
+- celesteela
+- ceruledge
+- crobat
+- fluttermane
+- galvantula
+- garchomp
+- gengar
+- golem
+- gougingfire
+- greattusk
+- guzzlord
+- indeedee
+- ironboulder
+- ironcrown
+- ironhands
+- ironleaves
+- ironmoth
+- irontreads
+- ironvaliant
+- kartana
+- kingambit
+- lokix
+- mandibuzz
+- muk
+- nihilego
+- ninetales
+- pawmot
+- pelipper
+- pheromosa
+- poipole
+- ragingbolt
+- roaringmoon
+- rotom
+- sandslash
+- sandyshocks
+- screamtail
+- slitherwing
+- stakataka
+- tinkaton
+- ursaluna
+- walkingwake
+- xurkitree
