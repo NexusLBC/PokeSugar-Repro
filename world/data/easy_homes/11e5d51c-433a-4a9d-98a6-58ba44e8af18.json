@@ -1,0 +1,25 @@
+{
+  "homes": {
+    "main": {
+      "dimension": "minecraft:overworld",
+      "x": -1693.3435535087137,
+      "y": 88.0,
+      "z": -1072.063395154556,
+      "rotX": -5.700558,
+      "rotY": 156.04657
+    },
+    "overworld_-1693_88_-1072": {
+      "dimension": "minecraft:overworld",
+      "x": -1693.3435535087137,
+      "y": 88.0,
+      "z": -1072.063395154556,
+      "rotX": -5.700558,
+      "rotY": 156.04657
+    }
+  },
+  "lastVisitedHomes": [
+    null,
+    "main"
+  ],
+  "lastTeleportation": "2026-02-21T23:36:48.281941051+01:00"
+}

@@ -1,0 +1,1488 @@
+{
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "premier_ball": "2026-02-12 14:51:46 +0100",
+      "azure_ball": "2026-02-12 15:08:55 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "academy:root": {
+    "criteria": {
+      "picked_starter": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-02-12 14:58:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-02-12 15:10:18 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_red": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/spirit_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "premier_ball": "2026-02-12 14:51:46 +0100",
+      "azure_ball": "2026-02-12 15:08:55 +0100"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-02-12 15:10:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/metal_coat": {
+    "criteria": {
+      "has_iron": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-02-12 15:10:18 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-02-12 15:09:15 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/transportation/cork_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_storage_counter": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2026-02-12 15:09:13 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_black": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_green": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/weakness_policy": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_white": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pc": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_sink_counter": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blend_type/plains": {
+    "criteria": {
+      "has_ingredients": "2026-02-12 14:56:08 +0100"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2026-02-12 15:08:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2026-02-12 14:58:50 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2026-02-12 15:09:19 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/mangrove_lamp": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/healing_machine": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2026-02-12 15:08:38 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/mushroom_stew_in_campfire_pot": {
+    "criteria": {
+      "has_mushroom_stew": "2026-02-12 15:09:19 +0100",
+      "has_original_recipe": "2026-02-12 15:09:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/azure_rod": {
+    "criteria": {
+      "has_ball": "2026-02-12 15:08:55 +0100"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/saccharine_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/fire_stone_block": {
+    "criteria": {
+      "has_fire_stone": "2026-02-12 15:08:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2026-02-12 15:09:15 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_yellow": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "exposure_polaroid:recipes/tools/instant_camera": {
+    "criteria": {
+      "has_iron": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-02-12 15:10:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cleanse_tag": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/shapeless_rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2026-02-12 15:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2026-02-12 15:09:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2026-02-12 15:09:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "sootychimneys:recipe/decorations/iron_chimney": {
+    "criteria": {
+      "has_iron": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-02-12 15:09:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blend_type/snowy_plains": {
+    "criteria": {
+      "has_ingredients": "2026-02-12 14:56:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2026-02-12 14:49:41 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_wall_mirror": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/red_card": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/premier_rod": {
+    "criteria": {
+      "has_ball": "2026-02-12 14:51:46 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-02-12 15:08:40 +0100"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/oak_counter": {
+    "criteria": {
+      "has_oak_planks": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2026-02-12 15:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-02-12 15:09:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_pink": {
+    "criteria": {
+      "has_pokedex": "2026-02-12 14:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2026-02-12 15:09:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2026-02-12 15:08:38 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera": {
+    "criteria": {
+      "has_iron": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-02-12 15:09:15 +0100"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-02-12 15:01:48 +0100"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2026-02-12 15:10:14 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

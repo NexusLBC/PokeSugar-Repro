@@ -1,0 +1,49 @@
+{
+  "homes": {
+    "overworld_394_78_420": {
+      "dimension": "minecraft:overworld",
+      "x": 393.6929917429706,
+      "y": 78.0625,
+      "z": 420.34341798385657,
+      "rotX": 27.449745,
+      "rotY": 80.42651
+    },
+    "coffre": {
+      "dimension": "minecraft:overworld",
+      "x": 2373.009282668457,
+      "y": 78.0625,
+      "z": 1711.4544525764804,
+      "rotX": 17.350946,
+      "rotY": 106.20655
+    },
+    "loot": {
+      "dimension": "minecraft:overworld",
+      "x": 2589.6270276283717,
+      "y": 66.0,
+      "z": 5101.957614931605,
+      "rotX": 25.59111,
+      "rotY": -44.64314
+    },
+    "calcite": {
+      "dimension": "minecraft:overworld",
+      "x": 3693.623528395801,
+      "y": 71.0,
+      "z": 852.1268714048489,
+      "rotX": 17.106688,
+      "rotY": 166.86514
+    },
+    "ferme": {
+      "dimension": "minecraft:overworld",
+      "x": 2373.9964531212927,
+      "y": 78.0625,
+      "z": 1710.9388667832682,
+      "rotX": 13.029513,
+      "rotY": 144.91199
+    }
+  },
+  "lastVisitedHomes": [
+    "ferme",
+    "coffre"
+  ],
+  "lastTeleportation": "2026-02-17T17:52:21.838023116+01:00"
+}

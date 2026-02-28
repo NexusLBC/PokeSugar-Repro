@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "constructionwand:recipe/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2026-02-21 02:31:40 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

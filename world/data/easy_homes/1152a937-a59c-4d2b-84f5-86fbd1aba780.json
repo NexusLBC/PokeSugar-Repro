@@ -1,0 +1,25 @@
+{
+  "homes": {
+    "Mattoux": {
+      "dimension": "minecraft:overworld",
+      "x": -1861.242028661201,
+      "y": 68.0,
+      "z": -1714.1532521188285,
+      "rotX": 14.99999,
+      "rotY": 20.100708
+    },
+    "Meri": {
+      "dimension": "minecraft:overworld",
+      "x": -1684.813437828149,
+      "y": 89.0,
+      "z": -1072.9203589919875,
+      "rotX": 21.149834,
+      "rotY": 159.00409
+    }
+  },
+  "lastVisitedHomes": [
+    null,
+    "Mattoux"
+  ],
+  "lastTeleportation": "2026-02-21T11:15:08.834900066+01:00"
+}

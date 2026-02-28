@@ -1,0 +1,48 @@
+{
+  "homes": {
+    "overworld_503_69_-173": {
+      "dimension": "minecraft:overworld",
+      "x": 502.8015680649331,
+      "y": 69.0,
+      "z": -172.72280774308092,
+      "rotX": -5.3509355,
+      "rotY": 28.919556
+    },
+    "overworld_716_62_-300": {
+      "dimension": "minecraft:overworld",
+      "x": 716.4140402536644,
+      "y": 62.0,
+      "z": -299.6756679818284,
+      "rotX": 24.43553,
+      "rotY": -146.08215
+    },
+    "overworld_716_62_-298": {
+      "dimension": "minecraft:overworld",
+      "x": 715.9577317718857,
+      "y": 62.0,
+      "z": -298.0252048127831,
+      "rotX": -9.749984,
+      "rotY": -179.42714
+    },
+    "overworld_717_62_-300": {
+      "dimension": "minecraft:overworld",
+      "x": 716.5285665739043,
+      "y": 62.0,
+      "z": -299.70996150890795,
+      "rotX": 27.28553,
+      "rotY": 154.368
+    },
+    "overworld_414_79_6203": {
+      "dimension": "minecraft:overworld",
+      "x": 414.2819421897924,
+      "y": 79.0,
+      "z": 6202.861411497431,
+      "rotX": 13.049652,
+      "rotY": 12.300115
+    }
+  },
+  "lastVisitedHomes": [
+    null,
+    null
+  ]
+}

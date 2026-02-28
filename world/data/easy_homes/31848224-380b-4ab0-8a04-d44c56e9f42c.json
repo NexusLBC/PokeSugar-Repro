@@ -1,0 +1,49 @@
+{
+  "homes": {
+    "spawn": {
+      "dimension": "minecraft:overworld",
+      "x": 504.5,
+      "y": 79.0,
+      "z": -265.5,
+      "rotX": 11.100034,
+      "rotY": 1.6499993
+    },
+    "base": {
+      "dimension": "minecraft:overworld",
+      "x": 1526.5930854727321,
+      "y": 72.0,
+      "z": -2502.0359106097817,
+      "rotX": 12.150023,
+      "rotY": 64.34735
+    },
+    "E": {
+      "dimension": "minecraft:overworld",
+      "x": 4058.4043356589286,
+      "y": 67.0,
+      "z": -3808.4384993805775,
+      "rotX": -3.1501367,
+      "rotY": -112.829254
+    },
+    "M": {
+      "dimension": "minecraft:overworld",
+      "x": 1817.0482755689995,
+      "y": 15.0,
+      "z": -2375.0904764861825,
+      "rotX": 2.8501284,
+      "rotY": -177.27927
+    },
+    "ex": {
+      "dimension": "minecraft:the_end",
+      "x": 852.4913214855227,
+      "y": 117.0,
+      "z": 493.61782780475113,
+      "rotX": 6.1860375,
+      "rotY": 156.99304
+    }
+  },
+  "lastVisitedHomes": [
+    "base",
+    "ex"
+  ],
+  "lastTeleportation": "2026-02-22T15:16:05.729267351+01:00"
+}
