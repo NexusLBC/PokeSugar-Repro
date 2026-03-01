@@ -41,7 +41,7 @@
     "convenientdecor:shovel",
     "!rad-gyms:shard_.*",
     "!rad-gyms:exit_rope",
-    "rad-gyms:gym_entrance",
+    "minecraft:air",
     "!vanity:.*",
     "sophisticatedstorage:shulker_box",
     "sophisticatedstorage:basic_tier_upgrade",
