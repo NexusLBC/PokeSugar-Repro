@@ -22,7 +22,99 @@
           "chance": 0.05
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "numismatic-overhaul:bronze_coin",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 20.0,
+                "max": 60.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "numismatic-overhaul:silver_coin",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 15.0,
+                "max": 35.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "numismatic-overhaul:silver_coin",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 36.0,
+                "max": 55.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "numismatic-overhaul:gold_coin",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "academy:ha_fossil",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:shiny_fossil",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "academy:radiant_fossil",
+          "weight": 1
+        }
+      ]
     }
   ]
 }
-
