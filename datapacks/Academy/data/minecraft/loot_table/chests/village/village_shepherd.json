@@ -153,17 +153,23 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "min": 10.0,
-                "max": 80.0
+                "min": 3.0,
+                "max": 20.0
               }
             }
           ],
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.35
+              "chance": 0.105
             }
           ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.15
         }
       ]
     }
