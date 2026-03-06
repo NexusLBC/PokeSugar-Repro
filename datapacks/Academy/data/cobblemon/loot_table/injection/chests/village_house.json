@@ -110,7 +110,7 @@
         }
       ]
     },
-    {
+	{
       "rolls": 1,
       "entries": [
         {
@@ -127,63 +127,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.1
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "conditions": [
-        {
-          "condition": "minecraft:random_chance",
-          "chance": 0.15
-        }
-      ],
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "numismatic-overhaul:bronze_coin",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 3.0,
-                "max": 12.0
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "numismatic-overhaul:bronze_coin",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 13.0,
-                "max": 24.0
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "numismatic-overhaul:silver_coin",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2.0,
-                "max": 5.0
-              }
-            }
-          ]
+          "chance": 0.10
         }
       ]
     }

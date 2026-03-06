@@ -1,0 +1,1 @@
+tellraw @a [{"text":"MoreRecipes made by JoaquimPedro201 ","color":"#8D77AB"},{"text":"[","color":"#474E93"},{"text": "📃","color":"gold"},{"text":"]","color":"#474E93"}]

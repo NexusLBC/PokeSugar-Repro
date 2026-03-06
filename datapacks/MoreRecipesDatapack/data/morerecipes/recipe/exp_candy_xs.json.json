@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " h ",
+      "sgs",
+      " b "
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:sugar"
+      },
+      "g": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "h": {
+        "item": "minecraft:honey_bottle"
+      },
+      "b": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "id": "cobblemon:exp_candy_xs"
+    }
+  }
+  

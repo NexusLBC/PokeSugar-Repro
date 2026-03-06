@@ -1,0 +1,6 @@
+{
+ "result": "random_common shiny=yes aspect=radiant min_perfect_ivs=3",
+ "fossils": [
+   "academy:radiant_fossil"
+ ]
+}

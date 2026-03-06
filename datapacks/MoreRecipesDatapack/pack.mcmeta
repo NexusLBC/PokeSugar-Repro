@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {"min_inclusive": 34, "max_inclusive": 99},
+		"description": [{"text":"MoreRecipes for Cobblemon ","color":"gold"},{"text":"\nmade by JoaquimPedro201","color":"gray"}]
+        }
+}
