@@ -1,0 +1,193 @@
+jar_path,metadata,mod_id,version,name,has_assets_academy,has_data_academy,has_safari_ticket_base
+.fabric/processedMods/admiral-0.4.10+1.21.1-75c1985f0fec23c3.jar,fabric.mod.json,admiral,0.4.10+1.21.1,Admiral,False,False,False
+.fabric/processedMods/adventure-platform-fabric-5.14.1-a6b7a70abf0eed26.jar,fabric.mod.json,adventure-platform-fabric,5.14.1,adventure-platform-fabric,False,False,False
+.fabric/processedMods/ar_com_hjg_pngj-2.1.0-baab3135af0d9ce1.jar,fabric.mod.json,ar_com_hjg_pngj,2.1.0,pngj,False,False,False
+.fabric/processedMods/blue_endless_jankson-1.2.3-4c9914c700baf40e.jar,fabric.mod.json,blue_endless_jankson,1.2.3,jankson,False,False,False
+.fabric/processedMods/cardinal-components-base-6.1.2-3ac037d31445d804.jar,fabric.mod.json,cardinal-components-base,6.1.2,Cardinal Components API (base),False,False,False
+.fabric/processedMods/cardinal-components-block-6.1.0-44b0ba8342f2c79c.jar,fabric.mod.json,cardinal-components-block,6.1.0,Cardinal Components API (blocks),False,False,False
+.fabric/processedMods/cardinal-components-entity-6.1.2-434b9ba449c2bbd4.jar,fabric.mod.json,cardinal-components-entity,6.1.2,Cardinal Components API (entities),False,False,False
+.fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar,fabric.mod.json,cloth-basic-math,0.6.1,,False,False,False
+.fabric/processedMods/com_electronwill_night-config_core-3.8.2-8003ac503a67602d.jar,fabric.mod.json,com_electronwill_night-config_core,3.8.2,core,False,False,False
+.fabric/processedMods/com_electronwill_night-config_toml-3.8.2-c59af23b3d7dfeaa.jar,fabric.mod.json,com_electronwill_night-config_toml,3.8.2,toml,False,False,False
+.fabric/processedMods/com_esotericsoftware_yamlbeans_ylbeans-1.17-80afd30dddf32493.jar,fabric.mod.json,com_esotericsoftware_yamlbeans_yamlbeans,1.17,yamlbeans,False,False,False
+.fabric/processedMods/com_github_keksuccino_japng-0.5.3-d19d4f5349da6752.jar,fabric.mod.json,com_github_keksuccino_japng,0.5.3,japng,False,False,False
+.fabric/processedMods/com_github_mclegoman_releasetypeutils-2.1.0-eb2105e86d93b7aa.jar,fabric.mod.json,com_github_mclegoman_releasetypeutils,2.1.0,releasetypeutils,False,False,False
+.fabric/processedMods/com_github_rtyley_animated-gif-l-gif-lib-1.7-ba258cd60cb6cba.jar,fabric.mod.json,com_github_rtyley_animated-gif-lib-for-java,animated-gif-lib-1.7,animated-gif-lib-for-java,False,False,False
+.fabric/processedMods/com_madgag_animated-gif-lib-1.4-4a9ccbeff6c7d67a.jar,fabric.mod.json,com_madgag_animated-gif-lib,1.4,animated-gif-lib,False,False,False
+.fabric/processedMods/com_teamresourceful_bytecodecs-1.1.2-aa18922675b692bb.jar,fabric.mod.json,com_teamresourceful_bytecodecs,1.1.2,bytecodecs,False,False,False
+.fabric/processedMods/com_teamresourceful_yabn-1.0.3-e740ac8063bfc082.jar,fabric.mod.json,com_teamresourceful_yabn,1.0.3,yabn,False,False,False
+.fabric/processedMods/com_twelvemonkeys_common_common-io-3.12.0-86b1ac244fa6455c.jar,fabric.mod.json,com_twelvemonkeys_common_common-io,3.12.0,common-io,False,False,False
+.fabric/processedMods/com_twelvemonkeys_common_common-lang-3.12.0-6be701ca605fcfc7.jar,fabric.mod.json,com_twelvemonkeys_common_common-lang,3.12.0,common-lang,False,False,False
+.fabric/processedMods/com_twelvemonkeys_common_common-mage-3.12.0-deb3b1501a6070e5.jar,fabric.mod.json,com_twelvemonkeys_common_common-image,3.12.0,common-image,False,False,False
+.fabric/processedMods/com_twelvemonkeys_imageio_imageiadata-3.12.0-d4e6b5ecedfe42c.jar,fabric.mod.json,com_twelvemonkeys_imageio_imageio-metadata,3.12.0,imageio-metadata,False,False,False
+.fabric/processedMods/com_twelvemonkeys_imageio_imageicore-3.12.0-3b260d8299c9b513.jar,fabric.mod.json,com_twelvemonkeys_imageio_imageio-core,3.12.0,imageio-core,False,False,False
+.fabric/processedMods/com_twelvemonkeys_imageio_imageiwebp-3.12.0-16e1ec7310cf986c.jar,fabric.mod.json,com_twelvemonkeys_imageio_imageio-webp,3.12.0,imageio-webp,False,False,False
+.fabric/processedMods/commonnetworking-1.0.18-1.21.1-2c658b9b831f8082.jar,fabric.mod.json,commonnetworking,1.0.18-1.21.1,Common Network,False,False,False
+.fabric/processedMods/fabric-api-base-0.4.42+6573ed8c19-6cc31b79285d508d.jar,fabric.mod.json,fabric-api-base,0.4.42+6573ed8c19,Fabric API Base,False,False,False
+.fabric/processedMods/fabric-api-lookup-api-v1-1.6.71+b559734419-2e5b02b3872ee35.jar,fabric.mod.json,fabric-api-lookup-api-v1,1.6.71+b559734419,Fabric API Lookup API (v1),False,False,False
+.fabric/processedMods/fabric-biome-api-v1-13.0.31+d527f9fd19-a02c9042f0a4c56d.jar,fabric.mod.json,fabric-biome-api-v1,13.0.31+d527f9fd19,Fabric Biome API (v1),False,False,False
+.fabric/processedMods/fabric-block-api-v1-1.1.0+0bc3503219-7cf5a91ca7d57cf1.jar,fabric.mod.json,fabric-block-api-v1,1.1.0+0bc3503219,Fabric Block API (v1),False,False,False
+.fabric/processedMods/fabric-block-view-api-v2-1.0.11+ebb2264e19-ad7c0f2660955aed.jar,fabric.mod.json,fabric-block-view-api-v2,1.0.11+ebb2264e19,Fabric BlockView API (v2),False,False,False
+.fabric/processedMods/fabric-command-api-v1-1.2.49+f71b366f19-bce6999b0a6af791.jar,fabric.mod.json,fabric-command-api-v1,1.2.49+f71b366f19,Fabric Command API (v1),False,False,False
+.fabric/processedMods/fabric-command-api-v2-2.2.28+6ced4dd919-3643a08b494f099b.jar,fabric.mod.json,fabric-command-api-v2,2.2.28+6ced4dd919,Fabric Command API (v2),False,False,False
+.fabric/processedMods/fabric-commands-v0-0.2.66+df3654b319-17d79dd89339968c.jar,fabric.mod.json,fabric-commands-v0,0.2.66+df3654b319,Fabric Commands (v0),False,False,False
+.fabric/processedMods/fabric-content-registries-v0-8.0+b559734419-7b4f1de3ee451257.jar,fabric.mod.json,fabric-content-registries-v0,8.0.19+b559734419,Fabric Content Registries (v0),False,False,False
+.fabric/processedMods/fabric-convention-tags-v1-2.1.5+7f945d5b19-d458004c8b78bbda.jar,fabric.mod.json,fabric-convention-tags-v1,2.1.5+7f945d5b19,Fabric Convention Tags,False,False,False
+.fabric/processedMods/fabric-convention-tags-v2-2.11.1+a406e79519-b81fc8e0765a9c75.jar,fabric.mod.json,fabric-convention-tags-v2,2.11.1+a406e79519,Fabric Convention Tags (v2),False,False,False
+.fabric/processedMods/fabric-crash-report-info-v1-0.2.+0af3f5a719-9292aeefe21ee5a7.jar,fabric.mod.json,fabric-crash-report-info-v1,0.2.29+0af3f5a719,Fabric Crash Report Info (v1),False,False,False
+.fabric/processedMods/fabric-data-attachment-api-v1-1.+6116a37819-805fed3864c43642.jar,fabric.mod.json,fabric-data-attachment-api-v1,1.4.5+6116a37819,Fabric Data Attachment API (v1),False,False,False
+.fabric/processedMods/fabric-data-generation-api-v1-20+37516cd619-1c5dd165e7dc5910.jar,fabric.mod.json,fabric-data-generation-api-v1,20.2.34+37516cd619,Fabric Data Generation API (v1),False,False,False
+.fabric/processedMods/fabric-dimensions-v1-4.0.1+65213ef819-7097e002e73bf37.jar,fabric.mod.json,fabric-dimensions-v1,4.0.1+65213ef819,Fabric Dimensions API (v1),False,False,False
+.fabric/processedMods/fabric-entity-events-v1-1.8.0+2b27e0a419-d6bf6adc5ffcd4f0.jar,fabric.mod.json,fabric-entity-events-v1,1.8.0+2b27e0a419,Fabric Entity Events (v1),False,False,False
+.fabric/processedMods/fabric-events-interaction-v0-0.7+ba9dae0619-3c7ccce041c5169a.jar,fabric.mod.json,fabric-events-interaction-v0,0.7.13+ba9dae0619,Fabric Events Interaction (v0),False,False,False
+.fabric/processedMods/fabric-game-rule-api-v1-1.0.53+6ced4dd919-d23cd9850ea4452e.jar,fabric.mod.json,fabric-game-rule-api-v1,1.0.53+6ced4dd919,Fabric Game Rule API (v1),False,False,False
+.fabric/processedMods/fabric-item-api-v1-11.2.0+3b3cb2e819-e896de02285ffc9d.jar,fabric.mod.json,fabric-item-api-v1,11.2.0+3b3cb2e819,Fabric Item API (v1),False,False,False
+.fabric/processedMods/fabric-item-group-api-v1-4.1.7+def88e3a19-ae22d5fa506a0c26.jar,fabric.mod.json,fabric-item-group-api-v1,4.1.7+def88e3a19,Fabric Item Group API (v1),False,False,False
+.fabric/processedMods/fabric-lifecycle-events-v1-2.6.0+0865547519-b6a9009f976caa0d.jar,fabric.mod.json,fabric-lifecycle-events-v1,2.6.0+0865547519,Fabric Lifecycle Events (v1),False,False,False
+.fabric/processedMods/fabric-loot-api-v2-3.0.15+3f89f5a519-a078cbf27aee7e81.jar,fabric.mod.json,fabric-loot-api-v2,3.0.15+3f89f5a519,Fabric Loot API (v2),False,False,False
+.fabric/processedMods/fabric-loot-api-v3-1.0.3+3f89f5a519-5a07662f8d8c6c8c.jar,fabric.mod.json,fabric-loot-api-v3,1.0.3+3f89f5a519,Fabric Loot API (v3),False,False,False
+.fabric/processedMods/fabric-message-api-v1-6.0.14+8aaf3aca19-2d421cca625ebe6a.jar,fabric.mod.json,fabric-message-api-v1,6.0.14+8aaf3aca19,Fabric Message API (v1),False,False,False
+.fabric/processedMods/fabric-networking-api-v1-4.3.0+c7469b2119-e6dc189b85779bb0.jar,fabric.mod.json,fabric-networking-api-v1,4.3.0+c7469b2119,Fabric Networking API (v1),False,False,False
+.fabric/processedMods/fabric-object-builder-api-v1-15.1+40875a9319-ec4a54934a1aeec.jar,fabric.mod.json,fabric-object-builder-api-v1,15.2.1+40875a9319,Fabric Object Builder API (v1),False,False,False
+.fabric/processedMods/fabric-particles-v1-4.0.2+6573ed8c19-29589f51c24298cf.jar,fabric.mod.json,fabric-particles-v1,4.0.2+6573ed8c19,Fabric Particles (v1),False,False,False
+.fabric/processedMods/fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar,fabric.mod.json,fabric-permissions-api-v0,0.3.1,fabric-permissions-api,False,False,False
+.fabric/processedMods/fabric-recipe-api-v1-5.0.15+2475392c19-4518a2c0f22b069e.jar,fabric.mod.json,fabric-recipe-api-v1,5.0.15+2475392c19,Fabric Recipe API (v1),False,False,False
+.fabric/processedMods/fabric-registry-sync-v0-5.3.1+e3eddc2119-74dbe5c512a2e0de.jar,fabric.mod.json,fabric-registry-sync-v0,5.3.1+e3eddc2119,Fabric Registry Sync (v0),False,False,False
+.fabric/processedMods/fabric-rendering-data-attachment+73761d2e19-8b0db90ccaf7b89f.jar,fabric.mod.json,fabric-rendering-data-attachment-v1,0.3.49+73761d2e19,Fabric Rendering Data Attachment (v1),False,False,False
+.fabric/processedMods/fabric-rendering-fluids-v1-3.1.6+1daea21519-53167835bf0a6ba4.jar,fabric.mod.json,fabric-rendering-fluids-v1,3.1.6+1daea21519,Fabric Rendering Fluids (v1),False,False,False
+.fabric/processedMods/fabric-resource-conditions-api-v+8dc279b119-f10cf29237fc85ac.jar,fabric.mod.json,fabric-resource-conditions-api-v1,4.3.0+8dc279b119,Fabric Resource Conditions API (v1),False,False,False
+.fabric/processedMods/fabric-resource-loader-v0-1.3.1+5b5275af19-7967f5daeb655de2.jar,fabric.mod.json,fabric-resource-loader-v0,1.3.1+5b5275af19,Fabric Resource Loader (v0),False,False,False
+.fabric/processedMods/fabric-screen-handler-api-v1-1.30+b559734419-32c7fa978584171.jar,fabric.mod.json,fabric-screen-handler-api-v1,1.3.90+b559734419,Fabric Screen Handler API (v1),False,False,False
+.fabric/processedMods/fabric-simplelibs-2.0.0-3daf2da1aa2f2858.jar,fabric.mod.json,fabric-simplelibs,2.0.0,Simple Fabric Libs,False,False,False
+.fabric/processedMods/fabric-transfer-api-v1-5.4.3+c24bd99419-41aa747f6ac125ee.jar,fabric.mod.json,fabric-transfer-api-v1,5.4.3+c24bd99419,Fabric Transfer API (v1),False,False,False
+.fabric/processedMods/fabric-transitive-access-widener+45b9699719-52147a59382943ba.jar,fabric.mod.json,fabric-transitive-access-wideners-v1,6.2.0+45b9699719,Fabric Transitive Access Wideners (v1),False,False,False
+.fabric/processedMods/io_netty_netty-codec-http-4.1.82-f0cf518e3fd664f.jar,fabric.mod.json,io_netty_netty-codec-http,4.1.82,netty-codec-http,False,False,False
+.fabric/processedMods/io_wispforest_endec-0.1.5.1-75697be5e092a8c.jar,fabric.mod.json,io_wispforest_endec,0.1.5.1,endec,False,False,False
+.fabric/processedMods/io_wispforest_endec_gson-0.1.3.1-4c8fadc82a7ce88e.jar,fabric.mod.json,io_wispforest_endec_gson,0.1.3.1,gson,False,False,False
+.fabric/processedMods/io_wispforest_endec_jankson-0.1.3.1-cbb9f6bc792816b1.jar,fabric.mod.json,io_wispforest_endec_jankson,0.1.3.1,jankson,False,False,False
+.fabric/processedMods/io_wispforest_endec_netty-0.1.2-a36115128c438577.jar,fabric.mod.json,io_wispforest_endec_netty,0.1.2,netty,False,False,False
+.fabric/processedMods/journeymap-api-fabric-2.0.0-1.21.1-SNAPSHOT-75023d8ff5b4b7d6.jar,fabric.mod.json,journeymap-api-fabric,2.0.0-1.21.1-SNAPSHOT,JourneyMap API,False,False,False
+.fabric/processedMods/kuma_api-21.0.7-85162cd9f19b3d27.jar,fabric.mod.json,kuma_api,21.0.7,KumaAPI,False,False,False
+.fabric/processedMods/lavender-md-0.1.2+1.21-61607b64380746d.jar,fabric.mod.json,lavender-md,0.1.2+1.21,lavender-md,False,False,False
+.fabric/processedMods/lavender-md-owo-ui-0.1.2+1.21-3686f5a10941aebe.jar,fabric.mod.json,lavender-md-owo-ui,0.1.2+1.21,lavender-md-owo-ui,False,False,False
+.fabric/processedMods/midnightlib-1.6.3-3d3990fd7aec4835.jar,fabric.mod.json,midnightlib,1.6.3,MidnightLib,False,False,False
+.fabric/processedMods/mixinextras-0.5.0-1f6627383f457848.jar,fabric.mod.json,mixinextras,0.5.0,MixinExtras,False,False,False
+.fabric/processedMods/mixinsquared-0.3.3-1faaa32d484d298b.jar,fabric.mod.json,mixinsquared,0.3.3,MixinSquared,False,False,False
+.fabric/processedMods/mixson-1.4.0-b7bcd5ddb315a028.jar,fabric.mod.json,mixson,1.4.0,Mixson,False,False,False
+.fabric/processedMods/mm-2.3-dea3eead7ecec716.jar,fabric.mod.json,mm,2.3,Manningham Mills,False,False,False
+.fabric/processedMods/more_codecs-0.3.3+1.20.2-408d45e66c74cc75.jar,fabric.mod.json,more_codecs,0.3.3+1.20.2,More Codecs,False,False,False
+.fabric/processedMods/net_jodah_typetools-0.6.3-642073fc7c1a731e.jar,fabric.mod.json,net_jodah_typetools,0.6.3,typetools,False,False,False
+.fabric/processedMods/net_kyori_adventure-api-4.17.0-5f0a88d87e33e82c.jar,fabric.mod.json,net_kyori_adventure-api,4.17.0,adventure-api,False,False,False
+.fabric/processedMods/net_kyori_adventure-key-4.17.0-4191d40790494a59.jar,fabric.mod.json,net_kyori_adventure-key,4.17.0,adventure-key,False,False,False
+.fabric/processedMods/net_kyori_adventure-platform-api-4.3.3-cb5de32bc691a539.jar,fabric.mod.json,net_kyori_adventure-platform-api,4.3.3,adventure-platform-api,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-logger-lf4j-4.17.0-3a436af888d0f2d2.jar,fabric.mod.json,net_kyori_adventure-text-logger-slf4j,4.17.0,adventure-text-logger-slf4j,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-minimessage-4.17.0-151b41f9cd7d43a9.jar,fabric.mod.json,net_kyori_adventure-text-minimessage,4.17.0,adventure-text-minimessage,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-serialiansi-4.17.0-996f6a1c9e006a99.jar,fabric.mod.json,net_kyori_adventure-text-serializer-ansi,4.17.0,adventure-text-serializer-ansi,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-serialigson-4.17.0-4ba253172218bafd.jar,fabric.mod.json,net_kyori_adventure-text-serializer-gson,4.17.0,adventure-text-serializer-gson,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-serialijson-4.17.0-db816dbec7c589e1.jar,fabric.mod.json,net_kyori_adventure-text-serializer-json,4.17.0,adventure-text-serializer-json,False,False,False
+.fabric/processedMods/net_kyori_adventure-text-serialilain-4.17.0-c02ec5c9f1973278.jar,fabric.mod.json,net_kyori_adventure-text-serializer-plain,4.17.0,adventure-text-serializer-plain,False,False,False
+.fabric/processedMods/net_kyori_ansi-1.1.0-b21c9b8953a93459.jar,fabric.mod.json,net_kyori_ansi,1.1.0,ansi,False,False,False
+.fabric/processedMods/net_kyori_examination-api-1.3.0-c0387b10c23298ea.jar,fabric.mod.json,net_kyori_examination-api,1.3.0,examination-api,False,False,False
+.fabric/processedMods/net_kyori_examination-string-1.3.0-1c9f30ec9b2d1134.jar,fabric.mod.json,net_kyori_examination-string,1.3.0,examination-string,False,False,False
+.fabric/processedMods/net_kyori_option-1.0.0-d18bbf63ff931f00.jar,fabric.mod.json,net_kyori_option,1.0.0,option,False,False,False
+.fabric/processedMods/net_peanuuutz_tomlkt_tomlkt-jvm-0.3.7-e0012c4c6b89a256.jar,fabric.mod.json,net_peanuuutz_tomlkt_tomlkt-jvm,0.3.7,tomlkt-jvm,False,False,False
+.fabric/processedMods/org_commonmark_commonmark-0.21.0-2cdad01d6831c39c.jar,fabric.mod.json,org_commonmark_commonmark,0.21.0,commonmark,False,False,False
+.fabric/processedMods/org_javassist_javassist-3.29.2-GA-45181c45d12aa638.jar,fabric.mod.json,org_javassist_javassist,3.29.2-GA,javassist,False,False,False
+.fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-2.2.10-9401c09acab43caa.jar,fabric.mod.json,org_jetbrains_kotlin_kotlin-reflect,2.2.10,kotlin-reflect,False,False,False
+.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-2.2.10-2020a97885177cae.jar,fabric.mod.json,org_jetbrains_kotlin_kotlin-stdlib,2.2.10,kotlin-stdlib,False,False,False
+.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-2.2.10-70410eddd55fc48d.jar,fabric.mod.json,org_jetbrains_kotlin_kotlin-stdlib-jdk7,2.2.10,kotlin-stdlib-jdk7,False,False,False
+.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-2.2.10-f947bd38d09e14b1.jar,fabric.mod.json,org_jetbrains_kotlin_kotlin-stdlib-jdk8,2.2.10,kotlin-stdlib-jdk8,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.29.0-f3bd32b57d6b29e3.jar,fabric.mod.json,org_jetbrains_kotlinx_atomicfu-jvm,0.29.0,atomicfu-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jvm-1.10.2-dc3d13b93361afd1.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm,1.10.2,kotlinx-coroutines-core-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-cojdk8-1.10.2-8ee2d40032486432.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-coroutines-jdk8,1.10.2,kotlinx-coroutines-jdk8,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.7.1-5cc8fbc762d530db.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-datetime-jvm,0.7.1,kotlinx-datetime-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-ioe-jvm-0.8.0-1647ad0953ce087f.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-io-core-jvm,0.8.0,kotlinx-io-core-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-iog-jvm-0.8.0-d5dbd951f2c46e72.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm,0.8.0,kotlinx-io-bytestring-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-sen-jvm-1.9.0-41cf7a50c907f3b0.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-serialization-json-jvm,1.9.0,kotlinx-serialization-json-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-ser-jvm-1.9.0-460f7a7442afa196.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm,1.9.0,kotlinx-serialization-cbor-jvm,False,False,False
+.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-sere-jvm-1.9.0-e9eabd782420fd6.jar,fabric.mod.json,org_jetbrains_kotlinx_kotlinx-serialization-core-jvm,1.9.0,kotlinx-serialization-core-jvm,False,False,False
+.fabric/processedMods/org_quiltmc_parsers_gson-0.2.1-dca73e94c7c97f1f.jar,fabric.mod.json,org_quiltmc_parsers_gson,0.2.1,gson,False,False,False
+.fabric/processedMods/org_quiltmc_parsers_json-0.2.1-f4450bb516755a53.jar,fabric.mod.json,org_quiltmc_parsers_json,0.2.1,json,False,False,False
+.fabric/processedMods/org_reflections_reflections-0.10.2-1242e69f5be78cc9.jar,fabric.mod.json,org_reflections_reflections,0.10.2,reflections,False,False,False
+.fabric/processedMods/org_xerial_sqlite-jdbc-3.45.1.0-8fc8a6658c0503eb.jar,fabric.mod.json,org_xerial_sqlite-jdbc,3.45.1.0,sqlite-jdbc,False,False,False
+.fabric/processedMods/org_yaml_snakeyaml-2.2-3e7e022439444157.jar,fabric.mod.json,org_yaml_snakeyaml,2.2,snakeyaml,False,False,False
+.fabric/processedMods/packet_tweaker-0.5.5+1.21-adc27117a3ef957a.jar,fabric.mod.json,packet_tweaker,0.5.5+1.21,Packet Tweaker,False,False,False
+.fabric/processedMods/player_roles_api-1.6.13-fc46117cd2ac75c3.jar,fabric.mod.json,player_roles_api,1.6.13,Player Roles API,False,False,False
+.fabric/processedMods/playeranimator-2.0.1+1.21.1-92850e3c52e2ed6d.jar,fabric.mod.json,playeranimator,2.0.1+1.21.1,Player Animator,False,False,False
+.fabric/processedMods/polymer-autohost-0.9.18+1.21.1-70c45f6c983039a7.jar,fabric.mod.json,polymer-autohost,0.9.18+1.21.1,Polymer (Auto Host),False,False,False
+.fabric/processedMods/polymer-blocks-0.9.18+1.21.1-258011a6677e643c.jar,fabric.mod.json,polymer-blocks,0.9.18+1.21.1,Polymer (Textured Blocks),False,False,False
+.fabric/processedMods/polymer-common-0.9.18+1.21.1-abca588ea9fb2511.jar,fabric.mod.json,polymer-common,0.9.18+1.21.1,Polymer (Common),False,False,False
+.fabric/processedMods/polymer-core-0.9.18+1.21.1-659002abf83d0556.jar,fabric.mod.json,polymer-core,0.9.18+1.21.1,Polymer (Core),False,False,False
+.fabric/processedMods/polymer-networking-0.9.18+1.21.1-32bd4df2e2e24b86.jar,fabric.mod.json,polymer-networking,0.9.18+1.21.1,Polymer (Networking),False,False,False
+.fabric/processedMods/polymer-registry-sync-manipulato9.18+1.21.1-f9c276b2e2fbe698.jar,fabric.mod.json,polymer-registry-sync-manipulator,0.9.18+1.21.1,Polymer (Registry Sync Manipulator),False,False,False
+.fabric/processedMods/polymer-resource-pack-0.9.18+1.21.1-b0f4de8b1b867811.jar,fabric.mod.json,polymer-resource-pack,0.9.18+1.21.1,Polymer (Resource Pack),False,False,False
+.fabric/processedMods/polymer-virtual-entity-0.9.18+1.21.1-8b40d6f12f352e0c.jar,fabric.mod.json,polymer-virtual-entity,0.9.18+1.21.1,Polymer (Virtual Entity),False,False,False
+.fabric/processedMods/porting_lib_conditions-3.1.0-beta.47+1.21.1-ec457ac6ab016837.jar,fabric.mod.json,porting_lib_conditions,3.1.0-beta.47+1.21.1,Porting Lib Conditions,False,False,False
+.fabric/processedMods/porting_lib_core-3.1.0-beta.47+1.21.1-ae2a1659c3c6c56a.jar,fabric.mod.json,porting_lib_core,3.1.0-beta.47+1.21.1,Porting Lib Core,False,False,False
+.fabric/processedMods/porting_lib_fluids-3.1.0-beta.47+1.21.1-b4583841373629e2.jar,fabric.mod.json,porting_lib_fluids,3.1.0-beta.47+1.21.1,Porting Lib Fluids,False,False,False
+.fabric/processedMods/porting_lib_item_abilities-3.1.0a.47+1.21.1-d3cca3b6c2201f47.jar,fabric.mod.json,porting_lib_item_abilities,3.1.0-beta.47+1.21.1,Porting Lib Item Abilities,False,False,False
+.fabric/processedMods/porting_lib_lazy_registration-3.a.47+1.21.1-d793df1d23edeae5.jar,fabric.mod.json,porting_lib_lazy_registration,3.1.0-beta.47+1.21.1,Porting Lib Lazy Register,False,False,False
+.fabric/processedMods/porting_lib_level_events-3.1.0-ba.47+1.21.1-2b913734769201e8.jar,fabric.mod.json,porting_lib_level_events,3.1.0-beta.47+1.21.1,Porting Lib Level Events,False,False,False
+.fabric/processedMods/porting_lib_loot-3.1.0-beta.47+1.21.1-5e78e7f32045b2ac.jar,fabric.mod.json,porting_lib_loot,3.1.0-beta.47+1.21.1,Porting Lib Loot,False,False,False
+.fabric/processedMods/porting_lib_model_loader-3.1.0-ba.47+1.21.1-ef7df6e70ce96502.jar,fabric.mod.json,porting_lib_model_loader,3.1.0-beta.47+1.21.1,Porting Lib Model Loader,False,False,False
+.fabric/processedMods/porting_lib_render_types-3.1.0-ba.47+1.21.1-42f61e681397a56c.jar,fabric.mod.json,porting_lib_render_types,3.1.0-beta.47+1.21.1,Porting Lib Render Types,False,False,False
+.fabric/processedMods/porting_lib_transfer-3.1.0-beta.47+1.21.1-43d537768eba92a2.jar,fabric.mod.json,porting_lib_transfer,3.1.0-beta.47+1.21.1,Porting Lib Transfer,False,False,False
+.fabric/processedMods/sgui-1.6.1+1.21.1-5b06347b1e7d973.jar,fabric.mod.json,sgui,1.6.1+1.21.1,sgui,False,False,False
+.fabric/processedMods/spectrelib-0.17.2+1.21-fc5696963b8d0d7e.jar,fabric.mod.json,spectrelib,0.17.2+1.21,SpectreLib,False,False,False
+.fabric/processedMods/team_reborn_energy-4.1.0-38150fdec8f22c3c.jar,fabric.mod.json,team_reborn_energy,4.1.0,Energy,False,False,False
+.fabric/remappedJars/minecraft-1.21.1-0.18.1/server-intermediary.jar,,,,,False,False,False
+fabric-server-launch.jar,,,,,False,False,False
+libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar,,,,,False,False,False
+libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar,,,,,False,False,False
+libraries/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar,,,,,False,False,False
+libraries/com/mojang/authlib/6.0.54/authlib-6.0.54.jar,,,,,False,False,False
+libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar,,,,,False,False,False
+libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar,,,,,False,False,False
+libraries/com/mojang/logging/1.2.7/logging-1.2.7.jar,,,,,False,False,False
+libraries/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar,,,,,False,False,False
+libraries/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar,,,,,False,False,False
+libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar,,,,,False,False,False
+libraries/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar,,,,,False,False,False
+libraries/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar,,,,,False,False,False
+libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar,,,,,False,False,False
+libraries/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar,fabric.mod.json,fabricloader,0.18.1,Fabric Loader,False,False,False
+libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar,,,,,False,False,False
+libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar,,,,,False,False,False
+libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar,,,,,False,False,False
+libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar,,,,,False,False,False
+libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar,,,,,False,False,False
+libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar,,,,,False,False,False
+libraries/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar,,,,,False,False,False
+libraries/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar,,,,,False,False,False
+libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar,,,,,False,False,False
+libraries/org/joml/joml/1.10.5/joml-1.10.5.jar,,,,,False,False,False
+libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar,,,,,False,False,False
+libraries/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar,,,,,False,False,False
+libraries/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar,,,,,False,False,False
+libraries/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar,,,,,False,False,False
+libraries/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar,,,,,False,False,False
+libraries/org/ow2/asm/asm/9.9/asm-9.9.jar,,,,,False,False,False
+libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar,,,,,False,False,False
+mods/CobblemonTrialsEdition-fabric-1.1.0.jar,fabric.mod.json,cobblemontrialsedition,1.1.0,Cobblemon Trials Edition,False,False,False
+mods/ForgeConfigAPIPort-v21.1.4-1.21.1-Fabric.jar,fabric.mod.json,forgeconfigapiport,21.1.4,Forge Config API Port,False,False,False
+mods/Rad Gyms [Cobblemon]-0.3.1-stable.jar,fabric.mod.json,rad-gyms,0.3.1-stable,Rad Gyms,False,False,False
+mods/academy-mc1.21.1-v2.2.0+build.532-fabric.jar,fabric.mod.json,academy,2.2.0,Academy,True,True,False
+mods/cloth-config-15.0.140-fabric.jar,fabric.mod.json,cloth-config,15.0.140,Cloth Config v15,False,False,False
+mods/cobblemon-economy-0.0.13.jar,fabric.mod.json,cobblemon-economy,0.0.13,Cobblemon Economy,False,False,False
+mods/cobblemon_knowlogy-fabric-1.5.0-1.21.1.jar,fabric.mod.json,cobblemon_knowlogy,1.5.0,Cobblemon Knowlogy,False,False,False
+mods/cobblemon_spawn_alerts-fabric-1.11.2.jar,fabric.mod.json,cobblemon_spawn_alerts,1.11.2,Cobblemon Spawn Alerts,False,False,False
+mods/fzzy_config-0.7.2+1.21.jar,fabric.mod.json,fzzy_config,0.7.2+1.21,Fzzy Config,False,False,False
+mods/lootr-fabric-1.21-1.10.35.91.jar,fabric.mod.json,lootr,1.21-1.10.35.91,Lootr,False,False,False
+mods/rctapi-fabric-1.21.1-0.14.3-beta.jar,fabric.mod.json,rctapi,0.14.3-beta,Radical Cobblemon Trainers API,False,False,False
+mods/safari-dimension-0.0.11.jar,fabric.mod.json,safari,0.0.11,Safari Dimension,False,False,False
+mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar,fabric.mod.json,sophisticatedbackpacks,1.21.1-3.23.4.3.106,Sophisticated Backpacks,False,False,False
+mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar,fabric.mod.json,supermartijn642configlib,1.1.8,SuperMartijn642's Config Lib,False,False,False
+mods/yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar,fabric.mod.json,yet_another_config_lib_v3,3.7.1+1.21.1-fabric,YetAnotherConfigLib,False,False,False
+server.jar,,,,,False,False,False
+versions/1.21.1/server-1.21.1.jar,,,,,False,False,False
