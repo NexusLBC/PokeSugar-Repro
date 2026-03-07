@@ -12,13 +12,13 @@
     },
     "enableBWGVanillaProfessionTradeAdditions": {
       "comment": "Allows BWG Items to be added to Vanilla Profession Trades",
-      "value": true
+      "value": false
     }
   },
   "wanderingTraderTrades": {
     "enableBWGItemsTrades": {
       "comment": "Allows BWG Items to be added to Wandering Trader Offerings",
-      "value": true
+      "value": false
     }
   }
 }
