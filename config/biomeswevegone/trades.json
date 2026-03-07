@@ -8,7 +8,7 @@
   "villagerTrades": {
     "allowBWGForagerTrades": {
       "comment": "Allow BWG Forager Profession Trades",
-      "value": true
+      "value": false
     },
     "enableBWGVanillaProfessionTradeAdditions": {
       "comment": "Allows BWG Items to be added to Vanilla Profession Trades",
