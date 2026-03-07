@@ -1,6 +1,6 @@
 {
 	// Whether villagers should use Numismatic currency for trading
-	"enableVillagerTrading": false,
+	"enableVillagerTrading": true,
 	// Whether Numismatic currency should be injected into the loot tables of loot chests
 	"generateCurrencyInChests": true,
 	// Where the notification for adding/removing money from the purse should be (requires rejoining to apply)
